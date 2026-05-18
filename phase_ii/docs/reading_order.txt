@@ -5,6 +5,8 @@
 1. install.txt
 2. systemd.txt
 3. systemctl.txt
+4. scripts.txt
+5. cron.txt
 
 ## Note
 
