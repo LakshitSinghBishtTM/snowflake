@@ -1,13 +1,13 @@
 # Snowflake
 
-A simple architecture and dataset for Tor Snowflake Proxy.
+A simple architecture and dataset for Tor Snowflake Proxy.<br>
 Designed as a supplementary resource for locally running a Snowflake proxy.
 
 For running Snowflake and/or other bridges, please visit https://torproject.org and use phase_ii/docs/ as additional help.
 
 ## Use
 
-For running Snowflake and script related things, other Tor Volunteers are highly encouraged and can use the scripts freely along with documentation and other help available.
+For running Snowflake and script related things, other Tor Volunteers are highly encouraged and can use the scripts freely along with documentation and other help available.<br>
 The dataset can be used for research and analysis with proper attribution. Modified datasets or derivative works must clearly indicate changes and remain under the same license terms.
 
 ## Repository Structure
