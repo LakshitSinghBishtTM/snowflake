@@ -1,0 +1,12 @@
+## Procedure
+
+1. Make files like for example script.sh
+
+2. Make them executable
+```chmod +x script.sh```
+
+3. Run manually
+```./script.sh```
+
+Note:
+Separate files are made for easier debugging {Lesson learned from phase 1}

@@ -1,0 +1,12 @@
+# Date: 18/05/2026 & Time: 07:00
+
+## Details
+
+``Carrier - Airtel
+Network - 4G
+Connection - Prepaid (Sim)
+Use Type - Mobile hotspot
+Speed - Max. 2MB/s
+Nat Type - Restricted
+Limit - 2.5 GB per day
+IPv6 - No```

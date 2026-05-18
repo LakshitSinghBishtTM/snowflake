@@ -1,0 +1,20 @@
+# Date: 18/05/2026 & Time: 07:00
+
+## Kernel
+```[ajay@mac ~]$ uname -a
+Linux mac 7.0.8-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 15 May 2026 16:45:15 +0000 x86_64 GNU/Linux```
+
+## OS
+```[ajay@mac ~]$ cat /etc/os-release
+NAME="EndeavourOS"
+PRETTY_NAME="EndeavourOS"
+ID="endeavouros"
+ID_LIKE="arch"
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://endeavouros.com"
+DOCUMENTATION_URL="https://discovery.endeavouros.com"
+SUPPORT_URL="https://forum.endeavouros.com"
+BUG_REPORT_URL="https://forum.endeavouros.com/c/general-system/endeavouros-installation"
+PRIVACY_POLICY_URL="https://endeavouros.com/privacy-policy-2"
+LOGO="endeavouros"```

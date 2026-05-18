@@ -1,0 +1,910 @@
+Mar 15 09:53:46 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 15 09:53:46 isis snowflake-proxy[3116]: 2026/03/15 04:23:46 Proxy starting
+Mar 15 09:54:11 isis snowflake-proxy[3116]: 2026/03/15 04:24:11 NAT type: restricted
+Mar 15 10:53:45 isis snowflake-proxy[3116]: 2026/03/15 05:23:45 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 1033 KB, ↓ 279 KB.
+Mar 15 11:34:01 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 15 11:34:01 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 15 11:34:01 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 15 11:34:01 isis systemd[1]: snowflake-proxy.service: Consumed 1min 57.242s CPU time.
+-- Boot 4a7c5f8f6c11493591a1d1497ac4cc4b --
+Mar 15 13:39:56 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 15 13:39:56 isis snowflake-proxy[2203]: 2026/03/15 08:09:56 Proxy starting
+Mar 15 13:39:58 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 15 13:39:58 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 15 13:39:58 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+-- Boot 0911101a5f0845d79bc2e73fc0e56410 --
+Mar 15 13:48:18 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 15 13:48:18 isis snowflake-proxy[2198]: 2026/03/15 08:18:18 Proxy starting
+Mar 15 13:48:39 isis snowflake-proxy[2198]: 2026/03/15 08:18:39 NAT type: restricted
+Mar 15 14:48:17 isis snowflake-proxy[2198]: 2026/03/15 09:18:17 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 27591 KB, ↓ 4672 KB.
+Mar 15 15:48:17 isis snowflake-proxy[2198]: 2026/03/15 10:18:17 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 71768 KB, ↓ 4273 KB.
+Mar 15 16:48:17 isis snowflake-proxy[2198]: 2026/03/15 11:18:17 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 62828 KB, ↓ 5446 KB.
+Mar 15 17:48:17 isis snowflake-proxy[2198]: 2026/03/15 12:18:17 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 203008 KB, ↓ 10398 KB.
+Mar 15 18:48:17 isis snowflake-proxy[2198]: 2026/03/15 13:18:17 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 201907 KB, ↓ 8640 KB.
+Mar 15 19:48:17 isis snowflake-proxy[2198]: 2026/03/15 14:18:17 In the last 1h0m0s, there were 19 connections. Traffic Relayed ↑ 180198 KB, ↓ 12019 KB.
+Mar 15 20:48:17 isis snowflake-proxy[2198]: 2026/03/15 15:18:17 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 30639 KB, ↓ 3312 KB.
+Mar 15 21:48:17 isis snowflake-proxy[2198]: 2026/03/15 16:18:17 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 163807 KB, ↓ 9667 KB.
+Mar 15 22:48:17 isis snowflake-proxy[2198]: 2026/03/15 17:18:17 In the last 1h0m0s, there were 19 connections. Traffic Relayed ↑ 46106 KB, ↓ 6081 KB.
+Mar 15 23:48:17 isis snowflake-proxy[2198]: 2026/03/15 18:18:17 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 9077 KB, ↓ 2050 KB.
+Mar 16 00:48:17 isis snowflake-proxy[2198]: 2026/03/15 19:18:17 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 9256 KB, ↓ 1091 KB.
+Mar 16 01:15:39 isis snowflake-proxy[2198]: mux ERROR: 2026/03/16 01:15:39 mux: ending readLoop dispatch error io: read/write on closed pipe
+Mar 16 01:48:17 isis snowflake-proxy[2198]: 2026/03/15 20:18:17 In the last 1h0m0s, there were 6 connections. Traffic Relayed ↑ 65966 KB, ↓ 4275 KB.
+Mar 16 02:48:17 isis snowflake-proxy[2198]: 2026/03/15 21:18:17 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 54593 KB, ↓ 15230 KB.
+Mar 16 03:48:17 isis snowflake-proxy[2198]: 2026/03/15 22:18:17 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 328174 KB, ↓ 23479 KB.
+Mar 16 04:48:17 isis snowflake-proxy[2198]: 2026/03/15 23:18:17 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 14958 KB, ↓ 819 KB.
+Mar 16 05:48:17 isis snowflake-proxy[2198]: 2026/03/16 00:18:17 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 451 KB, ↓ 408 KB.
+Mar 16 06:48:17 isis snowflake-proxy[2198]: 2026/03/16 01:18:17 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 479476 KB, ↓ 24379 KB.
+Mar 16 07:48:17 isis snowflake-proxy[2198]: 2026/03/16 02:18:17 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 414776 KB, ↓ 20083 KB.
+Mar 16 08:48:17 isis snowflake-proxy[2198]: 2026/03/16 03:18:17 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 213677 KB, ↓ 38076 KB.
+Mar 16 09:48:17 isis snowflake-proxy[2198]: 2026/03/16 04:18:17 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 197275 KB, ↓ 16907 KB.
+Mar 16 10:48:17 isis snowflake-proxy[2198]: 2026/03/16 05:18:17 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 394824 KB, ↓ 63102 KB.
+Mar 16 11:48:17 isis snowflake-proxy[2198]: 2026/03/16 06:18:17 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 236859 KB, ↓ 28602 KB.
+Mar 16 12:48:17 isis snowflake-proxy[2198]: 2026/03/16 07:18:17 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 166346 KB, ↓ 8730 KB.
+Mar 16 13:48:17 isis snowflake-proxy[2198]: 2026/03/16 08:18:17 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 130920 KB, ↓ 13800 KB.
+Mar 16 14:48:17 isis snowflake-proxy[2198]: 2026/03/16 09:18:17 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 48517 KB, ↓ 9010 KB.
+Mar 16 15:48:17 isis snowflake-proxy[2198]: 2026/03/16 10:18:17 In the last 1h0m0s, there were 3 connections. Traffic Relayed ↑ 58639 KB, ↓ 3800 KB.
+Mar 16 16:48:17 isis snowflake-proxy[2198]: 2026/03/16 11:18:17 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 32711 KB, ↓ 4902 KB.
+Mar 16 17:48:17 isis snowflake-proxy[2198]: 2026/03/16 12:18:17 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 79101 KB, ↓ 5428 KB.
+Mar 16 18:48:17 isis snowflake-proxy[2198]: 2026/03/16 13:18:17 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 37834 KB, ↓ 4457 KB.
+Mar 16 19:48:17 isis snowflake-proxy[2198]: 2026/03/16 14:18:17 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 173746 KB, ↓ 11273 KB.
+Mar 16 20:48:17 isis snowflake-proxy[2198]: 2026/03/16 15:18:17 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 31016 KB, ↓ 3101 KB.
+Mar 16 21:47:48 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 16 21:47:48 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 16 21:47:48 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 16 21:47:48 isis systemd[1]: snowflake-proxy.service: Consumed 44min 55.819s CPU time, 182.7M memory peak, 17.9M memory swap peak.
+-- Boot 6381e012b927466d8a4b3ef3a5d84f4d --
+Mar 16 21:48:13 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 16 21:48:13 isis snowflake-proxy[1655]: 2026/03/16 16:18:13 Proxy starting
+Mar 16 21:48:33 isis snowflake-proxy[1655]: 2026/03/16 16:18:33 NAT type: restricted
+Mar 16 22:48:12 isis snowflake-proxy[1655]: 2026/03/16 17:18:12 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 19741 KB, ↓ 1816 KB.
+Mar 16 23:48:12 isis snowflake-proxy[1655]: 2026/03/16 18:18:12 In the last 1h0m0s, there were 19 connections. Traffic Relayed ↑ 122626 KB, ↓ 7414 KB.
+Mar 17 00:48:12 isis snowflake-proxy[1655]: 2026/03/16 19:18:12 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 117202 KB, ↓ 21567 KB.
+Mar 17 01:48:12 isis snowflake-proxy[1655]: 2026/03/16 20:18:12 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 113313 KB, ↓ 6266 KB.
+Mar 17 02:48:12 isis snowflake-proxy[1655]: 2026/03/16 21:18:12 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 22584 KB, ↓ 2763 KB.
+Mar 17 03:48:12 isis snowflake-proxy[1655]: 2026/03/16 22:18:12 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 9442 KB, ↓ 593 KB.
+Mar 17 04:48:12 isis snowflake-proxy[1655]: 2026/03/16 23:18:12 In the last 1h0m0s, there were 8 connections. Traffic Relayed ↑ 230454 KB, ↓ 18144 KB.
+Mar 17 05:48:12 isis snowflake-proxy[1655]: 2026/03/17 00:18:12 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 4945 KB, ↓ 4271 KB.
+Mar 17 06:48:12 isis snowflake-proxy[1655]: 2026/03/17 01:18:12 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 1128 KB, ↓ 642 KB.
+Mar 17 07:48:12 isis snowflake-proxy[1655]: 2026/03/17 02:18:12 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 13315 KB, ↓ 3499 KB.
+Mar 17 08:48:12 isis snowflake-proxy[1655]: 2026/03/17 03:18:12 In the last 1h0m0s, there were 6 connections. Traffic Relayed ↑ 106924 KB, ↓ 11349 KB.
+Mar 17 09:48:12 isis snowflake-proxy[1655]: 2026/03/17 04:18:12 In the last 1h0m0s, there were 8 connections. Traffic Relayed ↑ 503294 KB, ↓ 23189 KB.
+Mar 17 10:48:12 isis snowflake-proxy[1655]: 2026/03/17 05:18:12 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 59137 KB, ↓ 5040 KB.
+Mar 17 11:48:12 isis snowflake-proxy[1655]: 2026/03/17 06:18:12 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 128610 KB, ↓ 6072 KB.
+Mar 17 12:48:12 isis snowflake-proxy[1655]: 2026/03/17 07:18:12 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 2063 KB, ↓ 1096 KB.
+Mar 17 13:48:12 isis snowflake-proxy[1655]: 2026/03/17 08:18:12 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 68951 KB, ↓ 5297 KB.
+Mar 17 14:48:12 isis snowflake-proxy[1655]: 2026/03/17 09:18:12 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 59171 KB, ↓ 5524 KB.
+Mar 17 15:48:12 isis snowflake-proxy[1655]: 2026/03/17 10:18:12 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 5459 KB, ↓ 1049 KB.
+Mar 17 16:48:12 isis snowflake-proxy[1655]: 2026/03/17 11:18:12 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 423253 KB, ↓ 21264 KB.
+Mar 17 17:07:37 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 17 17:07:37 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 17 17:07:37 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 17 17:07:37 isis systemd[1]: snowflake-proxy.service: Consumed 30min 13.538s CPU time.
+-- Boot 3ec6f8ed3f204b4a8cc75b1941281548 --
+Mar 17 17:08:02 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 17 17:08:02 isis snowflake-proxy[1661]: 2026/03/17 11:38:02 Proxy starting
+Mar 17 17:08:28 isis snowflake-proxy[1661]: 2026/03/17 11:38:28 NAT type: restricted
+Mar 17 18:08:01 isis snowflake-proxy[1661]: 2026/03/17 12:38:01 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 46125 KB, ↓ 2359 KB.
+Mar 17 19:08:01 isis snowflake-proxy[1661]: 2026/03/17 13:38:01 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 28477 KB, ↓ 3715 KB.
+Mar 17 20:08:01 isis snowflake-proxy[1661]: 2026/03/17 14:38:01 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 37090 KB, ↓ 4161 KB.
+Mar 17 21:08:01 isis snowflake-proxy[1661]: 2026/03/17 15:38:01 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 914518 KB, ↓ 87259 KB.
+Mar 17 22:08:01 isis snowflake-proxy[1661]: 2026/03/17 16:38:01 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 98141 KB, ↓ 6675 KB.
+Mar 17 23:08:01 isis snowflake-proxy[1661]: 2026/03/17 17:38:01 In the last 1h0m0s, there were 4 connections. Traffic Relayed ↑ 1650 KB, ↓ 819 KB.
+Mar 18 00:08:01 isis snowflake-proxy[1661]: 2026/03/17 18:38:01 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 168689 KB, ↓ 14118 KB.
+Mar 18 01:08:01 isis snowflake-proxy[1661]: 2026/03/17 19:38:01 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 31573 KB, ↓ 4699 KB.
+Mar 18 02:08:01 isis snowflake-proxy[1661]: 2026/03/17 20:38:01 In the last 1h0m0s, there were 3 connections. Traffic Relayed ↑ 79019 KB, ↓ 1435 KB.
+Mar 18 03:08:01 isis snowflake-proxy[1661]: 2026/03/17 21:38:01 In the last 1h0m0s, there were 2 connections. Traffic Relayed ↑ 24358 KB, ↓ 1943 KB.
+Mar 18 04:08:01 isis snowflake-proxy[1661]: 2026/03/17 22:38:01 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 149198 KB, ↓ 19043 KB.
+Mar 18 05:08:01 isis snowflake-proxy[1661]: 2026/03/17 23:38:01 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 368805 KB, ↓ 32258 KB.
+Mar 18 06:08:01 isis snowflake-proxy[1661]: 2026/03/18 00:38:01 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 32579 KB, ↓ 1767 KB.
+Mar 18 07:08:01 isis snowflake-proxy[1661]: 2026/03/18 01:38:01 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 1971 KB, ↓ 277 KB.
+Mar 18 08:08:01 isis snowflake-proxy[1661]: 2026/03/18 02:38:01 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 3087 KB, ↓ 6552 KB.
+Mar 18 09:08:01 isis snowflake-proxy[1661]: 2026/03/18 03:38:01 In the last 1h0m0s, there were 8 connections. Traffic Relayed ↑ 264655 KB, ↓ 16388 KB.
+Mar 18 10:08:01 isis snowflake-proxy[1661]: 2026/03/18 04:38:01 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 315294 KB, ↓ 14346 KB.
+Mar 18 11:08:01 isis snowflake-proxy[1661]: 2026/03/18 05:38:01 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 319683 KB, ↓ 15931 KB.
+Mar 18 12:08:01 isis snowflake-proxy[1661]: 2026/03/18 06:38:01 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 66970 KB, ↓ 6321 KB.
+Mar 18 13:08:01 isis snowflake-proxy[1661]: 2026/03/18 07:38:01 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 1883038 KB, ↓ 67201 KB.
+Mar 18 14:08:01 isis snowflake-proxy[1661]: 2026/03/18 08:38:01 In the last 1h0m0s, there were 5 connections. Traffic Relayed ↑ 76425 KB, ↓ 237580 KB.
+Mar 18 14:20:29 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 18 14:20:29 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 18 14:20:29 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 18 14:20:29 isis systemd[1]: snowflake-proxy.service: Consumed 44min 9.822s CPU time.
+-- Boot acddc40b6f5d41b8a1f966ac1c82e292 --
+Mar 18 14:20:53 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 18 14:20:53 isis snowflake-proxy[1655]: 2026/03/18 08:50:53 Proxy starting
+Mar 18 14:21:19 isis snowflake-proxy[1655]: 2026/03/18 08:51:19 NAT type: restricted
+Mar 18 15:20:53 isis snowflake-proxy[1655]: 2026/03/18 09:50:53 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 6754 KB, ↓ 1399 KB.
+Mar 18 16:20:53 isis snowflake-proxy[1655]: 2026/03/18 10:50:53 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 217113 KB, ↓ 12048 KB.
+Mar 18 17:20:53 isis snowflake-proxy[1655]: 2026/03/18 11:50:53 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 207320 KB, ↓ 12808 KB.
+Mar 18 18:20:53 isis snowflake-proxy[1655]: 2026/03/18 12:50:53 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 9650 KB, ↓ 1576 KB.
+Mar 18 19:20:53 isis snowflake-proxy[1655]: 2026/03/18 13:50:53 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 50753 KB, ↓ 8063 KB.
+Mar 18 20:20:53 isis snowflake-proxy[1655]: 2026/03/18 14:50:53 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 249421 KB, ↓ 19824 KB.
+Mar 18 21:20:53 isis snowflake-proxy[1655]: 2026/03/18 15:50:53 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 233274 KB, ↓ 17336 KB.
+Mar 18 22:03:24 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 18 22:03:24 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 18 22:03:24 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 18 22:03:24 isis systemd[1]: snowflake-proxy.service: Consumed 11min 52.511s CPU time.
+-- Boot a3ab7456b525481da71b4120a6504b8d --
+Mar 18 22:10:44 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 18 22:10:44 isis snowflake-proxy[1632]: 2026/03/18 16:40:44 Proxy starting
+Mar 18 22:11:21 isis snowflake-proxy[1632]: 2026/03/18 16:41:21 NAT type: restricted
+Mar 18 23:10:44 isis snowflake-proxy[1632]: 2026/03/18 17:40:44 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 22135 KB, ↓ 3457 KB.
+Mar 19 00:10:44 isis snowflake-proxy[1632]: 2026/03/18 18:40:44 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 20650 KB, ↓ 2700 KB.
+Mar 19 01:10:44 isis snowflake-proxy[1632]: 2026/03/18 19:40:44 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 36831 KB, ↓ 2379 KB.
+Mar 19 02:10:44 isis snowflake-proxy[1632]: 2026/03/18 20:40:44 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 28714 KB, ↓ 8058 KB.
+Mar 19 03:10:44 isis snowflake-proxy[1632]: 2026/03/18 21:40:44 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 1177037 KB, ↓ 46754 KB.
+Mar 19 04:10:44 isis snowflake-proxy[1632]: 2026/03/18 22:40:44 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 146765 KB, ↓ 18748 KB.
+Mar 19 05:10:44 isis snowflake-proxy[1632]: 2026/03/18 23:40:44 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 989179 KB, ↓ 50515 KB.
+Mar 19 06:10:44 isis snowflake-proxy[1632]: 2026/03/19 00:40:44 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 71299 KB, ↓ 3605 KB.
+Mar 19 07:10:44 isis snowflake-proxy[1632]: 2026/03/19 01:40:44 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 47141 KB, ↓ 3751 KB.
+Mar 19 08:10:44 isis snowflake-proxy[1632]: 2026/03/19 02:40:44 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 940 KB, ↓ 648 KB.
+Mar 19 09:10:44 isis snowflake-proxy[1632]: 2026/03/19 03:40:44 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 106132 KB, ↓ 3035 KB.
+Mar 19 10:10:44 isis snowflake-proxy[1632]: 2026/03/19 04:40:44 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 8544 KB, ↓ 1656 KB.
+Mar 19 11:10:44 isis snowflake-proxy[1632]: 2026/03/19 05:40:44 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 19551 KB, ↓ 1408 KB.
+Mar 19 12:10:44 isis snowflake-proxy[1632]: 2026/03/19 06:40:44 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 35125 KB, ↓ 3950 KB.
+Mar 19 13:10:44 isis snowflake-proxy[1632]: 2026/03/19 07:40:44 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 29692 KB, ↓ 4957 KB.
+Mar 19 14:10:44 isis snowflake-proxy[1632]: 2026/03/19 08:40:44 In the last 1h0m0s, there were 5 connections. Traffic Relayed ↑ 81929 KB, ↓ 3259 KB.
+Mar 19 15:10:44 isis snowflake-proxy[1632]: 2026/03/19 09:40:44 In the last 1h0m0s, there were 4 connections. Traffic Relayed ↑ 181122 KB, ↓ 10385 KB.
+Mar 19 16:10:44 isis snowflake-proxy[1632]: 2026/03/19 10:40:44 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 9539 KB, ↓ 4706 KB.
+Mar 19 17:10:44 isis snowflake-proxy[1632]: 2026/03/19 11:40:44 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 18128 KB, ↓ 2542 KB.
+Mar 19 18:10:44 isis snowflake-proxy[1632]: 2026/03/19 12:40:44 In the last 1h0m0s, there were 7 connections. Traffic Relayed ↑ 75838 KB, ↓ 3735 KB.
+Mar 19 19:10:44 isis snowflake-proxy[1632]: 2026/03/19 13:40:44 In the last 1h0m0s, there were 4 connections. Traffic Relayed ↑ 6185 KB, ↓ 800 KB.
+Mar 19 20:10:44 isis snowflake-proxy[1632]: 2026/03/19 14:40:44 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 25201 KB, ↓ 6171 KB.
+Mar 19 21:10:44 isis snowflake-proxy[1632]: 2026/03/19 15:40:44 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 20915 KB, ↓ 5432 KB.
+Mar 19 22:10:44 isis snowflake-proxy[1632]: 2026/03/19 16:40:44 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 115514 KB, ↓ 6417 KB.
+Mar 19 23:10:44 isis snowflake-proxy[1632]: 2026/03/19 17:40:44 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 3733 KB, ↓ 913 KB.
+Mar 20 00:10:44 isis snowflake-proxy[1632]: 2026/03/19 18:40:44 In the last 1h0m0s, there were 5 connections. Traffic Relayed ↑ 53812 KB, ↓ 2348 KB.
+Mar 20 01:10:44 isis snowflake-proxy[1632]: 2026/03/19 19:40:44 In the last 1h0m0s, there were 6 connections. Traffic Relayed ↑ 17937 KB, ↓ 9672 KB.
+Mar 20 02:10:44 isis snowflake-proxy[1632]: 2026/03/19 20:40:44 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 371193 KB, ↓ 30768 KB.
+Mar 20 03:10:44 isis snowflake-proxy[1632]: 2026/03/19 21:40:44 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 27278 KB, ↓ 11812 KB.
+Mar 20 04:10:44 isis snowflake-proxy[1632]: 2026/03/19 22:40:44 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 8017 KB, ↓ 2261 KB.
+Mar 20 05:10:44 isis snowflake-proxy[1632]: 2026/03/19 23:40:44 In the last 1h0m0s, there were 7 connections. Traffic Relayed ↑ 1039 KB, ↓ 251 KB.
+Mar 20 05:51:04 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 20 05:51:04 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 20 05:51:04 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 20 05:51:04 isis systemd[1]: snowflake-proxy.service: Consumed 43min 34.545s CPU time.
+-- Boot 014d35538484469898268530a79da47e --
+Mar 20 05:51:28 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 20 05:51:28 isis snowflake-proxy[1634]: 2026/03/20 00:21:28 Proxy starting
+Mar 20 05:51:49 isis snowflake-proxy[1634]: 2026/03/20 00:21:49 NAT type: restricted
+Mar 20 06:51:28 isis snowflake-proxy[1634]: 2026/03/20 01:21:28 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 2573 KB, ↓ 522 KB.
+Mar 20 07:27:11 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 20 07:27:11 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 20 07:27:11 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 20 07:27:11 isis systemd[1]: snowflake-proxy.service: Consumed 20.004s CPU time.
+-- Boot 8dcdb3c865e74ecbbcbeea54494fc60f --
+Mar 20 07:27:35 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 20 07:27:35 isis snowflake-proxy[1658]: 2026/03/20 01:57:35 Proxy starting
+Mar 20 07:27:55 isis snowflake-proxy[1658]: 2026/03/20 01:57:55 NAT type: restricted
+Mar 20 08:27:35 isis snowflake-proxy[1658]: 2026/03/20 02:57:35 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 87754 KB, ↓ 5143 KB.
+Mar 20 09:27:35 isis snowflake-proxy[1658]: 2026/03/20 03:57:35 In the last 1h0m0s, there were 8 connections. Traffic Relayed ↑ 1904 KB, ↓ 411 KB.
+Mar 20 10:27:35 isis snowflake-proxy[1658]: 2026/03/20 04:57:35 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 25971 KB, ↓ 1413 KB.
+Mar 20 11:27:35 isis snowflake-proxy[1658]: 2026/03/20 05:57:35 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 48057 KB, ↓ 3067 KB.
+Mar 20 12:27:35 isis snowflake-proxy[1658]: 2026/03/20 06:57:35 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 77863 KB, ↓ 5704 KB.
+Mar 20 13:27:35 isis snowflake-proxy[1658]: 2026/03/20 07:57:35 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 967783 KB, ↓ 227510 KB.
+Mar 20 14:27:35 isis snowflake-proxy[1658]: 2026/03/20 08:57:35 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 426548 KB, ↓ 24225 KB.
+Mar 20 15:27:35 isis snowflake-proxy[1658]: 2026/03/20 09:57:35 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 8494 KB, ↓ 1696 KB.
+Mar 20 15:33:58 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 20 15:33:58 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 20 15:33:58 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 20 15:33:58 isis systemd[1]: snowflake-proxy.service: Consumed 15min 22.538s CPU time, 32.8M memory peak, 0B memory swap peak.
+-- Boot c791a1cf128340109666a3effe501b6e --
+Mar 20 15:35:52 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 20 15:35:52 isis snowflake-proxy[1651]: 2026/03/20 10:05:52 Proxy starting
+Mar 20 15:36:14 isis snowflake-proxy[1651]: 2026/03/20 10:06:14 NAT type: restricted
+Mar 20 16:35:52 isis snowflake-proxy[1651]: 2026/03/20 11:05:52 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 69142 KB, ↓ 6010 KB.
+Mar 20 17:35:52 isis snowflake-proxy[1651]: 2026/03/20 12:05:52 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 101331 KB, ↓ 5490 KB.
+Mar 20 18:35:52 isis snowflake-proxy[1651]: 2026/03/20 13:05:52 In the last 1h0m0s, there were 19 connections. Traffic Relayed ↑ 880051 KB, ↓ 50788 KB.
+Mar 20 19:35:52 isis snowflake-proxy[1651]: 2026/03/20 14:05:52 In the last 1h0m0s, there were 5 connections. Traffic Relayed ↑ 13790 KB, ↓ 1354 KB.
+Mar 20 20:15:46 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 20 20:15:46 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 20 20:15:46 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 20 20:15:46 isis systemd[1]: snowflake-proxy.service: Consumed 9min 31.675s CPU time, 92.1M memory peak, 0B memory swap peak.
+-- Boot 183f2dfac56a483ab443d036de1c7220 --
+Mar 20 20:16:12 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 20 20:16:13 isis snowflake-proxy[1629]: 2026/03/20 14:46:13 Proxy starting
+Mar 20 20:16:36 isis snowflake-proxy[1629]: 2026/03/20 14:46:36 NAT type: restricted
+Mar 20 21:16:13 isis snowflake-proxy[1629]: 2026/03/20 15:46:13 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 4506 KB, ↓ 1250 KB.
+Mar 20 22:16:13 isis snowflake-proxy[1629]: 2026/03/20 16:46:13 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 77925 KB, ↓ 6621 KB.
+Mar 20 23:16:13 isis snowflake-proxy[1629]: 2026/03/20 17:46:13 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 136610 KB, ↓ 19235 KB.
+Mar 21 00:16:13 isis snowflake-proxy[1629]: 2026/03/20 18:46:13 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 189638 KB, ↓ 14114 KB.
+Mar 21 01:16:13 isis snowflake-proxy[1629]: 2026/03/20 19:46:13 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 27618 KB, ↓ 4509 KB.
+Mar 21 02:16:13 isis snowflake-proxy[1629]: 2026/03/20 20:46:13 In the last 1h0m0s, there were 19 connections. Traffic Relayed ↑ 31810 KB, ↓ 5933 KB.
+Mar 21 03:16:13 isis snowflake-proxy[1629]: 2026/03/20 21:46:13 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 9785 KB, ↓ 3868 KB.
+Mar 21 04:16:13 isis snowflake-proxy[1629]: 2026/03/20 22:46:13 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 4098 KB, ↓ 1111 KB.
+Mar 21 05:16:13 isis snowflake-proxy[1629]: 2026/03/20 23:46:13 In the last 1h0m0s, there were 19 connections. Traffic Relayed ↑ 8977 KB, ↓ 1545 KB.
+Mar 21 06:16:13 isis snowflake-proxy[1629]: 2026/03/21 00:46:13 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 15148 KB, ↓ 1603 KB.
+Mar 21 07:16:13 isis snowflake-proxy[1629]: 2026/03/21 01:46:13 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 2390 KB, ↓ 770 KB.
+Mar 21 08:51:32 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 21 08:51:32 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 21 08:51:32 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 21 08:51:32 isis systemd[1]: snowflake-proxy.service: Consumed 7min 56.773s CPU time, 44.7M memory peak, 0B memory swap peak.
+-- Boot 68c8c93373b34c908ca9bd4314f2778a --
+Mar 21 09:20:19 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 21 09:20:19 isis snowflake-proxy[1623]: 2026/03/21 03:50:19 Proxy starting
+Mar 21 09:20:49 isis snowflake-proxy[1623]: 2026/03/21 03:50:49 NAT type: restricted
+Mar 21 10:20:21 isis snowflake-proxy[1623]: 2026/03/21 04:50:21 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 70657 KB, ↓ 4068 KB.
+Mar 21 11:20:21 isis snowflake-proxy[1623]: 2026/03/21 05:50:21 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 100148 KB, ↓ 7567 KB.
+Mar 21 12:20:21 isis snowflake-proxy[1623]: 2026/03/21 06:50:21 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 33599 KB, ↓ 3892 KB.
+Mar 21 13:20:21 isis snowflake-proxy[1623]: 2026/03/21 07:50:21 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 323989 KB, ↓ 19120 KB.
+Mar 21 13:55:45 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 21 13:55:45 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 21 13:55:45 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 21 13:55:45 isis systemd[1]: snowflake-proxy.service: Consumed 6min 34.060s CPU time.
+-- Boot 6bf2fa83814945799ee874918095fc5c --
+Mar 21 13:56:10 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 21 13:56:10 isis snowflake-proxy[1626]: 2026/03/21 08:26:10 Proxy starting
+Mar 21 13:56:32 isis snowflake-proxy[1626]: 2026/03/21 08:26:32 NAT type: restricted
+Mar 21 14:56:09 isis snowflake-proxy[1626]: 2026/03/21 09:26:09 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 155068 KB, ↓ 8501 KB.
+Mar 21 15:56:09 isis snowflake-proxy[1626]: 2026/03/21 10:26:09 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 427689 KB, ↓ 18268 KB.
+Mar 21 16:25:43 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 21 16:25:43 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 21 16:25:43 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 21 16:25:43 isis systemd[1]: snowflake-proxy.service: Consumed 5min 45.685s CPU time.
+-- Boot bad759850c9c455e906c9e7a68dce900 --
+Mar 21 16:26:09 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 21 16:26:09 isis snowflake-proxy[1627]: 2026/03/21 10:56:09 Proxy starting
+Mar 21 16:26:30 isis snowflake-proxy[1627]: 2026/03/21 10:56:30 NAT type: restricted
+Mar 21 16:33:36 isis snowflake-proxy[1627]: mux ERROR: 2026/03/21 16:33:36 mux: ending readLoop dispatch error io: read/write on closed pipe
+Mar 21 17:26:09 isis snowflake-proxy[1627]: 2026/03/21 11:56:09 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 51872 KB, ↓ 3378 KB.
+Mar 21 18:26:09 isis snowflake-proxy[1627]: 2026/03/21 12:56:09 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 18751 KB, ↓ 2816 KB.
+Mar 21 19:26:09 isis snowflake-proxy[1627]: 2026/03/21 13:56:09 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 42291 KB, ↓ 6771 KB.
+Mar 21 20:26:09 isis snowflake-proxy[1627]: 2026/03/21 14:56:09 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 201195 KB, ↓ 18244 KB.
+Mar 21 21:26:09 isis snowflake-proxy[1627]: 2026/03/21 15:56:09 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 37665 KB, ↓ 9434 KB.
+Mar 21 22:26:09 isis snowflake-proxy[1627]: 2026/03/21 16:56:09 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 1430154 KB, ↓ 80156 KB.
+Mar 21 23:26:09 isis snowflake-proxy[1627]: 2026/03/21 17:56:09 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 14207 KB, ↓ 16897 KB.
+Mar 22 00:26:09 isis snowflake-proxy[1627]: 2026/03/21 18:56:09 In the last 1h0m0s, there were 34 connections. Traffic Relayed ↑ 26278 KB, ↓ 10169 KB.
+Mar 22 01:26:09 isis snowflake-proxy[1627]: 2026/03/21 19:56:09 In the last 1h0m0s, there were 34 connections. Traffic Relayed ↑ 14646 KB, ↓ 1858 KB.
+Mar 22 02:26:09 isis snowflake-proxy[1627]: 2026/03/21 20:56:09 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 30519 KB, ↓ 3560 KB.
+Mar 22 03:26:09 isis snowflake-proxy[1627]: 2026/03/21 21:56:09 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 17915 KB, ↓ 3443 KB.
+Mar 22 04:26:09 isis snowflake-proxy[1627]: 2026/03/21 22:56:09 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 405411 KB, ↓ 19212 KB.
+Mar 22 05:26:09 isis snowflake-proxy[1627]: 2026/03/21 23:56:09 In the last 1h0m0s, there were 19 connections. Traffic Relayed ↑ 27743 KB, ↓ 2464 KB.
+Mar 22 06:26:09 isis snowflake-proxy[1627]: 2026/03/22 00:56:09 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 2282 KB, ↓ 949 KB.
+Mar 22 07:26:09 isis snowflake-proxy[1627]: 2026/03/22 01:56:09 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 377513 KB, ↓ 18524 KB.
+Mar 22 08:26:09 isis snowflake-proxy[1627]: 2026/03/22 02:56:09 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 1681 KB, ↓ 422 KB.
+Mar 22 09:26:09 isis snowflake-proxy[1627]: 2026/03/22 03:56:09 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 5415 KB, ↓ 1111 KB.
+Mar 22 10:26:09 isis snowflake-proxy[1627]: 2026/03/22 04:56:09 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 53743 KB, ↓ 5571 KB.
+Mar 22 11:26:09 isis snowflake-proxy[1627]: 2026/03/22 05:56:09 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 16212 KB, ↓ 2581 KB.
+Mar 22 12:26:09 isis snowflake-proxy[1627]: 2026/03/22 06:56:09 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 196571 KB, ↓ 13768 KB.
+Mar 22 13:26:09 isis snowflake-proxy[1627]: 2026/03/22 07:56:09 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 424088 KB, ↓ 29700 KB.
+Mar 22 14:26:09 isis snowflake-proxy[1627]: 2026/03/22 08:56:09 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 180052 KB, ↓ 9859 KB.
+Mar 22 15:26:09 isis snowflake-proxy[1627]: 2026/03/22 09:56:09 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 74553 KB, ↓ 7178 KB.
+Mar 22 16:26:09 isis snowflake-proxy[1627]: 2026/03/22 10:56:09 In the last 1h0m0s, there were 32 connections. Traffic Relayed ↑ 10417 KB, ↓ 4505 KB.
+Mar 22 17:26:09 isis snowflake-proxy[1627]: 2026/03/22 11:56:09 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 434750 KB, ↓ 22698 KB.
+Mar 22 17:53:06 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 22 17:53:06 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 22 17:53:06 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 22 17:53:06 isis systemd[1]: snowflake-proxy.service: Consumed 43min 51.089s CPU time, 47.1M memory peak, 0B memory swap peak.
+-- Boot dfb027f7552147479b5959869f92160e --
+Mar 22 17:53:35 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 22 17:53:35 isis snowflake-proxy[1632]: 2026/03/22 12:23:35 Proxy starting
+Mar 22 17:53:56 isis snowflake-proxy[1632]: 2026/03/22 12:23:56 NAT type: restricted
+Mar 22 18:53:35 isis snowflake-proxy[1632]: 2026/03/22 13:23:35 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 98383 KB, ↓ 9330 KB.
+Mar 22 19:53:35 isis snowflake-proxy[1632]: 2026/03/22 14:23:35 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 6327 KB, ↓ 2181 KB.
+Mar 22 20:53:35 isis snowflake-proxy[1632]: 2026/03/22 15:23:35 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 15567 KB, ↓ 2688 KB.
+Mar 22 21:53:35 isis snowflake-proxy[1632]: 2026/03/22 16:23:35 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 52742 KB, ↓ 4780 KB.
+Mar 22 22:53:35 isis snowflake-proxy[1632]: 2026/03/22 17:23:35 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 247105 KB, ↓ 19511 KB.
+Mar 22 23:53:35 isis snowflake-proxy[1632]: 2026/03/22 18:23:35 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 90400 KB, ↓ 8804 KB.
+Mar 23 00:53:35 isis snowflake-proxy[1632]: 2026/03/22 19:23:35 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 199828 KB, ↓ 12073 KB.
+Mar 23 01:53:35 isis snowflake-proxy[1632]: 2026/03/22 20:23:35 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 126527 KB, ↓ 6618 KB.
+Mar 23 02:53:35 isis snowflake-proxy[1632]: 2026/03/22 21:23:35 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 14208 KB, ↓ 4473 KB.
+Mar 23 03:53:35 isis snowflake-proxy[1632]: 2026/03/22 22:23:35 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 133074 KB, ↓ 5360 KB.
+Mar 23 04:53:35 isis snowflake-proxy[1632]: 2026/03/22 23:23:35 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 351475 KB, ↓ 24620 KB.
+Mar 23 05:53:35 isis snowflake-proxy[1632]: 2026/03/23 00:23:35 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 12552 KB, ↓ 1310 KB.
+Mar 23 06:53:35 isis snowflake-proxy[1632]: 2026/03/23 01:23:35 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 4139 KB, ↓ 1227 KB.
+Mar 23 07:53:35 isis snowflake-proxy[1632]: 2026/03/23 02:23:35 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 35917 KB, ↓ 2596 KB.
+Mar 23 08:53:35 isis snowflake-proxy[1632]: 2026/03/23 03:23:35 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 62202 KB, ↓ 4303 KB.
+Mar 23 09:53:35 isis snowflake-proxy[1632]: 2026/03/23 04:23:35 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 1952 KB, ↓ 870 KB.
+Mar 23 10:53:35 isis snowflake-proxy[1632]: 2026/03/23 05:23:35 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 722131 KB, ↓ 46470 KB.
+Mar 23 11:53:35 isis snowflake-proxy[1632]: 2026/03/23 06:23:35 In the last 1h0m0s, there were 0 connections. Traffic Relayed ↑ 0 KB, ↓ 0 KB.
+-- Boot 382ef0c256c847f39239befc60dd6b4f --
+Mar 23 15:23:46 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 23 15:23:46 isis snowflake-proxy[1717]: 2026/03/23 09:53:46 Proxy starting
+Mar 23 15:24:09 isis snowflake-proxy[1717]: 2026/03/23 09:54:09 NAT type: restricted
+Mar 23 16:23:46 isis snowflake-proxy[1717]: 2026/03/23 10:53:46 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 34940 KB, ↓ 4953 KB.
+Mar 23 17:23:46 isis snowflake-proxy[1717]: 2026/03/23 11:53:46 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 20973 KB, ↓ 3142 KB.
+Mar 23 18:23:46 isis snowflake-proxy[1717]: 2026/03/23 12:53:46 In the last 1h0m0s, there were 7 connections. Traffic Relayed ↑ 50457 KB, ↓ 5071 KB.
+Mar 23 19:23:46 isis snowflake-proxy[1717]: 2026/03/23 13:53:46 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 185997 KB, ↓ 10913 KB.
+Mar 23 20:23:46 isis snowflake-proxy[1717]: 2026/03/23 14:53:46 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 208656 KB, ↓ 12605 KB.
+Mar 23 21:23:46 isis snowflake-proxy[1717]: 2026/03/23 15:53:46 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 39538 KB, ↓ 7211 KB.
+Mar 23 22:23:46 isis snowflake-proxy[1717]: 2026/03/23 16:53:46 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 320631 KB, ↓ 17948 KB.
+Mar 23 23:23:46 isis snowflake-proxy[1717]: 2026/03/23 17:53:46 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 44661 KB, ↓ 7871 KB.
+Mar 24 00:23:46 isis snowflake-proxy[1717]: 2026/03/23 18:53:46 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 14392 KB, ↓ 6118 KB.
+Mar 24 01:23:46 isis snowflake-proxy[1717]: 2026/03/23 19:53:46 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 13068 KB, ↓ 3719 KB.
+Mar 24 02:23:46 isis snowflake-proxy[1717]: 2026/03/23 20:53:46 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 6893 KB, ↓ 2750 KB.
+Mar 24 03:23:46 isis snowflake-proxy[1717]: 2026/03/23 21:53:46 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 5355 KB, ↓ 1481 KB.
+Mar 24 04:23:46 isis snowflake-proxy[1717]: 2026/03/23 22:53:46 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 2482 KB, ↓ 816 KB.
+Mar 24 05:23:46 isis snowflake-proxy[1717]: 2026/03/23 23:53:46 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 5541 KB, ↓ 1138 KB.
+Mar 24 06:23:46 isis snowflake-proxy[1717]: 2026/03/24 00:53:46 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 27914 KB, ↓ 2329 KB.
+Mar 24 07:23:46 isis snowflake-proxy[1717]: 2026/03/24 01:53:46 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 183643 KB, ↓ 18664 KB.
+Mar 24 08:23:46 isis snowflake-proxy[1717]: 2026/03/24 02:53:46 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 159134 KB, ↓ 6752 KB.
+Mar 24 09:23:46 isis snowflake-proxy[1717]: 2026/03/24 03:53:46 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 17009 KB, ↓ 3772 KB.
+Mar 24 10:23:46 isis snowflake-proxy[1717]: 2026/03/24 04:53:46 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 6520 KB, ↓ 1948 KB.
+Mar 24 11:23:46 isis snowflake-proxy[1717]: 2026/03/24 05:53:46 In the last 1h0m0s, there were 35 connections. Traffic Relayed ↑ 45711 KB, ↓ 6839 KB.
+Mar 24 12:23:46 isis snowflake-proxy[1717]: 2026/03/24 06:53:46 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 22933 KB, ↓ 4382 KB.
+Mar 24 13:23:46 isis snowflake-proxy[1717]: 2026/03/24 07:53:46 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 63255 KB, ↓ 7869 KB.
+Mar 24 14:23:46 isis snowflake-proxy[1717]: 2026/03/24 08:53:46 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 5784 KB, ↓ 2446 KB.
+Mar 24 15:23:46 isis snowflake-proxy[1717]: 2026/03/24 09:53:46 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 19048 KB, ↓ 1534 KB.
+Mar 24 16:23:46 isis snowflake-proxy[1717]: 2026/03/24 10:53:46 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 138008 KB, ↓ 7824 KB.
+Mar 24 17:23:46 isis snowflake-proxy[1717]: 2026/03/24 11:53:46 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 112123 KB, ↓ 12465 KB.
+Mar 24 18:23:46 isis snowflake-proxy[1717]: 2026/03/24 12:53:46 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 30730 KB, ↓ 3335 KB.
+Mar 24 19:23:46 isis snowflake-proxy[1717]: 2026/03/24 13:53:46 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 31851 KB, ↓ 3790 KB.
+Mar 24 20:23:46 isis snowflake-proxy[1717]: 2026/03/24 14:53:46 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 12648 KB, ↓ 2452 KB.
+Mar 24 21:23:46 isis snowflake-proxy[1717]: 2026/03/24 15:53:46 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 46355 KB, ↓ 6695 KB.
+Mar 24 22:23:46 isis snowflake-proxy[1717]: 2026/03/24 16:53:46 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 79014 KB, ↓ 8290 KB.
+Mar 24 23:23:46 isis snowflake-proxy[1717]: 2026/03/24 17:53:46 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 71450 KB, ↓ 6968 KB.
+Mar 25 00:23:46 isis snowflake-proxy[1717]: 2026/03/24 18:53:46 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 10730 KB, ↓ 2404 KB.
+Mar 25 01:23:46 isis snowflake-proxy[1717]: 2026/03/24 19:53:46 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 30946 KB, ↓ 3920 KB.
+Mar 25 01:51:25 isis snowflake-proxy[1717]: ortc ERROR: 2026/03/25 01:51:25 Failed to accept data channel: failed to send ChannelOpen ACK: stream closed
+Mar 25 02:23:46 isis snowflake-proxy[1717]: 2026/03/24 20:53:46 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 12200 KB, ↓ 1813 KB.
+Mar 25 03:23:46 isis snowflake-proxy[1717]: 2026/03/24 21:53:46 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 25505 KB, ↓ 2708 KB.
+Mar 25 04:23:46 isis snowflake-proxy[1717]: 2026/03/24 22:53:46 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 9337 KB, ↓ 767 KB.
+Mar 25 05:23:46 isis snowflake-proxy[1717]: 2026/03/24 23:53:46 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 12851 KB, ↓ 1251 KB.
+Mar 25 06:09:19 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 25 06:09:19 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 25 06:09:19 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 25 06:09:19 isis systemd[1]: snowflake-proxy.service: Consumed 27min 5.994s CPU time.
+-- Boot 364c950b78984bcfbfa1fe0ecfbe19f6 --
+Mar 25 07:08:02 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 25 07:08:02 isis snowflake-proxy[1685]: 2026/03/25 01:38:02 Proxy starting
+Mar 25 07:08:25 isis snowflake-proxy[1685]: 2026/03/25 01:38:25 NAT type: restricted
+Mar 25 08:08:02 isis snowflake-proxy[1685]: 2026/03/25 02:38:02 In the last 1h0m0s, there were 6 connections. Traffic Relayed ↑ 178 KB, ↓ 132 KB.
+Mar 25 09:08:02 isis snowflake-proxy[1685]: 2026/03/25 03:38:02 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 12707 KB, ↓ 2611 KB.
+Mar 25 10:08:02 isis snowflake-proxy[1685]: 2026/03/25 04:38:02 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 3018 KB, ↓ 1720 KB.
+Mar 25 11:08:02 isis snowflake-proxy[1685]: 2026/03/25 05:38:02 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 263072 KB, ↓ 13680 KB.
+Mar 25 12:08:02 isis snowflake-proxy[1685]: 2026/03/25 06:38:02 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 30243 KB, ↓ 4528 KB.
+Mar 25 13:08:02 isis snowflake-proxy[1685]: 2026/03/25 07:38:02 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 38980 KB, ↓ 4731 KB.
+Mar 25 14:08:02 isis snowflake-proxy[1685]: 2026/03/25 08:38:02 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 77340 KB, ↓ 6616 KB.
+Mar 25 15:08:02 isis snowflake-proxy[1685]: 2026/03/25 09:38:02 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 11492 KB, ↓ 2562 KB.
+Mar 25 16:08:02 isis snowflake-proxy[1685]: 2026/03/25 10:38:02 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 6064 KB, ↓ 2198 KB.
+Mar 25 17:08:02 isis snowflake-proxy[1685]: 2026/03/25 11:38:02 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 287672 KB, ↓ 16178 KB.
+Mar 25 18:08:02 isis snowflake-proxy[1685]: 2026/03/25 12:38:02 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 31366 KB, ↓ 3029 KB.
+Mar 25 19:08:02 isis snowflake-proxy[1685]: 2026/03/25 13:38:02 In the last 1h0m0s, there were 19 connections. Traffic Relayed ↑ 29908 KB, ↓ 4450 KB.
+Mar 25 20:08:02 isis snowflake-proxy[1685]: 2026/03/25 14:38:02 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 148945 KB, ↓ 15624 KB.
+Mar 25 21:08:02 isis snowflake-proxy[1685]: 2026/03/25 15:38:02 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 75297 KB, ↓ 9187 KB.
+Mar 25 22:08:02 isis snowflake-proxy[1685]: 2026/03/25 16:38:02 In the last 1h0m0s, there were 15 connections. Traffic Relayed ↑ 63672 KB, ↓ 10229 KB.
+Mar 25 23:08:02 isis snowflake-proxy[1685]: 2026/03/25 17:38:02 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 18420 KB, ↓ 4173 KB.
+Mar 26 00:08:02 isis snowflake-proxy[1685]: 2026/03/25 18:38:02 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 152193 KB, ↓ 9088 KB.
+Mar 26 01:08:02 isis snowflake-proxy[1685]: 2026/03/25 19:38:02 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 203732 KB, ↓ 9711 KB.
+Mar 26 02:08:02 isis snowflake-proxy[1685]: 2026/03/25 20:38:02 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 148299 KB, ↓ 7483 KB.
+Mar 26 03:08:02 isis snowflake-proxy[1685]: 2026/03/25 21:38:02 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 12014 KB, ↓ 7692 KB.
+Mar 26 04:08:02 isis snowflake-proxy[1685]: 2026/03/25 22:38:02 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 1763 KB, ↓ 840 KB.
+Mar 26 05:08:02 isis snowflake-proxy[1685]: 2026/03/25 23:38:02 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 954 KB, ↓ 481 KB.
+Mar 26 06:08:02 isis snowflake-proxy[1685]: 2026/03/26 00:38:02 In the last 1h0m0s, there were 1 connections. Traffic Relayed ↑ 806 KB, ↓ 524 KB.
+Mar 26 07:08:02 isis snowflake-proxy[1685]: 2026/03/26 01:38:02 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 4441 KB, ↓ 811 KB.
+Mar 26 08:08:02 isis snowflake-proxy[1685]: 2026/03/26 02:38:02 In the last 1h0m0s, there were 8 connections. Traffic Relayed ↑ 837 KB, ↓ 228 KB.
+Mar 26 09:08:02 isis snowflake-proxy[1685]: 2026/03/26 03:38:02 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 2377 KB, ↓ 746 KB.
+Mar 26 10:08:02 isis snowflake-proxy[1685]: 2026/03/26 04:38:02 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 4337 KB, ↓ 1123 KB.
+Mar 26 11:08:02 isis snowflake-proxy[1685]: 2026/03/26 05:38:02 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 6844 KB, ↓ 3626 KB.
+Mar 26 12:08:02 isis snowflake-proxy[1685]: 2026/03/26 06:38:02 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 35151 KB, ↓ 4255 KB.
+Mar 26 13:08:02 isis snowflake-proxy[1685]: 2026/03/26 07:38:02 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 7905 KB, ↓ 1946 KB.
+Mar 26 14:08:02 isis snowflake-proxy[1685]: 2026/03/26 08:38:02 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 65390 KB, ↓ 6869 KB.
+Mar 26 15:08:02 isis snowflake-proxy[1685]: 2026/03/26 09:38:02 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 20549 KB, ↓ 4630 KB.
+Mar 26 16:08:02 isis snowflake-proxy[1685]: 2026/03/26 10:38:02 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 16614 KB, ↓ 3536 KB.
+Mar 26 17:08:02 isis snowflake-proxy[1685]: 2026/03/26 11:38:02 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 7070 KB, ↓ 941 KB.
+Mar 26 18:08:02 isis snowflake-proxy[1685]: 2026/03/26 12:38:02 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 60403 KB, ↓ 5424 KB.
+Mar 26 18:09:23 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 26 18:09:23 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 26 18:09:23 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 26 18:09:23 isis systemd[1]: snowflake-proxy.service: Consumed 26min 2.289s CPU time, 47.7M memory peak.
+-- Boot 67d63ceb2eff4a618d3f999df758b6a1 --
+Mar 26 18:09:55 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 26 18:09:55 isis snowflake-proxy[1868]: 2026/03/26 12:39:55 Proxy starting
+Mar 26 18:10:24 isis snowflake-proxy[1868]: 2026/03/26 12:40:24 NAT type: restricted
+Mar 26 19:09:55 isis snowflake-proxy[1868]: 2026/03/26 13:39:55 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 6955 KB, ↓ 3654 KB.
+Mar 26 20:09:55 isis snowflake-proxy[1868]: 2026/03/26 14:39:55 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 4473 KB, ↓ 2419 KB.
+Mar 26 21:09:55 isis snowflake-proxy[1868]: 2026/03/26 15:39:55 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 9018 KB, ↓ 4266 KB.
+Mar 26 22:09:55 isis snowflake-proxy[1868]: 2026/03/26 16:39:55 In the last 1h0m0s, there were 48 connections. Traffic Relayed ↑ 7154 KB, ↓ 2516 KB.
+Mar 26 23:09:55 isis snowflake-proxy[1868]: 2026/03/26 17:39:55 In the last 1h0m0s, there were 44 connections. Traffic Relayed ↑ 7283 KB, ↓ 2165 KB.
+Mar 27 00:09:55 isis snowflake-proxy[1868]: 2026/03/26 18:39:55 In the last 1h0m0s, there were 43 connections. Traffic Relayed ↑ 12806 KB, ↓ 3889 KB.
+Mar 27 01:09:55 isis snowflake-proxy[1868]: 2026/03/26 19:39:55 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 10574 KB, ↓ 3055 KB.
+Mar 27 02:09:55 isis snowflake-proxy[1868]: 2026/03/26 20:39:55 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 5972 KB, ↓ 4036 KB.
+Mar 27 03:09:55 isis snowflake-proxy[1868]: 2026/03/26 21:39:55 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 4795 KB, ↓ 2167 KB.
+Mar 27 04:09:55 isis snowflake-proxy[1868]: 2026/03/26 22:39:55 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 4982 KB, ↓ 1022 KB.
+Mar 27 05:09:55 isis snowflake-proxy[1868]: 2026/03/26 23:39:55 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 9452 KB, ↓ 1163 KB.
+Mar 27 06:09:55 isis snowflake-proxy[1868]: 2026/03/27 00:39:55 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 8066 KB, ↓ 670 KB.
+Mar 27 06:10:38 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 27 06:10:38 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 27 06:10:38 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 27 06:10:38 isis systemd[1]: snowflake-proxy.service: Consumed 4min 49.517s CPU time, 48.3M memory peak.
+-- Boot 2397e7c9f89542078a1126af650a1bcf --
+Mar 27 06:11:32 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 27 06:11:32 isis snowflake-proxy[1872]: 2026/03/27 00:41:32 Proxy starting
+Mar 27 06:11:56 isis snowflake-proxy[1872]: 2026/03/27 00:41:56 NAT type: restricted
+Mar 27 06:35:26 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 27 06:35:26 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 27 06:35:26 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 27 06:35:26 isis systemd[1]: snowflake-proxy.service: Consumed 4.024s CPU time, 23.5M memory peak.
+-- Boot 71bb3814d8454e27b87170629b4b3573 --
+Mar 27 06:35:52 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 27 06:35:52 isis snowflake-proxy[1785]: 2026/03/27 01:05:52 Proxy starting
+Mar 27 06:36:15 isis snowflake-proxy[1785]: 2026/03/27 01:06:15 NAT type: restricted
+Mar 27 07:21:05 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 27 07:21:05 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 27 07:21:05 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 27 07:21:05 isis systemd[1]: snowflake-proxy.service: Consumed 5.705s CPU time, 20.9M memory peak.
+-- Boot 78c78742d08d4e7e8b59230a47f79553 --
+Mar 27 07:21:29 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 27 07:21:29 isis snowflake-proxy[1784]: 2026/03/27 01:51:29 Proxy starting
+Mar 27 07:22:03 isis snowflake-proxy[1784]: 2026/03/27 01:52:03 NAT type: restricted
+Mar 27 07:38:54 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 27 07:38:54 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 27 07:38:54 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 27 07:38:54 isis systemd[1]: snowflake-proxy.service: Consumed 1.929s CPU time, 20.3M memory peak.
+-- Boot b93924e0a2214398a7314e41466bf8ab --
+Mar 27 07:39:19 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 27 07:39:19 isis snowflake-proxy[1911]: 2026/03/27 02:09:19 Proxy starting
+Mar 27 07:39:48 isis snowflake-proxy[1911]: 2026/03/27 02:09:48 NAT type: restricted
+Mar 27 08:39:19 isis snowflake-proxy[1911]: 2026/03/27 03:09:19 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 2103 KB, ↓ 482 KB.
+Mar 27 09:39:18 isis snowflake-proxy[1911]: 2026/03/27 04:09:18 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 1751 KB, ↓ 526 KB.
+Mar 27 10:39:18 isis snowflake-proxy[1911]: 2026/03/27 05:09:18 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 5853 KB, ↓ 1902 KB.
+Mar 27 11:39:18 isis snowflake-proxy[1911]: 2026/03/27 06:09:18 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 8124 KB, ↓ 4313 KB.
+Mar 27 12:39:18 isis snowflake-proxy[1911]: 2026/03/27 07:09:18 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 6658 KB, ↓ 2528 KB.
+Mar 27 13:39:18 isis snowflake-proxy[1911]: 2026/03/27 08:09:18 In the last 1h0m0s, there were 32 connections. Traffic Relayed ↑ 7476 KB, ↓ 1797 KB.
+Mar 27 14:39:18 isis snowflake-proxy[1911]: 2026/03/27 09:09:18 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 3198 KB, ↓ 2057 KB.
+Mar 27 15:33:25 isis snowflake-proxy[1911]: sctp ERROR: 2026/03/27 15:33:25 Failed to handle chunk: todo: handle Init when in state: Established
+Mar 27 15:39:18 isis snowflake-proxy[1911]: 2026/03/27 10:09:18 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 12049 KB, ↓ 2952 KB.
+Mar 27 16:39:18 isis snowflake-proxy[1911]: 2026/03/27 11:09:18 In the last 1h0m0s, there were 45 connections. Traffic Relayed ↑ 8281 KB, ↓ 2319 KB.
+Mar 27 17:27:01 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 27 17:27:01 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 27 17:27:01 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 27 17:27:01 isis systemd[1]: snowflake-proxy.service: Consumed 3min 23.343s CPU time, 36.8M memory peak.
+-- Boot c9af9492a65b4a029a15ce26e4222330 --
+Mar 27 17:27:34 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 27 17:27:34 isis snowflake-proxy[1924]: 2026/03/27 11:57:34 Proxy starting
+Mar 27 17:27:57 isis snowflake-proxy[1924]: 2026/03/27 11:57:57 NAT type: restricted
+Mar 27 18:15:01 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 27 18:15:01 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 27 18:15:01 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 27 18:15:01 isis systemd[1]: snowflake-proxy.service: Consumed 21.643s CPU time, 31.7M memory peak.
+-- Boot 40e550d542d94fd38b011d1281ff00ee --
+Mar 27 18:15:25 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 27 18:15:25 isis snowflake-proxy[1917]: 2026/03/27 12:45:25 Proxy starting
+Mar 27 18:15:56 isis snowflake-proxy[1917]: 2026/03/27 12:45:56 NAT type: restricted
+Mar 27 18:50:48 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 27 18:50:48 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 27 18:50:48 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 27 18:50:48 isis systemd[1]: snowflake-proxy.service: Consumed 9.455s CPU time, 29.5M memory peak.
+-- Boot 9ad003e05c8843aaad681f41a5b56823 --
+Mar 27 18:51:14 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 27 18:51:14 isis snowflake-proxy[1917]: 2026/03/27 13:21:14 Proxy starting
+Mar 27 18:51:50 isis snowflake-proxy[1917]: 2026/03/27 13:21:50 NAT type: restricted
+Mar 27 19:51:13 isis snowflake-proxy[1917]: 2026/03/27 14:21:13 In the last 1h0m0s, there were 40 connections. Traffic Relayed ↑ 8458 KB, ↓ 2763 KB.
+Mar 27 20:51:13 isis snowflake-proxy[1917]: 2026/03/27 15:21:13 In the last 1h0m0s, there were 44 connections. Traffic Relayed ↑ 5424 KB, ↓ 2966 KB.
+Mar 27 21:51:13 isis snowflake-proxy[1917]: 2026/03/27 16:21:13 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 1955 KB, ↓ 2201 KB.
+Mar 27 22:51:13 isis snowflake-proxy[1917]: 2026/03/27 17:21:13 In the last 1h0m0s, there were 46 connections. Traffic Relayed ↑ 8160 KB, ↓ 3020 KB.
+Mar 27 23:51:13 isis snowflake-proxy[1917]: 2026/03/27 18:21:13 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 9818 KB, ↓ 2353 KB.
+Mar 28 00:51:13 isis snowflake-proxy[1917]: 2026/03/27 19:21:13 In the last 1h0m0s, there were 46 connections. Traffic Relayed ↑ 5762 KB, ↓ 2086 KB.
+Mar 28 01:51:13 isis snowflake-proxy[1917]: 2026/03/27 20:21:13 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 14171 KB, ↓ 1560 KB.
+Mar 28 02:51:13 isis snowflake-proxy[1917]: 2026/03/27 21:21:13 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 14293 KB, ↓ 4695 KB.
+Mar 28 03:51:13 isis snowflake-proxy[1917]: 2026/03/27 22:21:13 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 1462 KB, ↓ 703 KB.
+Mar 28 04:51:13 isis snowflake-proxy[1917]: 2026/03/27 23:21:13 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 879 KB, ↓ 560 KB.
+Mar 28 05:51:13 isis snowflake-proxy[1917]: 2026/03/28 00:21:13 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 5045 KB, ↓ 1690 KB.
+Mar 28 06:51:13 isis snowflake-proxy[1917]: 2026/03/28 01:21:13 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 1815 KB, ↓ 1073 KB.
+Mar 28 07:51:13 isis snowflake-proxy[1917]: 2026/03/28 02:21:13 In the last 1h0m0s, there were 6 connections. Traffic Relayed ↑ 11081 KB, ↓ 542 KB.
+Mar 28 08:51:13 isis snowflake-proxy[1917]: 2026/03/28 03:21:13 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 5066 KB, ↓ 826 KB.
+Mar 28 09:51:13 isis snowflake-proxy[1917]: 2026/03/28 04:21:13 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 2007 KB, ↓ 483 KB.
+Mar 28 10:51:13 isis snowflake-proxy[1917]: 2026/03/28 05:21:13 In the last 1h0m0s, there were 32 connections. Traffic Relayed ↑ 11493 KB, ↓ 2894 KB.
+Mar 28 11:51:13 isis snowflake-proxy[1917]: 2026/03/28 06:21:13 In the last 1h0m0s, there were 40 connections. Traffic Relayed ↑ 3857 KB, ↓ 2344 KB.
+Mar 28 12:51:13 isis snowflake-proxy[1917]: 2026/03/28 07:21:13 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 10756 KB, ↓ 2242 KB.
+Mar 28 13:51:13 isis snowflake-proxy[1917]: 2026/03/28 08:21:13 In the last 1h0m0s, there were 38 connections. Traffic Relayed ↑ 2147 KB, ↓ 1554 KB.
+Mar 28 14:29:25 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 28 14:29:25 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 28 14:29:25 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 28 14:29:25 isis systemd[1]: snowflake-proxy.service: Consumed 6min 10.133s CPU time, 40.5M memory peak.
+-- Boot e31ddea3d9a74cccbe6963a8e84e7efd --
+Mar 28 14:29:56 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 28 14:29:56 isis snowflake-proxy[1917]: 2026/03/28 08:59:56 Proxy starting
+Mar 28 14:30:18 isis snowflake-proxy[1917]: 2026/03/28 09:00:18 NAT type: restricted
+Mar 28 15:29:56 isis snowflake-proxy[1917]: 2026/03/28 09:59:56 In the last 1h0m0s, there were 50 connections. Traffic Relayed ↑ 8525 KB, ↓ 3560 KB.
+Mar 28 16:29:56 isis snowflake-proxy[1917]: 2026/03/28 10:59:56 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 6263 KB, ↓ 1320 KB.
+Mar 28 17:11:47 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 28 17:11:47 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 28 17:11:47 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 28 17:11:47 isis systemd[1]: snowflake-proxy.service: Consumed 57.227s CPU time, 36.6M memory peak.
+-- Boot 65d21b94425b4f638fdccbac357e746a --
+Mar 28 17:12:12 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 28 17:12:12 isis snowflake-proxy[1916]: 2026/03/28 11:42:12 Proxy starting
+Mar 28 17:12:42 isis snowflake-proxy[1916]: 2026/03/28 11:42:42 NAT type: restricted
+Mar 28 18:12:12 isis snowflake-proxy[1916]: 2026/03/28 12:42:12 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 4911 KB, ↓ 1486 KB.
+Mar 28 18:33:21 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 28 18:33:21 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 28 18:33:21 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 28 18:33:21 isis systemd[1]: snowflake-proxy.service: Consumed 28.368s CPU time, 33.1M memory peak.
+-- Boot 21676b1215fc45bb96f9308cb110e6dc --
+Mar 28 18:33:46 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 28 18:33:46 isis snowflake-proxy[1917]: 2026/03/28 13:03:46 Proxy starting
+Mar 28 18:34:16 isis snowflake-proxy[1917]: 2026/03/28 13:04:16 NAT type: restricted
+Mar 28 19:33:46 isis snowflake-proxy[1917]: 2026/03/28 14:03:46 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 7289 KB, ↓ 1949 KB.
+Mar 28 20:33:46 isis snowflake-proxy[1917]: 2026/03/28 15:03:46 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 12030 KB, ↓ 4222 KB.
+Mar 28 21:33:46 isis snowflake-proxy[1917]: 2026/03/28 16:03:46 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 6424 KB, ↓ 3233 KB.
+Mar 28 22:33:46 isis snowflake-proxy[1917]: 2026/03/28 17:03:46 In the last 1h0m0s, there were 43 connections. Traffic Relayed ↑ 6268 KB, ↓ 2991 KB.
+Mar 28 23:33:46 isis snowflake-proxy[1917]: 2026/03/28 18:03:46 In the last 1h0m0s, there were 32 connections. Traffic Relayed ↑ 7485 KB, ↓ 2721 KB.
+Mar 29 00:33:46 isis snowflake-proxy[1917]: 2026/03/28 19:03:46 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 8241 KB, ↓ 2254 KB.
+Mar 29 01:33:46 isis snowflake-proxy[1917]: 2026/03/28 20:03:46 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 6761 KB, ↓ 2246 KB.
+Mar 29 02:33:46 isis snowflake-proxy[1917]: 2026/03/28 21:03:46 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 5650 KB, ↓ 2820 KB.
+Mar 29 03:33:46 isis snowflake-proxy[1917]: 2026/03/28 22:03:46 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 8465 KB, ↓ 1973 KB.
+Mar 29 04:33:46 isis snowflake-proxy[1917]: 2026/03/28 23:03:46 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 2335 KB, ↓ 820 KB.
+Mar 29 05:33:46 isis snowflake-proxy[1917]: 2026/03/29 00:03:46 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 563 KB, ↓ 362 KB.
+Mar 29 06:33:46 isis snowflake-proxy[1917]: 2026/03/29 01:03:46 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 395 KB, ↓ 311 KB.
+Mar 29 07:33:46 isis snowflake-proxy[1917]: 2026/03/29 02:03:46 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 1547 KB, ↓ 754 KB.
+Mar 29 07:38:34 isis snowflake-proxy[1917]: ortc ERROR: 2026/03/29 07:38:34 Failed to accept data channel: failed to send ChannelOpen ACK: stream closed
+Mar 29 08:33:46 isis snowflake-proxy[1917]: 2026/03/29 03:03:46 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 391 KB, ↓ 148 KB.
+Mar 29 09:33:46 isis snowflake-proxy[1917]: 2026/03/29 04:03:46 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 3199 KB, ↓ 1310 KB.
+Mar 29 10:33:46 isis snowflake-proxy[1917]: 2026/03/29 05:03:46 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 3988 KB, ↓ 1202 KB.
+Mar 29 11:33:46 isis snowflake-proxy[1917]: 2026/03/29 06:03:46 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 9891 KB, ↓ 2827 KB.
+Mar 29 12:33:46 isis snowflake-proxy[1917]: 2026/03/29 07:03:46 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 7955 KB, ↓ 2198 KB.
+Mar 29 13:33:46 isis snowflake-proxy[1917]: 2026/03/29 08:03:46 In the last 1h0m0s, there were 34 connections. Traffic Relayed ↑ 7436 KB, ↓ 2262 KB.
+Mar 29 14:33:46 isis snowflake-proxy[1917]: 2026/03/29 09:03:46 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 10868 KB, ↓ 2768 KB.
+Mar 29 15:33:46 isis snowflake-proxy[1917]: 2026/03/29 10:03:46 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 12800 KB, ↓ 3416 KB.
+Mar 29 16:33:46 isis snowflake-proxy[1917]: 2026/03/29 11:03:46 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 8934 KB, ↓ 1313 KB.
+Mar 29 17:33:46 isis snowflake-proxy[1917]: 2026/03/29 12:03:46 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 10227 KB, ↓ 3363 KB.
+Mar 29 18:17:34 isis snowflake-proxy[1917]: ortc ERROR: 2026/03/29 18:17:34 Failed to accept data channel: failed to send ChannelOpen ACK: stream closed
+Mar 29 18:33:46 isis snowflake-proxy[1917]: 2026/03/29 13:03:46 In the last 1h0m0s, there were 34 connections. Traffic Relayed ↑ 11144 KB, ↓ 3051 KB.
+Mar 29 19:33:46 isis snowflake-proxy[1917]: 2026/03/29 14:03:46 In the last 1h0m0s, there were 32 connections. Traffic Relayed ↑ 8252 KB, ↓ 3447 KB.
+Mar 29 20:33:46 isis snowflake-proxy[1917]: 2026/03/29 15:03:46 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 14060 KB, ↓ 3697 KB.
+Mar 29 21:33:46 isis snowflake-proxy[1917]: 2026/03/29 16:03:46 In the last 1h0m0s, there were 35 connections. Traffic Relayed ↑ 11704 KB, ↓ 2119 KB.
+Mar 29 22:33:46 isis snowflake-proxy[1917]: 2026/03/29 17:03:46 In the last 1h0m0s, there were 32 connections. Traffic Relayed ↑ 3838 KB, ↓ 3287 KB.
+Mar 29 23:33:46 isis snowflake-proxy[1917]: 2026/03/29 18:03:46 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 5400 KB, ↓ 1976 KB.
+Mar 30 00:33:46 isis snowflake-proxy[1917]: 2026/03/29 19:03:46 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 7873 KB, ↓ 12469 KB.
+Mar 30 01:33:46 isis snowflake-proxy[1917]: 2026/03/29 20:03:46 In the last 1h0m0s, there were 41 connections. Traffic Relayed ↑ 7077 KB, ↓ 3224 KB.
+Mar 30 02:33:46 isis snowflake-proxy[1917]: 2026/03/29 21:03:46 In the last 1h0m0s, there were 38 connections. Traffic Relayed ↑ 3060 KB, ↓ 2247 KB.
+Mar 30 03:33:46 isis snowflake-proxy[1917]: 2026/03/29 22:03:46 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 5416 KB, ↓ 1219 KB.
+Mar 30 04:33:46 isis snowflake-proxy[1917]: 2026/03/29 23:03:46 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 4184 KB, ↓ 1125 KB.
+Mar 30 05:33:46 isis snowflake-proxy[1917]: 2026/03/30 00:03:46 In the last 1h0m0s, there were 61 connections. Traffic Relayed ↑ 2777 KB, ↓ 776 KB.
+Mar 30 06:33:46 isis snowflake-proxy[1917]: 2026/03/30 01:03:46 In the last 1h0m0s, there were 47 connections. Traffic Relayed ↑ 17189 KB, ↓ 4137 KB.
+Mar 30 07:33:46 isis snowflake-proxy[1917]: 2026/03/30 02:03:46 In the last 1h0m0s, there were 49 connections. Traffic Relayed ↑ 2678 KB, ↓ 296 KB.
+Mar 30 08:33:46 isis snowflake-proxy[1917]: 2026/03/30 03:03:46 In the last 1h0m0s, there were 51 connections. Traffic Relayed ↑ 2732 KB, ↓ 1129 KB.
+Mar 30 09:33:46 isis snowflake-proxy[1917]: 2026/03/30 04:03:46 In the last 1h0m0s, there were 72 connections. Traffic Relayed ↑ 3119 KB, ↓ 934 KB.
+Mar 30 10:33:46 isis snowflake-proxy[1917]: 2026/03/30 05:03:46 In the last 1h0m0s, there were 105 connections. Traffic Relayed ↑ 3075 KB, ↓ 521 KB.
+Mar 30 11:33:46 isis snowflake-proxy[1917]: 2026/03/30 06:03:46 In the last 1h0m0s, there were 124 connections. Traffic Relayed ↑ 3946 KB, ↓ 984 KB.
+Mar 30 12:33:46 isis snowflake-proxy[1917]: 2026/03/30 07:03:46 In the last 1h0m0s, there were 144 connections. Traffic Relayed ↑ 8614 KB, ↓ 1478 KB.
+Mar 30 13:33:46 isis snowflake-proxy[1917]: 2026/03/30 08:03:46 In the last 1h0m0s, there were 134 connections. Traffic Relayed ↑ 9053 KB, ↓ 413 KB.
+Mar 30 14:33:46 isis snowflake-proxy[1917]: 2026/03/30 09:03:46 In the last 1h0m0s, there were 119 connections. Traffic Relayed ↑ 5536 KB, ↓ 713 KB.
+Mar 30 15:33:46 isis snowflake-proxy[1917]: 2026/03/30 10:03:46 In the last 1h0m0s, there were 114 connections. Traffic Relayed ↑ 7465 KB, ↓ 668 KB.
+Mar 30 16:33:46 isis snowflake-proxy[1917]: 2026/03/30 11:03:46 In the last 1h0m0s, there were 120 connections. Traffic Relayed ↑ 7152 KB, ↓ 1704 KB.
+Mar 30 17:33:46 isis snowflake-proxy[1917]: 2026/03/30 12:03:46 In the last 1h0m0s, there were 115 connections. Traffic Relayed ↑ 8819 KB, ↓ 782 KB.
+Mar 30 18:33:46 isis snowflake-proxy[1917]: 2026/03/30 13:03:46 In the last 1h0m0s, there were 119 connections. Traffic Relayed ↑ 11902 KB, ↓ 377 KB.
+Mar 30 19:33:46 isis snowflake-proxy[1917]: 2026/03/30 14:03:46 In the last 1h0m0s, there were 134 connections. Traffic Relayed ↑ 7995 KB, ↓ 983 KB.
+Mar 30 20:33:46 isis snowflake-proxy[1917]: 2026/03/30 15:03:46 In the last 1h0m0s, there were 129 connections. Traffic Relayed ↑ 8605 KB, ↓ 1662 KB.
+Mar 30 21:33:46 isis snowflake-proxy[1917]: 2026/03/30 16:03:46 In the last 1h0m0s, there were 133 connections. Traffic Relayed ↑ 10213 KB, ↓ 937 KB.
+Mar 30 22:33:46 isis snowflake-proxy[1917]: 2026/03/30 17:03:46 In the last 1h0m0s, there were 143 connections. Traffic Relayed ↑ 5010 KB, ↓ 1078 KB.
+Mar 30 23:33:46 isis snowflake-proxy[1917]: 2026/03/30 18:03:46 In the last 1h0m0s, there were 114 connections. Traffic Relayed ↑ 15684 KB, ↓ 1480 KB.
+Mar 31 00:33:46 isis snowflake-proxy[1917]: 2026/03/30 19:03:46 In the last 1h0m0s, there were 107 connections. Traffic Relayed ↑ 15772 KB, ↓ 472 KB.
+Mar 31 01:33:46 isis snowflake-proxy[1917]: 2026/03/30 20:03:46 In the last 1h0m0s, there were 53 connections. Traffic Relayed ↑ 22849 KB, ↓ 1152 KB.
+Mar 31 02:33:46 isis snowflake-proxy[1917]: 2026/03/30 21:03:46 In the last 1h0m0s, there were 57 connections. Traffic Relayed ↑ 87606 KB, ↓ 4074 KB.
+Mar 31 03:33:46 isis snowflake-proxy[1917]: 2026/03/30 22:03:46 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 73554 KB, ↓ 2148 KB.
+Mar 31 04:33:46 isis snowflake-proxy[1917]: 2026/03/30 23:03:46 In the last 1h0m0s, there were 42 connections. Traffic Relayed ↑ 15366 KB, ↓ 1257 KB.
+Mar 31 05:33:46 isis snowflake-proxy[1917]: 2026/03/31 00:03:46 In the last 1h0m0s, there were 34 connections. Traffic Relayed ↑ 316420 KB, ↓ 27214 KB.
+Mar 31 06:33:46 isis snowflake-proxy[1917]: 2026/03/31 01:03:46 In the last 1h0m0s, there were 42 connections. Traffic Relayed ↑ 2438 KB, ↓ 143 KB.
+Mar 31 07:33:46 isis snowflake-proxy[1917]: 2026/03/31 02:03:46 In the last 1h0m0s, there were 44 connections. Traffic Relayed ↑ 5397 KB, ↓ 370 KB.
+Mar 31 07:43:48 isis snowflake-proxy[1917]: mux ERROR: 2026/03/31 07:43:48 mux: ending readLoop dispatch error io: read/write on closed pipe
+Mar 31 08:33:46 isis snowflake-proxy[1917]: 2026/03/31 03:03:46 In the last 1h0m0s, there were 43 connections. Traffic Relayed ↑ 7911 KB, ↓ 1433 KB.
+Mar 31 09:33:46 isis snowflake-proxy[1917]: 2026/03/31 04:03:46 In the last 1h0m0s, there were 62 connections. Traffic Relayed ↑ 49398 KB, ↓ 3795 KB.
+Mar 31 10:33:46 isis snowflake-proxy[1917]: 2026/03/31 05:03:46 In the last 1h0m0s, there were 85 connections. Traffic Relayed ↑ 10911 KB, ↓ 545 KB.
+Mar 31 11:33:46 isis snowflake-proxy[1917]: 2026/03/31 06:03:46 In the last 1h0m0s, there were 85 connections. Traffic Relayed ↑ 33696 KB, ↓ 4238 KB.
+Mar 31 12:33:46 isis snowflake-proxy[1917]: 2026/03/31 07:03:46 In the last 1h0m0s, there were 98 connections. Traffic Relayed ↑ 43489 KB, ↓ 3330 KB.
+Mar 31 13:33:46 isis snowflake-proxy[1917]: 2026/03/31 08:03:46 In the last 1h0m0s, there were 72 connections. Traffic Relayed ↑ 17260 KB, ↓ 1965 KB.
+Mar 31 14:33:46 isis snowflake-proxy[1917]: 2026/03/31 09:03:46 In the last 1h0m0s, there were 96 connections. Traffic Relayed ↑ 51948 KB, ↓ 1325 KB.
+Mar 31 14:48:59 isis snowflake-proxy[1917]: ortc ERROR: 2026/03/31 14:48:59 Failed to accept data channel: failed to send ChannelOpen ACK: stream closed
+Mar 31 15:33:46 isis snowflake-proxy[1917]: 2026/03/31 10:03:46 In the last 1h0m0s, there were 101 connections. Traffic Relayed ↑ 11160 KB, ↓ 1182 KB.
+Mar 31 16:33:46 isis snowflake-proxy[1917]: 2026/03/31 11:03:46 In the last 1h0m0s, there were 83 connections. Traffic Relayed ↑ 62216 KB, ↓ 1399 KB.
+Mar 31 17:33:46 isis snowflake-proxy[1917]: 2026/03/31 12:03:46 In the last 1h0m0s, there were 60 connections. Traffic Relayed ↑ 6393 KB, ↓ 245 KB.
+Mar 31 17:37:34 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 31 17:37:34 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 31 17:37:34 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 31 17:37:34 isis systemd[1]: snowflake-proxy.service: Consumed 34min 28.000s CPU time, 157.2M memory peak.
+-- Boot 4332176b5f454a859ae4e0dcaaa86e67 --
+Mar 31 17:37:59 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 31 17:37:59 isis snowflake-proxy[2259]: 2026/03/31 12:07:59 Proxy starting
+Mar 31 17:38:21 isis snowflake-proxy[2259]: 2026/03/31 12:08:21 NAT type: restricted
+Mar 31 17:46:47 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 31 17:46:47 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 31 17:46:47 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Mar 31 17:46:47 isis systemd[1]: snowflake-proxy.service: Consumed 4.821s CPU time, 30.6M memory peak.
+-- Boot 16375b2834f744879089ef19f15beff1 --
+Mar 31 17:47:14 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 31 17:47:14 isis snowflake-proxy[2245]: 2026/03/31 12:17:14 Proxy starting
+Mar 31 17:47:40 isis snowflake-proxy[2245]: 2026/03/31 12:17:40 NAT type: restricted
+Mar 31 17:49:33 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Mar 31 17:49:33 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Mar 31 17:49:33 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+-- Boot eca06b79ace24a5db0f32d6065788a2c --
+Mar 31 17:49:59 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Mar 31 17:49:59 isis snowflake-proxy[2235]: 2026/03/31 12:19:59 Proxy starting
+Mar 31 17:50:24 isis snowflake-proxy[2235]: 2026/03/31 12:20:24 NAT type: restricted
+Mar 31 18:49:58 isis snowflake-proxy[2235]: 2026/03/31 13:19:58 In the last 1h0m0s, there were 87 connections. Traffic Relayed ↑ 6099 KB, ↓ 512 KB.
+Mar 31 19:49:58 isis snowflake-proxy[2235]: 2026/03/31 14:19:58 In the last 1h0m0s, there were 87 connections. Traffic Relayed ↑ 34719 KB, ↓ 3578 KB.
+Mar 31 20:49:58 isis snowflake-proxy[2235]: 2026/03/31 15:19:58 In the last 1h0m0s, there were 86 connections. Traffic Relayed ↑ 7170 KB, ↓ 245 KB.
+Mar 31 21:49:58 isis snowflake-proxy[2235]: 2026/03/31 16:19:58 In the last 1h0m0s, there were 86 connections. Traffic Relayed ↑ 39576 KB, ↓ 1954 KB.
+Mar 31 22:49:58 isis snowflake-proxy[2235]: 2026/03/31 17:19:58 In the last 1h0m0s, there were 73 connections. Traffic Relayed ↑ 10857 KB, ↓ 523 KB.
+Mar 31 23:49:58 isis snowflake-proxy[2235]: 2026/03/31 18:19:58 In the last 1h0m0s, there were 88 connections. Traffic Relayed ↑ 25522 KB, ↓ 2453 KB.
+Apr 01 00:49:58 isis snowflake-proxy[2235]: 2026/03/31 19:19:58 In the last 1h0m0s, there were 77 connections. Traffic Relayed ↑ 21912 KB, ↓ 2241 KB.
+Apr 01 01:49:58 isis snowflake-proxy[2235]: 2026/03/31 20:19:58 In the last 1h0m0s, there were 63 connections. Traffic Relayed ↑ 33822 KB, ↓ 2593 KB.
+Apr 01 02:49:58 isis snowflake-proxy[2235]: 2026/03/31 21:19:58 In the last 1h0m0s, there were 56 connections. Traffic Relayed ↑ 9069 KB, ↓ 2270 KB.
+Apr 01 03:49:58 isis snowflake-proxy[2235]: 2026/03/31 22:19:58 In the last 1h0m0s, there were 46 connections. Traffic Relayed ↑ 336926 KB, ↓ 16211 KB.
+Apr 01 04:49:58 isis snowflake-proxy[2235]: 2026/03/31 23:19:58 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 138357 KB, ↓ 3398 KB.
+Apr 01 05:49:58 isis snowflake-proxy[2235]: 2026/04/01 00:19:58 In the last 1h0m0s, there were 40 connections. Traffic Relayed ↑ 2025 KB, ↓ 248 KB.
+Apr 01 06:49:58 isis snowflake-proxy[2235]: 2026/04/01 01:19:58 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 2217 KB, ↓ 97 KB.
+Apr 01 07:49:58 isis snowflake-proxy[2235]: 2026/04/01 02:19:58 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 10987 KB, ↓ 1138 KB.
+Apr 01 08:49:58 isis snowflake-proxy[2235]: 2026/04/01 03:19:58 In the last 1h0m0s, there were 46 connections. Traffic Relayed ↑ 57012 KB, ↓ 3302 KB.
+Apr 01 09:49:58 isis snowflake-proxy[2235]: 2026/04/01 04:19:58 In the last 1h0m0s, there were 55 connections. Traffic Relayed ↑ 7241 KB, ↓ 1015 KB.
+Apr 01 10:49:58 isis snowflake-proxy[2235]: 2026/04/01 05:19:58 In the last 1h0m0s, there were 54 connections. Traffic Relayed ↑ 5249 KB, ↓ 684 KB.
+Apr 01 11:49:58 isis snowflake-proxy[2235]: 2026/04/01 06:19:58 In the last 1h0m0s, there were 63 connections. Traffic Relayed ↑ 67021 KB, ↓ 3532 KB.
+Apr 01 12:49:58 isis snowflake-proxy[2235]: 2026/04/01 07:19:58 In the last 1h0m0s, there were 67 connections. Traffic Relayed ↑ 173882 KB, ↓ 1055 KB.
+Apr 01 13:49:58 isis snowflake-proxy[2235]: 2026/04/01 08:19:58 In the last 1h0m0s, there were 70 connections. Traffic Relayed ↑ 59844 KB, ↓ 2646 KB.
+Apr 01 14:49:58 isis snowflake-proxy[2235]: 2026/04/01 09:19:58 In the last 1h0m0s, there were 61 connections. Traffic Relayed ↑ 2918 KB, ↓ 292 KB.
+Apr 01 15:49:58 isis snowflake-proxy[2235]: 2026/04/01 10:19:58 In the last 1h0m0s, there were 57 connections. Traffic Relayed ↑ 8773 KB, ↓ 4048 KB.
+Apr 01 16:32:05 isis snowflake-proxy[2235]: mux ERROR: 2026/04/01 16:32:05 mux: ending readLoop dispatch error io: read/write on closed pipe
+Apr 01 16:49:58 isis snowflake-proxy[2235]: 2026/04/01 11:19:58 In the last 1h0m0s, there were 65 connections. Traffic Relayed ↑ 6092 KB, ↓ 772 KB.
+Apr 01 17:49:58 isis snowflake-proxy[2235]: 2026/04/01 12:19:58 In the last 1h0m0s, there were 67 connections. Traffic Relayed ↑ 22080 KB, ↓ 468 KB.
+Apr 01 18:49:58 isis snowflake-proxy[2235]: 2026/04/01 13:19:58 In the last 1h0m0s, there were 67 connections. Traffic Relayed ↑ 14705 KB, ↓ 344 KB.
+Apr 01 19:49:58 isis snowflake-proxy[2235]: 2026/04/01 14:19:58 In the last 1h0m0s, there were 71 connections. Traffic Relayed ↑ 19182 KB, ↓ 610 KB.
+Apr 01 20:49:58 isis snowflake-proxy[2235]: 2026/04/01 15:19:58 In the last 1h0m0s, there were 85 connections. Traffic Relayed ↑ 10837 KB, ↓ 1642 KB.
+Apr 01 21:49:58 isis snowflake-proxy[2235]: 2026/04/01 16:19:58 In the last 1h0m0s, there were 96 connections. Traffic Relayed ↑ 24621 KB, ↓ 391 KB.
+Apr 01 22:16:35 isis snowflake-proxy[2235]: sctp ERROR: 2026/04/01 22:16:35 [0xc000e8c000] stream 1 not found)
+Apr 01 22:16:35 isis snowflake-proxy[2235]: sctp ERROR: 2026/04/01 22:16:35 [0xc000e8c000] stream 1 not found)
+Apr 01 22:16:35 isis snowflake-proxy[2235]: sctp ERROR: 2026/04/01 22:16:35 [0xc000e8c000] stream 1 not found)
+Apr 01 22:16:35 isis snowflake-proxy[2235]: sctp ERROR: 2026/04/01 22:16:35 [0xc000e8c000] stream 1 not found)
+Apr 01 22:16:35 isis snowflake-proxy[2235]: sctp ERROR: 2026/04/01 22:16:35 [0xc000e8c000] stream 1 not found)
+Apr 01 22:16:35 isis snowflake-proxy[2235]: sctp ERROR: 2026/04/01 22:16:35 [0xc000e8c000] stream 1 not found)
+Apr 01 22:16:35 isis snowflake-proxy[2235]: sctp ERROR: 2026/04/01 22:16:35 [0xc000e8c000] stream 1 not found)
+Apr 01 22:49:58 isis snowflake-proxy[2235]: 2026/04/01 17:19:58 In the last 1h0m0s, there were 112 connections. Traffic Relayed ↑ 14246 KB, ↓ 822 KB.
+Apr 01 23:49:58 isis snowflake-proxy[2235]: 2026/04/01 18:19:58 In the last 1h0m0s, there were 86 connections. Traffic Relayed ↑ 16506 KB, ↓ 1062 KB.
+Apr 02 00:49:58 isis snowflake-proxy[2235]: 2026/04/01 19:19:58 In the last 1h0m0s, there were 69 connections. Traffic Relayed ↑ 77614 KB, ↓ 1443 KB.
+Apr 02 01:49:58 isis snowflake-proxy[2235]: 2026/04/01 20:19:58 In the last 1h0m0s, there were 64 connections. Traffic Relayed ↑ 12819 KB, ↓ 1685 KB.
+Apr 02 02:49:58 isis snowflake-proxy[2235]: 2026/04/01 21:19:58 In the last 1h0m0s, there were 46 connections. Traffic Relayed ↑ 24856 KB, ↓ 114 KB.
+Apr 02 03:49:58 isis snowflake-proxy[2235]: 2026/04/01 22:19:58 In the last 1h0m0s, there were 44 connections. Traffic Relayed ↑ 3255 KB, ↓ 588 KB.
+Apr 02 04:49:58 isis snowflake-proxy[2235]: 2026/04/01 23:19:58 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 104857 KB, ↓ 2702 KB.
+Apr 02 05:49:58 isis snowflake-proxy[2235]: 2026/04/02 00:19:58 In the last 1h0m0s, there were 31 connections. Traffic Relayed ↑ 10134 KB, ↓ 534 KB.
+Apr 02 06:49:58 isis snowflake-proxy[2235]: 2026/04/02 01:19:58 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 13040 KB, ↓ 614 KB.
+Apr 02 07:49:58 isis snowflake-proxy[2235]: 2026/04/02 02:19:58 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 24496 KB, ↓ 1978 KB.
+Apr 02 08:49:58 isis snowflake-proxy[2235]: 2026/04/02 03:19:58 In the last 1h0m0s, there were 44 connections. Traffic Relayed ↑ 31958 KB, ↓ 1515 KB.
+Apr 02 09:08:21 isis snowflake-proxy[2235]: mux ERROR: 2026/04/02 09:08:21 mux: ending readLoop dispatch error io: read/write on closed pipe
+Apr 02 09:49:58 isis snowflake-proxy[2235]: 2026/04/02 04:19:58 In the last 1h0m0s, there were 71 connections. Traffic Relayed ↑ 3108 KB, ↓ 181 KB.
+Apr 02 10:49:58 isis snowflake-proxy[2235]: 2026/04/02 05:19:58 In the last 1h0m0s, there were 93 connections. Traffic Relayed ↑ 29373 KB, ↓ 288 KB.
+Apr 02 11:39:50 isis snowflake-proxy[2235]: sctp ERROR: 2026/04/02 11:39:50 [0xc000778700] stream 1 not found)
+Apr 02 11:49:58 isis snowflake-proxy[2235]: 2026/04/02 06:19:58 In the last 1h0m0s, there were 106 connections. Traffic Relayed ↑ 48951 KB, ↓ 1644 KB.
+Apr 02 12:49:58 isis snowflake-proxy[2235]: 2026/04/02 07:19:58 In the last 1h0m0s, there were 90 connections. Traffic Relayed ↑ 7410 KB, ↓ 296 KB.
+Apr 02 13:49:58 isis snowflake-proxy[2235]: 2026/04/02 08:19:58 In the last 1h0m0s, there were 85 connections. Traffic Relayed ↑ 32381 KB, ↓ 3508 KB.
+Apr 02 14:49:58 isis snowflake-proxy[2235]: 2026/04/02 09:19:58 In the last 1h0m0s, there were 89 connections. Traffic Relayed ↑ 14540 KB, ↓ 1270 KB.
+Apr 02 15:49:58 isis snowflake-proxy[2235]: 2026/04/02 10:19:58 In the last 1h0m0s, there were 78 connections. Traffic Relayed ↑ 152363 KB, ↓ 643 KB.
+Apr 02 16:49:58 isis snowflake-proxy[2235]: 2026/04/02 11:19:58 In the last 1h0m0s, there were 90 connections. Traffic Relayed ↑ 40834 KB, ↓ 2590 KB.
+Apr 02 17:49:58 isis snowflake-proxy[2235]: 2026/04/02 12:19:58 In the last 1h0m0s, there were 70 connections. Traffic Relayed ↑ 62621 KB, ↓ 8676 KB.
+Apr 02 18:49:58 isis snowflake-proxy[2235]: 2026/04/02 13:19:58 In the last 1h0m0s, there were 71 connections. Traffic Relayed ↑ 64561 KB, ↓ 507 KB.
+Apr 02 19:49:58 isis snowflake-proxy[2235]: 2026/04/02 14:19:58 In the last 1h0m0s, there were 70 connections. Traffic Relayed ↑ 10209 KB, ↓ 190 KB.
+Apr 02 20:49:58 isis snowflake-proxy[2235]: 2026/04/02 15:19:58 In the last 1h0m0s, there were 65 connections. Traffic Relayed ↑ 108002 KB, ↓ 611 KB.
+Apr 02 21:49:58 isis snowflake-proxy[2235]: 2026/04/02 16:19:58 In the last 1h0m0s, there were 67 connections. Traffic Relayed ↑ 81533 KB, ↓ 1275 KB.
+Apr 02 22:49:58 isis snowflake-proxy[2235]: 2026/04/02 17:19:58 In the last 1h0m0s, there were 62 connections. Traffic Relayed ↑ 119842 KB, ↓ 5583 KB.
+Apr 02 23:49:58 isis snowflake-proxy[2235]: 2026/04/02 18:19:58 In the last 1h0m0s, there were 63 connections. Traffic Relayed ↑ 203188 KB, ↓ 2891 KB.
+Apr 03 00:49:58 isis snowflake-proxy[2235]: 2026/04/02 19:19:58 In the last 1h0m0s, there were 61 connections. Traffic Relayed ↑ 30462 KB, ↓ 605 KB.
+Apr 03 01:49:58 isis snowflake-proxy[2235]: 2026/04/02 20:19:58 In the last 1h0m0s, there were 35 connections. Traffic Relayed ↑ 14468 KB, ↓ 473 KB.
+Apr 03 02:49:58 isis snowflake-proxy[2235]: 2026/04/02 21:19:58 In the last 1h0m0s, there were 32 connections. Traffic Relayed ↑ 14766 KB, ↓ 235 KB.
+Apr 03 03:49:58 isis snowflake-proxy[2235]: 2026/04/02 22:19:58 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 99366 KB, ↓ 1437 KB.
+Apr 03 04:49:58 isis snowflake-proxy[2235]: 2026/04/02 23:19:58 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 1804 KB, ↓ 537 KB.
+Apr 03 05:49:58 isis snowflake-proxy[2235]: 2026/04/03 00:19:58 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 352745 KB, ↓ 68 KB.
+Apr 03 06:49:58 isis snowflake-proxy[2235]: 2026/04/03 01:19:58 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 13109 KB, ↓ 1988 KB.
+Apr 03 07:49:58 isis snowflake-proxy[2235]: 2026/04/03 02:19:58 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 30897 KB, ↓ 1846 KB.
+Apr 03 07:51:27 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Apr 03 07:51:27 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Apr 03 07:51:27 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Apr 03 07:51:27 isis systemd[1]: snowflake-proxy.service: Consumed 52min 44.047s CPU time, 805.7M memory peak.
+-- Boot 78d1f58226324336b9b48d20d55063db --
+Apr 03 07:51:53 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Apr 03 07:51:53 isis snowflake-proxy[2258]: 2026/04/03 02:21:53 Proxy starting
+Apr 03 07:52:14 isis snowflake-proxy[2258]: 2026/04/03 02:22:14 NAT type: restricted
+Apr 03 08:51:53 isis snowflake-proxy[2258]: 2026/04/03 03:21:53 In the last 1h0m0s, there were 49 connections. Traffic Relayed ↑ 2223 KB, ↓ 283 KB.
+Apr 03 09:51:53 isis snowflake-proxy[2258]: 2026/04/03 04:21:53 In the last 1h0m0s, there were 51 connections. Traffic Relayed ↑ 2154 KB, ↓ 129 KB.
+Apr 03 10:51:53 isis snowflake-proxy[2258]: 2026/04/03 05:21:53 In the last 1h0m0s, there were 62 connections. Traffic Relayed ↑ 2682 KB, ↓ 261 KB.
+Apr 03 11:51:53 isis snowflake-proxy[2258]: 2026/04/03 06:21:53 In the last 1h0m0s, there were 78 connections. Traffic Relayed ↑ 55504 KB, ↓ 4236 KB.
+Apr 03 12:51:53 isis snowflake-proxy[2258]: 2026/04/03 07:21:53 In the last 1h0m0s, there were 97 connections. Traffic Relayed ↑ 4829 KB, ↓ 1083 KB.
+Apr 03 13:51:53 isis snowflake-proxy[2258]: 2026/04/03 08:21:53 In the last 1h0m0s, there were 73 connections. Traffic Relayed ↑ 101384 KB, ↓ 465 KB.
+Apr 03 14:51:53 isis snowflake-proxy[2258]: 2026/04/03 09:21:53 In the last 1h0m0s, there were 79 connections. Traffic Relayed ↑ 11524 KB, ↓ 1368 KB.
+Apr 03 15:29:49 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Apr 03 15:29:49 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Apr 03 15:29:49 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Apr 03 15:29:49 isis systemd[1]: snowflake-proxy.service: Consumed 3min 44.024s CPU time, 198.7M memory peak.
+-- Boot c3152e0312a14450b53a50255cf2cd9e --
+Apr 03 15:30:16 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Apr 03 15:30:16 isis snowflake-proxy[2262]: 2026/04/03 10:00:16 Proxy starting
+Apr 03 15:30:38 isis snowflake-proxy[2262]: 2026/04/03 10:00:38 NAT type: restricted
+Apr 03 16:30:16 isis snowflake-proxy[2262]: 2026/04/03 11:00:16 In the last 1h0m0s, there were 57 connections. Traffic Relayed ↑ 4726 KB, ↓ 324 KB.
+Apr 03 17:30:16 isis snowflake-proxy[2262]: 2026/04/03 12:00:16 In the last 1h0m0s, there were 40 connections. Traffic Relayed ↑ 5726 KB, ↓ 382 KB.
+Apr 03 18:30:16 isis snowflake-proxy[2262]: 2026/04/03 13:00:16 In the last 1h0m0s, there were 38 connections. Traffic Relayed ↑ 3254 KB, ↓ 526 KB.
+Apr 03 19:30:16 isis snowflake-proxy[2262]: 2026/04/03 14:00:16 In the last 1h0m0s, there were 43 connections. Traffic Relayed ↑ 132010 KB, ↓ 1488 KB.
+Apr 03 20:30:16 isis snowflake-proxy[2262]: 2026/04/03 15:00:16 In the last 1h0m0s, there were 69 connections. Traffic Relayed ↑ 20707 KB, ↓ 380 KB.
+Apr 03 21:30:16 isis snowflake-proxy[2262]: 2026/04/03 16:00:16 In the last 1h0m0s, there were 56 connections. Traffic Relayed ↑ 175644 KB, ↓ 2088 KB.
+Apr 03 22:30:16 isis snowflake-proxy[2262]: 2026/04/03 17:00:16 In the last 1h0m0s, there were 54 connections. Traffic Relayed ↑ 10722 KB, ↓ 1610 KB.
+Apr 03 23:30:16 isis snowflake-proxy[2262]: 2026/04/03 18:00:16 In the last 1h0m0s, there were 51 connections. Traffic Relayed ↑ 559139 KB, ↓ 2885 KB.
+Apr 04 00:30:16 isis snowflake-proxy[2262]: 2026/04/03 19:00:16 In the last 1h0m0s, there were 61 connections. Traffic Relayed ↑ 202005 KB, ↓ 979 KB.
+Apr 04 01:30:16 isis snowflake-proxy[2262]: 2026/04/03 20:00:16 In the last 1h0m0s, there were 57 connections. Traffic Relayed ↑ 89627 KB, ↓ 8767 KB.
+Apr 04 02:30:16 isis snowflake-proxy[2262]: 2026/04/03 21:00:16 In the last 1h0m0s, there were 44 connections. Traffic Relayed ↑ 13758 KB, ↓ 936 KB.
+Apr 04 03:30:16 isis snowflake-proxy[2262]: 2026/04/03 22:00:16 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 1632 KB, ↓ 149 KB.
+Apr 04 04:30:16 isis snowflake-proxy[2262]: 2026/04/03 23:00:16 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 2064434 KB, ↓ 449 KB.
+Apr 04 05:30:16 isis snowflake-proxy[2262]: 2026/04/04 00:00:16 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 766 KB, ↓ 70 KB.
+Apr 04 06:30:16 isis snowflake-proxy[2262]: 2026/04/04 01:00:16 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 1673947 KB, ↓ 52612 KB.
+Apr 04 07:30:16 isis snowflake-proxy[2262]: 2026/04/04 02:00:16 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 39498 KB, ↓ 3073 KB.
+Apr 04 08:30:16 isis snowflake-proxy[2262]: 2026/04/04 03:00:16 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 25344 KB, ↓ 349 KB.
+Apr 04 09:30:16 isis snowflake-proxy[2262]: 2026/04/04 04:00:16 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 278717 KB, ↓ 165 KB.
+Apr 04 10:30:16 isis snowflake-proxy[2262]: 2026/04/04 05:00:16 In the last 1h0m0s, there were 64 connections. Traffic Relayed ↑ 19676 KB, ↓ 357 KB.
+Apr 04 10:32:38 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Apr 04 10:32:38 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Apr 04 10:32:38 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Apr 04 10:32:38 isis systemd[1]: snowflake-proxy.service: Consumed 28min 10.062s CPU time, 3.4G memory peak.
+-- Boot 0df84780eff1493583a028b14eb49af9 --
+Apr 04 10:33:03 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Apr 04 10:33:03 isis snowflake-proxy[2251]: 2026/04/04 05:03:03 Proxy starting
+Apr 04 10:33:29 isis snowflake-proxy[2251]: 2026/04/04 05:03:29 NAT type: restricted
+Apr 04 11:33:03 isis snowflake-proxy[2251]: 2026/04/04 06:03:03 In the last 1h0m0s, there were 73 connections. Traffic Relayed ↑ 6743 KB, ↓ 776 KB.
+Apr 04 12:33:03 isis snowflake-proxy[2251]: 2026/04/04 07:03:03 In the last 1h0m0s, there were 101 connections. Traffic Relayed ↑ 16560 KB, ↓ 565 KB.
+Apr 04 13:33:03 isis snowflake-proxy[2251]: 2026/04/04 08:03:03 In the last 1h0m0s, there were 72 connections. Traffic Relayed ↑ 43960 KB, ↓ 7554 KB.
+Apr 04 14:33:03 isis snowflake-proxy[2251]: 2026/04/04 09:03:03 In the last 1h0m0s, there were 88 connections. Traffic Relayed ↑ 301415 KB, ↓ 22365 KB.
+Apr 04 15:33:03 isis snowflake-proxy[2251]: 2026/04/04 10:03:03 In the last 1h0m0s, there were 90 connections. Traffic Relayed ↑ 10699 KB, ↓ 833 KB.
+Apr 04 16:33:03 isis snowflake-proxy[2251]: 2026/04/04 11:03:03 In the last 1h0m0s, there were 84 connections. Traffic Relayed ↑ 3916 KB, ↓ 247 KB.
+Apr 04 17:33:03 isis snowflake-proxy[2251]: 2026/04/04 12:03:03 In the last 1h0m0s, there were 93 connections. Traffic Relayed ↑ 10729 KB, ↓ 941 KB.
+Apr 04 18:33:03 isis snowflake-proxy[2251]: 2026/04/04 13:03:03 In the last 1h0m0s, there were 66 connections. Traffic Relayed ↑ 18191 KB, ↓ 2666 KB.
+Apr 04 19:33:03 isis snowflake-proxy[2251]: 2026/04/04 14:03:03 In the last 1h0m0s, there were 59 connections. Traffic Relayed ↑ 210746 KB, ↓ 12247 KB.
+Apr 04 20:33:03 isis snowflake-proxy[2251]: 2026/04/04 15:03:03 In the last 1h0m0s, there were 61 connections. Traffic Relayed ↑ 38802 KB, ↓ 1990 KB.
+Apr 04 21:33:03 isis snowflake-proxy[2251]: 2026/04/04 16:03:03 In the last 1h0m0s, there were 63 connections. Traffic Relayed ↑ 193956 KB, ↓ 2234 KB.
+Apr 04 22:33:03 isis snowflake-proxy[2251]: 2026/04/04 17:03:03 In the last 1h0m0s, there were 62 connections. Traffic Relayed ↑ 221326 KB, ↓ 4457 KB.
+Apr 04 23:33:03 isis snowflake-proxy[2251]: 2026/04/04 18:03:03 In the last 1h0m0s, there were 55 connections. Traffic Relayed ↑ 180047 KB, ↓ 10049 KB.
+Apr 05 00:33:03 isis snowflake-proxy[2251]: 2026/04/04 19:03:03 In the last 1h0m0s, there were 55 connections. Traffic Relayed ↑ 314548 KB, ↓ 27384 KB.
+Apr 05 01:33:03 isis snowflake-proxy[2251]: 2026/04/04 20:03:03 In the last 1h0m0s, there were 50 connections. Traffic Relayed ↑ 4661 KB, ↓ 755 KB.
+Apr 05 02:33:03 isis snowflake-proxy[2251]: 2026/04/04 21:03:03 In the last 1h0m0s, there were 41 connections. Traffic Relayed ↑ 11074 KB, ↓ 1303 KB.
+Apr 05 03:33:03 isis snowflake-proxy[2251]: 2026/04/04 22:03:03 In the last 1h0m0s, there were 27 connections. Traffic Relayed ↑ 15711 KB, ↓ 937 KB.
+Apr 05 04:33:03 isis snowflake-proxy[2251]: 2026/04/04 23:03:03 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 196513 KB, ↓ 9249 KB.
+Apr 05 05:33:03 isis snowflake-proxy[2251]: 2026/04/05 00:03:03 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 175671 KB, ↓ 51 KB.
+Apr 05 06:33:03 isis snowflake-proxy[2251]: 2026/04/05 01:03:03 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 5573 KB, ↓ 935 KB.
+Apr 05 07:33:03 isis snowflake-proxy[2251]: 2026/04/05 02:03:03 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 5769 KB, ↓ 699 KB.
+Apr 05 08:33:03 isis snowflake-proxy[2251]: 2026/04/05 03:03:03 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 152357 KB, ↓ 6028 KB.
+Apr 05 09:33:03 isis snowflake-proxy[2251]: 2026/04/05 04:03:03 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 4840 KB, ↓ 471 KB.
+Apr 05 10:33:03 isis snowflake-proxy[2251]: 2026/04/05 05:03:03 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 51420 KB, ↓ 722 KB.
+Apr 05 11:33:03 isis snowflake-proxy[2251]: 2026/04/05 06:03:03 In the last 1h0m0s, there were 75 connections. Traffic Relayed ↑ 188253 KB, ↓ 2833 KB.
+Apr 05 12:33:03 isis snowflake-proxy[2251]: 2026/04/05 07:03:03 In the last 1h0m0s, there were 83 connections. Traffic Relayed ↑ 123485 KB, ↓ 229 KB.
+Apr 05 13:33:03 isis snowflake-proxy[2251]: 2026/04/05 08:03:03 In the last 1h0m0s, there were 67 connections. Traffic Relayed ↑ 86953 KB, ↓ 3864 KB.
+Apr 05 14:33:03 isis snowflake-proxy[2251]: 2026/04/05 09:03:03 In the last 1h0m0s, there were 58 connections. Traffic Relayed ↑ 20266 KB, ↓ 4591 KB.
+Apr 05 15:33:03 isis snowflake-proxy[2251]: 2026/04/05 10:03:03 In the last 1h0m0s, there were 47 connections. Traffic Relayed ↑ 225908 KB, ↓ 973 KB.
+Apr 05 16:33:03 isis snowflake-proxy[2251]: 2026/04/05 11:03:03 In the last 1h0m0s, there were 101 connections. Traffic Relayed ↑ 400659 KB, ↓ 7540 KB.
+Apr 05 17:33:03 isis snowflake-proxy[2251]: 2026/04/05 12:03:03 In the last 1h0m0s, there were 73 connections. Traffic Relayed ↑ 22357 KB, ↓ 228 KB.
+Apr 05 18:33:03 isis snowflake-proxy[2251]: 2026/04/05 13:03:03 In the last 1h0m0s, there were 65 connections. Traffic Relayed ↑ 86734 KB, ↓ 1358 KB.
+Apr 05 19:18:25 isis snowflake-proxy[2251]: mux ERROR: 2026/04/05 19:18:25 mux: ending readLoop dispatch error io: read/write on closed pipe
+Apr 05 19:33:03 isis snowflake-proxy[2251]: 2026/04/05 14:03:03 In the last 1h0m0s, there were 66 connections. Traffic Relayed ↑ 60714 KB, ↓ 2164 KB.
+Apr 05 20:33:03 isis snowflake-proxy[2251]: 2026/04/05 15:03:03 In the last 1h0m0s, there were 72 connections. Traffic Relayed ↑ 8229 KB, ↓ 451 KB.
+Apr 05 21:33:03 isis snowflake-proxy[2251]: 2026/04/05 16:03:03 In the last 1h0m0s, there were 81 connections. Traffic Relayed ↑ 15207 KB, ↓ 890 KB.
+Apr 05 22:33:03 isis snowflake-proxy[2251]: 2026/04/05 17:03:03 In the last 1h0m0s, there were 67 connections. Traffic Relayed ↑ 55585 KB, ↓ 387 KB.
+Apr 05 23:33:03 isis snowflake-proxy[2251]: 2026/04/05 18:03:03 In the last 1h0m0s, there were 65 connections. Traffic Relayed ↑ 40138 KB, ↓ 1509 KB.
+Apr 06 00:33:03 isis snowflake-proxy[2251]: 2026/04/05 19:03:03 In the last 1h0m0s, there were 53 connections. Traffic Relayed ↑ 8354 KB, ↓ 634 KB.
+Apr 06 01:33:03 isis snowflake-proxy[2251]: 2026/04/05 20:03:03 In the last 1h0m0s, there were 38 connections. Traffic Relayed ↑ 15044 KB, ↓ 746 KB.
+Apr 06 02:33:03 isis snowflake-proxy[2251]: 2026/04/05 21:03:03 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 1349 KB, ↓ 624 KB.
+Apr 06 03:33:03 isis snowflake-proxy[2251]: 2026/04/05 22:03:03 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 12514 KB, ↓ 24 KB.
+Apr 06 04:33:03 isis snowflake-proxy[2251]: 2026/04/05 23:03:03 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 36698 KB, ↓ 140 KB.
+Apr 06 05:33:03 isis snowflake-proxy[2251]: 2026/04/06 00:03:03 In the last 1h0m0s, there were 6 connections. Traffic Relayed ↑ 637 KB, ↓ 192 KB.
+Apr 06 06:33:03 isis snowflake-proxy[2251]: 2026/04/06 01:03:03 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 1763540 KB, ↓ 18374 KB.
+Apr 06 07:33:03 isis snowflake-proxy[2251]: 2026/04/06 02:03:03 In the last 1h0m0s, there were 7 connections. Traffic Relayed ↑ 263 KB, ↓ 11 KB.
+Apr 06 08:33:03 isis snowflake-proxy[2251]: 2026/04/06 03:03:03 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 582818 KB, ↓ 30840 KB.
+Apr 06 09:33:03 isis snowflake-proxy[2251]: 2026/04/06 04:03:03 In the last 1h0m0s, there were 12 connections. Traffic Relayed ↑ 838 KB, ↓ 68 KB.
+Apr 06 10:33:03 isis snowflake-proxy[2251]: 2026/04/06 05:03:03 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 16447 KB, ↓ 531 KB.
+Apr 06 11:33:03 isis snowflake-proxy[2251]: 2026/04/06 06:03:03 In the last 1h0m0s, there were 38 connections. Traffic Relayed ↑ 31984 KB, ↓ 1613 KB.
+Apr 06 12:33:03 isis snowflake-proxy[2251]: 2026/04/06 07:03:03 In the last 1h0m0s, there were 53 connections. Traffic Relayed ↑ 28211 KB, ↓ 11136 KB.
+Apr 06 13:33:03 isis snowflake-proxy[2251]: 2026/04/06 08:03:03 In the last 1h0m0s, there were 65 connections. Traffic Relayed ↑ 1011188 KB, ↓ 12754 KB.
+Apr 06 14:33:03 isis snowflake-proxy[2251]: 2026/04/06 09:03:03 In the last 1h0m0s, there were 51 connections. Traffic Relayed ↑ 112223 KB, ↓ 3586 KB.
+Apr 06 15:33:03 isis snowflake-proxy[2251]: 2026/04/06 10:03:03 In the last 1h0m0s, there were 66 connections. Traffic Relayed ↑ 4484 KB, ↓ 578 KB.
+Apr 06 16:33:03 isis snowflake-proxy[2251]: 2026/04/06 11:03:03 In the last 1h0m0s, there were 61 connections. Traffic Relayed ↑ 1068416 KB, ↓ 452 KB.
+Apr 06 17:13:10 isis snowflake-proxy[2251]: mux ERROR: 2026/04/06 17:13:10 mux: ending readLoop dispatch error io: read/write on closed pipe
+Apr 06 17:33:03 isis snowflake-proxy[2251]: 2026/04/06 12:03:03 In the last 1h0m0s, there were 54 connections. Traffic Relayed ↑ 12886 KB, ↓ 383 KB.
+Apr 06 18:33:03 isis snowflake-proxy[2251]: 2026/04/06 13:03:03 In the last 1h0m0s, there were 47 connections. Traffic Relayed ↑ 78183 KB, ↓ 3443 KB.
+Apr 06 19:33:03 isis snowflake-proxy[2251]: 2026/04/06 14:03:03 In the last 1h0m0s, there were 58 connections. Traffic Relayed ↑ 62880 KB, ↓ 8911 KB.
+Apr 06 20:33:03 isis snowflake-proxy[2251]: 2026/04/06 15:03:03 In the last 1h0m0s, there were 50 connections. Traffic Relayed ↑ 69829 KB, ↓ 4633 KB.
+Apr 06 21:33:03 isis snowflake-proxy[2251]: 2026/04/06 16:03:03 In the last 1h0m0s, there were 58 connections. Traffic Relayed ↑ 51198 KB, ↓ 358 KB.
+Apr 06 22:33:03 isis snowflake-proxy[2251]: 2026/04/06 17:03:03 In the last 1h0m0s, there were 67 connections. Traffic Relayed ↑ 460074 KB, ↓ 17021 KB.
+Apr 06 23:33:03 isis snowflake-proxy[2251]: 2026/04/06 18:03:03 In the last 1h0m0s, there were 57 connections. Traffic Relayed ↑ 160948 KB, ↓ 4293 KB.
+Apr 07 00:33:03 isis snowflake-proxy[2251]: 2026/04/06 19:03:03 In the last 1h0m0s, there were 45 connections. Traffic Relayed ↑ 24442 KB, ↓ 1838 KB.
+Apr 07 01:33:03 isis snowflake-proxy[2251]: 2026/04/06 20:03:03 In the last 1h0m0s, there were 43 connections. Traffic Relayed ↑ 57571 KB, ↓ 1572 KB.
+Apr 07 02:33:03 isis snowflake-proxy[2251]: 2026/04/06 21:03:03 In the last 1h0m0s, there were 35 connections. Traffic Relayed ↑ 4727 KB, ↓ 238 KB.
+Apr 07 03:33:03 isis snowflake-proxy[2251]: 2026/04/06 22:03:03 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 3329 KB, ↓ 738 KB.
+Apr 07 04:33:03 isis snowflake-proxy[2251]: 2026/04/06 23:03:03 In the last 1h0m0s, there were 9 connections. Traffic Relayed ↑ 12800 KB, ↓ 40 KB.
+Apr 07 05:33:03 isis snowflake-proxy[2251]: 2026/04/07 00:03:03 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 1168677 KB, ↓ 33525 KB.
+Apr 07 06:33:03 isis snowflake-proxy[2251]: 2026/04/07 01:03:03 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 25754 KB, ↓ 77 KB.
+Apr 07 07:33:03 isis snowflake-proxy[2251]: 2026/04/07 02:03:03 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 215632 KB, ↓ 2424 KB.
+Apr 07 08:33:03 isis snowflake-proxy[2251]: 2026/04/07 03:03:03 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 908 KB, ↓ 127 KB.
+Apr 07 09:33:03 isis snowflake-proxy[2251]: 2026/04/07 04:03:03 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 51580 KB, ↓ 31621 KB.
+Apr 07 10:33:03 isis snowflake-proxy[2251]: 2026/04/07 05:03:03 In the last 1h0m0s, there were 45 connections. Traffic Relayed ↑ 27589 KB, ↓ 890 KB.
+Apr 07 11:33:03 isis snowflake-proxy[2251]: 2026/04/07 06:03:03 In the last 1h0m0s, there were 48 connections. Traffic Relayed ↑ 2612 KB, ↓ 154 KB.
+Apr 07 12:33:03 isis snowflake-proxy[2251]: 2026/04/07 07:03:03 In the last 1h0m0s, there were 35 connections. Traffic Relayed ↑ 270081 KB, ↓ 13189 KB.
+Apr 07 13:33:03 isis snowflake-proxy[2251]: 2026/04/07 08:03:03 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 5237 KB, ↓ 1246 KB.
+Apr 07 14:33:03 isis snowflake-proxy[2251]: 2026/04/07 09:03:03 In the last 1h0m0s, there were 47 connections. Traffic Relayed ↑ 84067 KB, ↓ 3682 KB.
+Apr 07 15:33:03 isis snowflake-proxy[2251]: 2026/04/07 10:03:03 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 24120 KB, ↓ 119 KB.
+Apr 07 16:33:03 isis snowflake-proxy[2251]: 2026/04/07 11:03:03 In the last 1h0m0s, there were 41 connections. Traffic Relayed ↑ 26834 KB, ↓ 1688 KB.
+Apr 07 17:33:03 isis snowflake-proxy[2251]: 2026/04/07 12:03:03 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 117020 KB, ↓ 1139 KB.
+Apr 07 18:33:03 isis snowflake-proxy[2251]: 2026/04/07 13:03:03 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 14889 KB, ↓ 1286 KB.
+Apr 07 19:33:03 isis snowflake-proxy[2251]: 2026/04/07 14:03:03 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 1907 KB, ↓ 356 KB.
+Apr 07 20:33:03 isis snowflake-proxy[2251]: 2026/04/07 15:03:03 In the last 1h0m0s, there were 58 connections. Traffic Relayed ↑ 3970 KB, ↓ 188 KB.
+Apr 07 21:33:03 isis snowflake-proxy[2251]: 2026/04/07 16:03:03 In the last 1h0m0s, there were 59 connections. Traffic Relayed ↑ 7950 KB, ↓ 951 KB.
+Apr 07 22:33:03 isis snowflake-proxy[2251]: 2026/04/07 17:03:03 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 8836 KB, ↓ 681 KB.
+Apr 07 23:33:03 isis snowflake-proxy[2251]: 2026/04/07 18:03:03 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 4130 KB, ↓ 874 KB.
+Apr 08 00:33:03 isis snowflake-proxy[2251]: 2026/04/07 19:03:03 In the last 1h0m0s, there were 41 connections. Traffic Relayed ↑ 5181 KB, ↓ 259 KB.
+Apr 08 01:33:03 isis snowflake-proxy[2251]: 2026/04/07 20:03:03 In the last 1h0m0s, there were 54 connections. Traffic Relayed ↑ 10740 KB, ↓ 1809 KB.
+Apr 08 02:33:03 isis snowflake-proxy[2251]: 2026/04/07 21:03:03 In the last 1h0m0s, there were 55 connections. Traffic Relayed ↑ 10139 KB, ↓ 458 KB.
+Apr 08 03:33:03 isis snowflake-proxy[2251]: 2026/04/07 22:03:03 In the last 1h0m0s, there were 55 connections. Traffic Relayed ↑ 3498 KB, ↓ 703 KB.
+Apr 08 04:33:03 isis snowflake-proxy[2251]: 2026/04/07 23:03:03 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 6202 KB, ↓ 1298 KB.
+Apr 08 05:33:03 isis snowflake-proxy[2251]: 2026/04/08 00:03:03 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 5798 KB, ↓ 713 KB.
+Apr 08 06:33:03 isis snowflake-proxy[2251]: 2026/04/08 01:03:03 In the last 1h0m0s, there were 40 connections. Traffic Relayed ↑ 4203 KB, ↓ 1947 KB.
+Apr 08 07:33:03 isis snowflake-proxy[2251]: 2026/04/08 02:03:03 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 1704 KB, ↓ 447 KB.
+Apr 08 08:33:03 isis snowflake-proxy[2251]: 2026/04/08 03:03:03 In the last 1h0m0s, there were 50 connections. Traffic Relayed ↑ 2227 KB, ↓ 386 KB.
+Apr 08 09:33:03 isis snowflake-proxy[2251]: 2026/04/08 04:03:03 In the last 1h0m0s, there were 48 connections. Traffic Relayed ↑ 6085 KB, ↓ 550 KB.
+Apr 08 10:33:03 isis snowflake-proxy[2251]: 2026/04/08 05:03:03 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 1513 KB, ↓ 71 KB.
+Apr 08 11:33:03 isis snowflake-proxy[2251]: 2026/04/08 06:03:03 In the last 1h0m0s, there were 56 connections. Traffic Relayed ↑ 9354 KB, ↓ 650 KB.
+Apr 08 12:33:03 isis snowflake-proxy[2251]: 2026/04/08 07:03:03 In the last 1h0m0s, there were 52 connections. Traffic Relayed ↑ 4689 KB, ↓ 781 KB.
+Apr 08 13:33:03 isis snowflake-proxy[2251]: 2026/04/08 08:03:03 In the last 1h0m0s, there were 50 connections. Traffic Relayed ↑ 4205 KB, ↓ 256 KB.
+Apr 08 14:33:03 isis snowflake-proxy[2251]: 2026/04/08 09:03:03 In the last 1h0m0s, there were 48 connections. Traffic Relayed ↑ 6864 KB, ↓ 1330 KB.
+Apr 08 15:33:03 isis snowflake-proxy[2251]: 2026/04/08 10:03:03 In the last 1h0m0s, there were 48 connections. Traffic Relayed ↑ 4462 KB, ↓ 409 KB.
+Apr 08 16:33:03 isis snowflake-proxy[2251]: 2026/04/08 11:03:03 In the last 1h0m0s, there were 41 connections. Traffic Relayed ↑ 12982 KB, ↓ 1223 KB.
+Apr 08 17:33:03 isis snowflake-proxy[2251]: 2026/04/08 12:03:03 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 93108 KB, ↓ 790 KB.
+Apr 08 18:33:03 isis snowflake-proxy[2251]: 2026/04/08 13:03:03 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 1209 KB, ↓ 69 KB.
+Apr 08 19:33:03 isis snowflake-proxy[2251]: 2026/04/08 14:03:03 In the last 1h0m0s, there were 39 connections. Traffic Relayed ↑ 214379 KB, ↓ 7598 KB.
+Apr 08 20:33:03 isis snowflake-proxy[2251]: 2026/04/08 15:03:03 In the last 1h0m0s, there were 56 connections. Traffic Relayed ↑ 53028 KB, ↓ 2767 KB.
+Apr 08 21:34:24 isis snowflake-proxy[2251]: 2026/04/08 16:04:24 In the last 1h0m0s, there were 64 connections. Traffic Relayed ↑ 115149 KB, ↓ 554 KB.
+Apr 08 22:34:24 isis snowflake-proxy[2251]: 2026/04/08 17:04:24 In the last 1h0m0s, there were 63 connections. Traffic Relayed ↑ 3614 KB, ↓ 558 KB.
+Apr 08 23:34:24 isis snowflake-proxy[2251]: 2026/04/08 18:04:24 In the last 1h0m0s, there were 52 connections. Traffic Relayed ↑ 2632 KB, ↓ 433 KB.
+Apr 09 00:34:24 isis snowflake-proxy[2251]: 2026/04/08 19:04:24 In the last 1h0m0s, there were 38 connections. Traffic Relayed ↑ 3511 KB, ↓ 420 KB.
+Apr 09 01:34:24 isis snowflake-proxy[2251]: 2026/04/08 20:04:24 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 60747 KB, ↓ 2173 KB.
+Apr 09 02:34:24 isis snowflake-proxy[2251]: 2026/04/08 21:04:24 In the last 1h0m0s, there were 25 connections. Traffic Relayed ↑ 42167 KB, ↓ 2022 KB.
+Apr 09 03:34:24 isis snowflake-proxy[2251]: 2026/04/08 22:04:24 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 1840 KB, ↓ 112 KB.
+Apr 09 04:34:24 isis snowflake-proxy[2251]: 2026/04/08 23:04:24 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 4751 KB, ↓ 215 KB.
+Apr 09 05:34:24 isis snowflake-proxy[2251]: 2026/04/09 00:04:24 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 25275 KB, ↓ 356 KB.
+Apr 09 06:34:24 isis snowflake-proxy[2251]: 2026/04/09 01:04:24 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 1171 KB, ↓ 75 KB.
+Apr 09 07:34:24 isis snowflake-proxy[2251]: 2026/04/09 02:04:24 In the last 1h0m0s, there were 24 connections. Traffic Relayed ↑ 6921 KB, ↓ 130 KB.
+Apr 09 08:34:24 isis snowflake-proxy[2251]: 2026/04/09 03:04:24 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 3818 KB, ↓ 74 KB.
+Apr 09 09:09:49 isis systemd[1]: Stopping snowflake-proxy.service - snowflake-proxy...
+Apr 09 09:09:49 isis systemd[1]: snowflake-proxy.service: Deactivated successfully.
+Apr 09 09:09:49 isis systemd[1]: Stopped snowflake-proxy.service - snowflake-proxy.
+Apr 09 09:09:49 isis systemd[1]: snowflake-proxy.service: Consumed 1h 41min 20.559s CPU time, 2G memory peak.
+-- Boot 5119f43befb54d62a9489030d5903217 --
+Apr 09 09:10:18 isis systemd[1]: Started snowflake-proxy.service - snowflake-proxy.
+Apr 09 09:10:18 isis snowflake-proxy[2259]: 2026/04/09 03:40:18 Proxy starting
+Apr 09 09:10:39 isis snowflake-proxy[2259]: 2026/04/09 03:40:39 NAT type: restricted
+Apr 09 10:10:18 isis snowflake-proxy[2259]: 2026/04/09 04:40:18 In the last 1h0m0s, there were 41 connections. Traffic Relayed ↑ 3488 KB, ↓ 417 KB.
+Apr 09 11:10:18 isis snowflake-proxy[2259]: 2026/04/09 05:40:18 In the last 1h0m0s, there were 44 connections. Traffic Relayed ↑ 2660 KB, ↓ 438 KB.
+Apr 09 12:10:18 isis snowflake-proxy[2259]: 2026/04/09 06:40:18 In the last 1h0m0s, there were 53 connections. Traffic Relayed ↑ 6936 KB, ↓ 709 KB.
+Apr 09 13:10:18 isis snowflake-proxy[2259]: 2026/04/09 07:40:18 In the last 1h0m0s, there were 23 connections. Traffic Relayed ↑ 5137 KB, ↓ 535 KB.
+Apr 09 14:10:18 isis snowflake-proxy[2259]: 2026/04/09 08:40:18 In the last 1h0m0s, there were 5 connections. Traffic Relayed ↑ 2759 KB, ↓ 152 KB.
+Apr 09 15:10:18 isis snowflake-proxy[2259]: 2026/04/09 09:40:18 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 84949 KB, ↓ 45 KB.
+Apr 09 16:10:18 isis snowflake-proxy[2259]: 2026/04/09 10:40:18 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 7894 KB, ↓ 988 KB.
+Apr 09 16:27:38 isis snowflake-proxy[2259]: mux ERROR: 2026/04/09 16:27:38 mux: ending readLoop dispatch error io: read/write on closed pipe
+Apr 09 17:10:18 isis snowflake-proxy[2259]: 2026/04/09 11:40:18 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 59579 KB, ↓ 5187 KB.
+Apr 09 18:10:18 isis snowflake-proxy[2259]: 2026/04/09 12:40:18 In the last 1h0m0s, there were 56 connections. Traffic Relayed ↑ 1289943 KB, ↓ 77495 KB.
+Apr 09 19:10:18 isis snowflake-proxy[2259]: 2026/04/09 13:40:18 In the last 1h0m0s, there were 49 connections. Traffic Relayed ↑ 23376 KB, ↓ 1618 KB.
+Apr 09 20:10:18 isis snowflake-proxy[2259]: 2026/04/09 14:40:18 In the last 1h0m0s, there were 37 connections. Traffic Relayed ↑ 28987 KB, ↓ 4013 KB.
+Apr 09 21:10:18 isis snowflake-proxy[2259]: 2026/04/09 15:40:18 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 10048 KB, ↓ 743 KB.
+Apr 09 22:10:18 isis snowflake-proxy[2259]: 2026/04/09 16:40:18 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 11130 KB, ↓ 237 KB.
+Apr 09 23:10:18 isis snowflake-proxy[2259]: 2026/04/09 17:40:18 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 705 KB, ↓ 46 KB.
+Apr 10 00:10:18 isis snowflake-proxy[2259]: 2026/04/09 18:40:18 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 12702 KB, ↓ 1121 KB.
+Apr 10 01:10:18 isis snowflake-proxy[2259]: 2026/04/09 19:40:18 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 294540 KB, ↓ 2452 KB.
+Apr 10 02:10:18 isis snowflake-proxy[2259]: 2026/04/09 20:40:18 In the last 1h0m0s, there were 10 connections. Traffic Relayed ↑ 40106 KB, ↓ 299 KB.
+Apr 10 03:10:18 isis snowflake-proxy[2259]: 2026/04/09 21:40:18 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 27159 KB, ↓ 114 KB.
+Apr 10 04:10:18 isis snowflake-proxy[2259]: 2026/04/09 22:40:18 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 369894 KB, ↓ 15626 KB.
+Apr 10 05:10:18 isis snowflake-proxy[2259]: 2026/04/09 23:40:18 In the last 1h0m0s, there were 28 connections. Traffic Relayed ↑ 109418 KB, ↓ 5790 KB.
+Apr 10 06:10:18 isis snowflake-proxy[2259]: 2026/04/10 00:40:18 In the last 1h0m0s, there were 26 connections. Traffic Relayed ↑ 2418 KB, ↓ 127 KB.
+Apr 10 07:10:18 isis snowflake-proxy[2259]: 2026/04/10 01:40:18 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 3163 KB, ↓ 26 KB.
+Apr 10 08:10:18 isis snowflake-proxy[2259]: 2026/04/10 02:40:18 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 370 KB, ↓ 76 KB.
+Apr 10 09:10:18 isis snowflake-proxy[2259]: 2026/04/10 03:40:18 In the last 1h0m0s, there were 13 connections. Traffic Relayed ↑ 754 KB, ↓ 161 KB.
+Apr 10 10:10:18 isis snowflake-proxy[2259]: 2026/04/10 04:40:18 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 8422 KB, ↓ 264 KB.
+Apr 10 11:10:18 isis snowflake-proxy[2259]: 2026/04/10 05:40:18 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 2668 KB, ↓ 162 KB.
+Apr 10 12:10:18 isis snowflake-proxy[2259]: 2026/04/10 06:40:18 In the last 1h0m0s, there were 41 connections. Traffic Relayed ↑ 8776 KB, ↓ 370 KB.
+Apr 10 13:10:18 isis snowflake-proxy[2259]: 2026/04/10 07:40:18 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 130896 KB, ↓ 6138 KB.
+Apr 10 14:10:18 isis snowflake-proxy[2259]: 2026/04/10 08:40:18 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 35892 KB, ↓ 2359 KB.
+Apr 10 15:10:18 isis snowflake-proxy[2259]: 2026/04/10 09:40:18 In the last 1h0m0s, there were 17 connections. Traffic Relayed ↑ 19165 KB, ↓ 57 KB.
+Apr 10 16:10:18 isis snowflake-proxy[2259]: 2026/04/10 10:40:18 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 93703 KB, ↓ 89 KB.
+Apr 10 17:10:18 isis snowflake-proxy[2259]: 2026/04/10 11:40:18 In the last 1h0m0s, there were 22 connections. Traffic Relayed ↑ 13586 KB, ↓ 695 KB.
+Apr 10 18:10:18 isis snowflake-proxy[2259]: 2026/04/10 12:40:18 In the last 1h0m0s, there were 34 connections. Traffic Relayed ↑ 45924 KB, ↓ 335 KB.
+Apr 10 19:10:18 isis snowflake-proxy[2259]: 2026/04/10 13:40:18 In the last 1h0m0s, there were 36 connections. Traffic Relayed ↑ 36527 KB, ↓ 11404 KB.
+Apr 10 20:10:18 isis snowflake-proxy[2259]: 2026/04/10 14:40:18 In the last 1h0m0s, there were 20 connections. Traffic Relayed ↑ 2185 KB, ↓ 96 KB.
+Apr 10 21:10:18 isis snowflake-proxy[2259]: 2026/04/10 15:40:18 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 143341 KB, ↓ 3244 KB.
+Apr 10 22:10:18 isis snowflake-proxy[2259]: 2026/04/10 16:40:18 In the last 1h0m0s, there were 21 connections. Traffic Relayed ↑ 89363 KB, ↓ 430 KB.
+Apr 10 23:10:18 isis snowflake-proxy[2259]: 2026/04/10 17:40:18 In the last 1h0m0s, there were 29 connections. Traffic Relayed ↑ 151314 KB, ↓ 2288 KB.
+Apr 11 00:10:18 isis snowflake-proxy[2259]: 2026/04/10 18:40:18 In the last 1h0m0s, there were 38 connections. Traffic Relayed ↑ 13296 KB, ↓ 2347 KB.
+Apr 11 01:10:18 isis snowflake-proxy[2259]: 2026/04/10 19:40:18 In the last 1h0m0s, there were 33 connections. Traffic Relayed ↑ 19643 KB, ↓ 1333 KB.
+Apr 11 02:10:18 isis snowflake-proxy[2259]: 2026/04/10 20:40:18 In the last 1h0m0s, there were 16 connections. Traffic Relayed ↑ 1928 KB, ↓ 299 KB.
+Apr 11 03:10:18 isis snowflake-proxy[2259]: 2026/04/10 21:40:18 In the last 1h0m0s, there were 30 connections. Traffic Relayed ↑ 212904 KB, ↓ 12928 KB.
+Apr 11 04:10:18 isis snowflake-proxy[2259]: 2026/04/10 22:40:18 In the last 1h0m0s, there were 11 connections. Traffic Relayed ↑ 1660 KB, ↓ 18 KB.
+Apr 11 05:10:18 isis snowflake-proxy[2259]: 2026/04/10 23:40:18 In the last 1h0m0s, there were 14 connections. Traffic Relayed ↑ 91422 KB, ↓ 2606 KB.
+Apr 11 06:10:18 isis snowflake-proxy[2259]: 2026/04/11 00:40:18 In the last 1h0m0s, there were 18 connections. Traffic Relayed ↑ 3446 KB, ↓ 221 KB.

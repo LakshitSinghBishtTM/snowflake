@@ -1,0 +1,10 @@
+# Date: 18/05/2026 & Time: 07:00
+
+## Run in given order
+
+```sudo systemctl daemon-reload```
+```sudo systemctl enable snowflake.service```
+```sudo systemctl start snowflake.service```
+
+## Check
+```systemctl status snowflake.service```

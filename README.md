@@ -1,0 +1,131 @@
+# Snowflake
+
+A simple architecture and dataset for Tor Snowflake Proxy.
+Designed as a supplementary resource for locally running a Snowflake proxy.
+
+For running Snowflake and/or other bridges, please visit https://torproject.org and use phase_ii/docs/ as additional help.
+
+## Use
+
+For running Snowflake and script related things, other Tor Volunteers are highly encouraged and can use the scripts freely along with documentation and other help available.
+The dataset can be used for research and analysis with proper attribution. Modified datasets or derivative works must clearly indicate changes and remain under the same license terms.
+
+## Repository Structure
+
+```
+snowflake
+├── LICENSE
+├── phase_i
+│   ├── host_warning.txt
+│   ├── LICENSE_DATA
+│   ├── os-and-kernel-logs
+│   │   └── dist-upgrade
+│   │       ├── 20260326-1710
+│   │       ├── 20260424-1021
+│   ├── rawlogs
+│   ├── raw_logs.sh
+│   ├── readme.md
+│   ├── snowflake-monthly.log
+│   ├── snowflake-stats.csv
+│   ├── snowflake-stats.sh
+│   ├── snowflake-weekly.log
+│   └── TIMING.txt
+├── phase_ii
+│   ├── docs
+│   │   ├── cron.txt
+│   │   ├── duration.txt
+│   │   ├── install.txt
+│   │   ├── output.txt
+│   │   ├── reading_order.txt
+│   │   ├── scripts.txt
+│   │   ├── systemctl.txt
+│   │   └── systemd.txt
+│   ├── logs
+│   │   ├── daily_logs
+│   │   │   ├── raw
+│   │   │   └── summarised
+│   │   ├── LICENSE_DATA
+│   │   ├── monthly_logs
+│   │   │   ├── raw
+│   │   │   └── summarised
+│   │   └── weekly_logs
+│   │       ├── raw
+│   │       └── summarised
+│   ├── metadata
+│   │   ├── hardware.txt
+│   │   ├── host.txt
+│   │   ├── network.txt
+│   │   ├── reading_order.txt
+│   │   ├── software.txt
+│   │   └── specs.txt
+│   └── scripts
+│       ├── daily
+│       │   ├── daily_raw.sh
+│       │   └── daily_summary.sh
+│       ├── monthly
+│       │   ├── monthly_raw.sh
+│       │   └── monthly_summary.sh
+│       └── weekly
+│           ├── weekly_raw.sh
+│           └── weekly_summary.sh
+└── README.md
+```
+
+## Phases
+
+### Phase I - Ape
+
+- February to May
+- Data retention focus
+- Simple structure
+
+### Phase II - Sanit
+
+- May to Present
+- Organised and structured
+- Documentation and cleanliness
+
+## Features
+
+- Logs are categorised as raw and summary
+- Separate scripts for each logging task. Helpful for debugging
+- Modularisation of infra for better separation
+- Proper documentation for running snowflake
+- Updated and real dataset
+- Data collected across multiple operating systems, networks and locations
+- 4 months data and still counting
+- No vps or remote server for artificial inflation. Real world deployment
+
+## Example Output
+
+The following output is from snowflake/phase_i/snowflake-weekly.log containing polished weekly stats:
+
+```
+==== WEEK 2026-04-12 ====
+Connections: 1914
+Upload: 14.2735 GB
+Download: 0.488194 GB
+Total Traffic: 14.761694 GB
+Active hours: 167
+Avg connections/hour: 11.46107784431137724550
+```
+ 
+## License
+
+This repo is licensed under GNU General Public License v3.0
+Datasets and telemetry logs are licensed separately under CC BY-NC-SA 4.0
+
+For more information, please check LICENSE and LICENSE_DATA
+
+
+## Reporting
+
+If any of my sensitive data or info is available on the dataset, then please email at lakshitsinghbishttm@gmail.com along with the location of sensitive info. Mail will be answered as soon as possible.
+
+For improvement in scripts, data retention, documentation and other problems, please use issues of GitHub.
+
+## Disclaimer
+
+- This project is not funded/affiliated with or endorsed by the Tor Project.
+- This project doesn't support any terrorist organisation. Hostname being isis is purely coincidental
+- No deanonymisation or sensitive data of snowflake users is logged

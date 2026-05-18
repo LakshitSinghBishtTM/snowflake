@@ -1,0 +1,10 @@
+2026-04-24 10:21:39,637 INFO Using config files '['./DistUpgrade.cfg', '/etc/update-manager/release-upgrades.d/ubuntu-advantage-upgrades.cfg']'
+2026-04-24 10:21:39,637 INFO uname information: 'Linux isis 6.17.0-22-generic #22-Ubuntu SMP PREEMPT_DYNAMIC Fri Mar 13 12:04:44 UTC 2026 x86_64'
+2026-04-24 10:21:39,818 INFO apt version: '3.1.6ubuntu2'
+2026-04-24 10:21:39,818 INFO python version: '3.13.7 (main, Mar  3 2026, 12:19:54) [GCC 15.2.0]'
+2026-04-24 10:21:39,819 INFO release-upgrader version '26.04.18' started
+2026-04-24 10:21:39,827 INFO locale: 'en_US' 'UTF-8'
+2026-04-24 10:21:39,834 DEBUG screen returned: 'No Sockets found in /run/screen/S-root.
+
+'
+2026-04-24 10:21:39,834 INFO re-exec inside screen: '['screen', '-e', '\\0\\0', '-c', 'screenrc', '-S', 'ubuntu-release-upgrade-screen-window', '/tmp/ubuntu-release-upgrader-pkq6861w/resolute', '--frontend=DistUpgradeViewText', '--devel-release']'

@@ -1,0 +1,22 @@
+# Date: 18/05/2026 & Time: 07:00
+
+## Create
+```sudo nano /etc/systemd/system/snowflake.service```
+
+## Paste this
+
+```[Unit]
+Description=Tor Snowflake Proxy
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/bin/snowflake-proxy
+Restart=always
+RestartSec=5
+User=nobody
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target```
+

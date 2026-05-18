@@ -1,0 +1,27 @@
+# Date: 18/05/2026 & Time: 10:00
+
+## Install
+```sudo pacman -S cronie```
+
+## Run
+```sudo systemctl start cronie.service
+sudo systemctl enable cronie.service```
+
+## Enable Scripts Run
+```crontab -e```
+
+## Pasted text
+```# Snowflake
+
+## DAILY
+0 0 * * * /home/ajay/lab/snowflake/phase_ii/scripts/daily/daily_raw.sh
+5 0 * * * /home/ajay/lab/snowflake/phase_ii/scripts/daily/daily_summary.sh
+
+## WEEKLY
+10 0 * * 0 /home/ajay/lab/snowflake/phase_ii/scripts/weekly/weekly_raw.sh
+15 0 * * 0 /home/ajay/lab/snowflake/phase_ii/scripts/weekly/weekly_summary.sh
+
+## MONTHLY
+20 0 1 * * /home/ajay/lab/snowflake/phase_ii/scripts/monthly/monthly_raw.sh
+25 0 1 * * /home/ajay/lab/snowflake/phase_ii/scripts/monthly/monthly_summary.sh
+```

@@ -1,0 +1,42 @@
+# Date: 18/05/2026 & Time: 07:00
+
+## Example output of commands when successful
+
+## Manual run
+```[ajay@mac ~]$ snowflake-proxy
+2026/05/18 06:39:37 Using geoip file  /usr/share/tor/geoip  with checksum a31b9561511bb83be0ab77095dc33dc59734a37d
+2026/05/18 06:39:37 Loaded  379140  entries into table
+2026/05/18 06:39:37 Using geoip file  /usr/share/tor/geoip6  with checksum 67ffe2bf663b0e8377c954b54ef37d97c73e4410
+2026/05/18 06:39:37 Loaded  298216  entries into table
+2026/05/18 01:09:37 Proxy starting
+^C```
+
+## Location
+```[ajay@mac ~]$ which snowflake-proxy
+/usr/bin/snowflake-proxy```
+
+## Enable
+```[ajay@mac ~]$ sudo systemctl enable snowflake.service
+Created symlink '/etc/systemd/system/multi-user.target.wants/snowflake.service' → '/etc/systemd/system/snowflake.service'.```
+
+## Status
+```[ajay@mac ~]$ systemctl status snowflake.service
+● snowflake.service - Tor Snowflake Proxy
+     Loaded: loaded (/etc/systemd/system/snowflake.service; enabled; preset: disable>
+     Active: active (running) since Mon 2026-05-18 06:44:35 IST; 8min ago
+ Invocation: 390a08b7944e40b8aaf786b1b6f17269
+   Main PID: 12921 (snowflake-proxy)
+      Tasks: 19 (limit: 28332)
+     Memory: 142.2M (peak: 182.1M)
+        CPU: 1.317s
+     CGroup: /system.slice/snowflake.service
+             └─12921 /usr/bin/snowflake-proxy
+
+May 18 06:44:35 mac systemd[1]: Started Tor Snowflake Proxy.
+May 18 06:44:35 mac snowflake-proxy[12921]: 2026/05/18 06:44:35 Using geoip file  /u>
+May 18 06:44:35 mac snowflake-proxy[12921]: 2026/05/18 06:44:35 Loaded  379140  entr>
+May 18 06:44:35 mac snowflake-proxy[12921]: 2026/05/18 06:44:35 Using geoip file  /u>
+May 18 06:44:35 mac snowflake-proxy[12921]: 2026/05/18 06:44:35 Loaded  298216  entr>
+May 18 06:44:35 mac snowflake-proxy[12921]: 2026/05/18 01:14:35 Proxy starting
+May 18 06:44:57 mac snowflake-proxy[12921]: 2026/05/18 01:14:57 NAT type: restricted```
+

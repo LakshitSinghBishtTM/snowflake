@@ -1,0 +1,13 @@
+# Date: 18/05/2026 & Time: 07:00
+
+## Download
+```yay -S snowflake-pt-proxy```
+
+## Check
+```which snowflake-proxy```
+
+## Run manually
+```snowflake-proxy```
+
+## Stop
+```ctrl+c```

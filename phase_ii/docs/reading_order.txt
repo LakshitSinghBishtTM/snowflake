@@ -1,0 +1,14 @@
+# Date: 18/05/2026 & Time: 07:00
+
+## Read in this order
+
+1. install.txt
+2. systemd.txt
+3. systemctl.txt
+
+## Note
+
+Following can be read as supplementary without any strict order
+
+1. output.txt
+2. duration.txt
