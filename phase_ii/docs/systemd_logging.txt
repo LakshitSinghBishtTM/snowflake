@@ -1,0 +1,206 @@
+# Date: 19/05/2026 & Time: 06:00
+
+1. Make folders
+
+```[ajay@mac ~]$ mkdir -p ~/.config/systemd/user    
+mkdir -p ~/lab/snowflake/phase_ii/systemd/services
+mkdir -p ~/lab/snowflake/phase_ii/systemd/timers
+```
+
+2. Create service files
+
+```[ajay@mac services]$ touch daily_raw.service \
+daily_summary.service \
+weekly_raw.service \
+weekly_summary.service \
+monthly_raw.service \
+monthly_summary.service
+```
+
+3. File content
+
+## daily_raw
+
+```[Unit]
+Description=Daily Snowflake Raw Log
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/ajay/lab/snowflake/phase_ii
+ExecStart=/bin/bash /home/ajay/lab/snowflake/phase_ii/scripts/daily/daily_raw.sh
+```
+
+## daily_summary
+
+```[Unit]
+Description=Daily Snowflake Summary Log
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/ajay/lab/snowflake/phase_ii
+ExecStart=/bin/bash /home/ajay/lab/snowflake/phase_ii/scripts/daily/daily_summary.sh
+```
+
+## weekly_raw
+
+```[Unit]
+Description=Weekly Snowflake Raw Log
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/ajay/lab/snowflake/phase_ii
+ExecStart=/bin/bash /home/ajay/lab/snowflake/phase_ii/scripts/weekly/weekly_raw.sh
+```
+
+## weekly_summary
+
+```[Unit]
+Description=Weekly Snowflake Summary Log
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/ajay/lab/snowflake/phase_ii
+ExecStart=/bin/bash /home/ajay/lab/snowflake/phase_ii/scripts/weekly/weekly_summary.sh
+```
+
+## monthly_raw
+
+```[Unit]
+Description=Monthly Snowflake Raw Log
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/ajay/lab/snowflake/phase_ii
+ExecStart=/bin/bash /home/ajay/lab/snowflake/phase_ii/scripts/monthly/monthly_raw.sh
+```
+
+## monthly_summary
+
+```[Unit]
+Description=Monthly Snowflake Summary Log
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/ajay/lab/snowflake/phase_ii
+ExecStart=/bin/bash /home/ajay/lab/snowflake/phase_ii/scripts/monthly/monthly_summary.sh
+```
+
+4. Create timers
+
+```[ajay@mac timers]$ nano daily_raw.timer
+[ajay@mac timers]$ nano daily_summary.timer
+[ajay@mac timers]$ nano weekly_raw.timer
+[ajay@mac timers]$ nano weekly_summary.timer
+[ajay@mac timers]$ nano monthly_summary.timer
+[ajay@mac timers]$ nano monthly_raw.timer
+```
+
+5. File content
+
+## daily_raw
+
+```[Unit]
+Description=Run Daily Snowflake Raw Log
+
+[Timer]
+OnCalendar=*-*-* 00:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+```
+
+## daily_summary
+
+```[Unit]
+Description=Run Daily Snowflake Summary Log
+
+[Timer]
+OnCalendar=*-*-* 00:05:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+```
+
+## weekly_raw
+
+```[Unit]
+Description=Run Weekly Snowflake Raw Log
+
+[Timer]
+OnCalendar=Sun *-*-* 00:10:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+```
+
+## weekly_summary
+
+```[Unit]
+Description=Run Weekly Snowflake Summary Log
+
+[Timer]
+OnCalendar=Sun *-*-* 00:15:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+```
+
+## monthly_raw
+
+```[Unit]
+Description=Run Monthly Snowflake Raw Log
+
+[Timer]
+OnCalendar=*-*-01 00:20:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+```
+
+## monthly_summary
+
+```[Unit]
+Description=Run Monthly Snowflake Summary Log
+
+[Timer]
+OnCalendar=*-*-01 00:25:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+```
+
+6. Copy to address
+
+```[ajay@mac timers]$ cp ~/lab/snowflake/phase_ii/systemd/services/*.service ~/.config/systemd/user/
+[ajay@mac timers]$ cp ~/lab/snowflake/phase_ii/systemd/timers/*.timer ~/.config/systemd/user/
+```
+
+7. Enable and run
+
+```
+[ajay@mac timers]$ loginctl enable-linger ajay
+[ajay@mac timers]$ systemctl --user daemon-reload
+[ajay@mac timers]$ systemctl --user enable --now daily_raw.timer
+[ajay@mac timers]$ systemctl --user enable --now daily_summary.timer
+[ajay@mac timers]$ systemctl --user enable --now weekly_raw.timer
+[ajay@mac timers]$ systemctl --user enable --now weekly_summary.timer
+[ajay@mac timers]$ systemctl --user enable --now monthly_summary.timer
+[ajay@mac timers]$ systemctl --user enable --now monthly_raw.timer
+[ajay@mac timers]$ systemctl --user list-timers --all
+NEXT                                 LEFT LAST PASSED UNIT                  ACTIVATES              
+Wed 2026-05-20 00:00:00 IST           17h -         - daily_raw.timer       daily_raw.service
+Wed 2026-05-20 00:05:00 IST           17h -         - daily_summary.timer   daily_summary.service
+Sun 2026-05-24 00:10:00 IST        4 days -         - weekly_raw.timer      weekly_raw.service
+Sun 2026-05-24 00:15:00 IST        4 days -         - weekly_summary.timer  weekly_summary.service
+Mon 2026-06-01 00:20:00 IST 1 week 5 days -         - monthly_raw.timer     monthly_raw.service
+Mon 2026-06-01 00:25:00 IST 1 week 5 days -         - monthly_summary.timer monthly_summary.service
+
+6 timers listed.
+```
+

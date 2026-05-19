@@ -1,0 +1,7 @@
+[Unit]
+Description=Monthly Snowflake Summary Log
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/ajay/lab/snowflake/phase_ii
+ExecStart=/bin/bash /home/ajay/lab/snowflake/phase_ii/scripts/monthly/monthly_summary.sh

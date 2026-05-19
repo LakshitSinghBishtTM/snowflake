@@ -1,0 +1,9 @@
+[Unit]
+Description=Run Weekly Snowflake Summary Log
+
+[Timer]
+OnCalendar=Sun *-*-* 00:15:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

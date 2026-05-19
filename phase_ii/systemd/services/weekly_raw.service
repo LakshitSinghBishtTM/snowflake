@@ -1,0 +1,7 @@
+[Unit]
+Description=Weekly Snowflake Raw Log
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/ajay/lab/snowflake/phase_ii
+ExecStart=/bin/bash /home/ajay/lab/snowflake/phase_ii/scripts/weekly/weekly_raw.sh

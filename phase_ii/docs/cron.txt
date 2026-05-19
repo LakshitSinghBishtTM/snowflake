@@ -25,3 +25,7 @@ sudo systemctl enable cronie.service```
 20 0 1 * * /home/ajay/lab/snowflake/phase_ii/scripts/monthly/monthly_raw.sh
 25 0 1 * * /home/ajay/lab/snowflake/phase_ii/scripts/monthly/monthly_summary.sh
 ```
+
+# Date: 19/05/2026 & Time: 06:00
+
+Replaced cron by systemd timer

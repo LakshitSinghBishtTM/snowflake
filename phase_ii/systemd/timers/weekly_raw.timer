@@ -1,0 +1,9 @@
+[Unit]
+Description=Run Weekly Snowflake Raw Log
+
+[Timer]
+OnCalendar=Sun *-*-* 00:10:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
