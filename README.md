@@ -74,17 +74,17 @@ snowflake
 
 ## Phases
 
-### Phase I - Ape
+### Phase I - Ape (February - May)
 
-- February to May
-- Data retention focus
 - Simple structure
+- Focuses on easy data collection
+- Logs collected weekly
 
-### Phase II - Saint
+### Phase II - Saint (May - Present)
 
-- May to Present
-- Organised and structured
-- Documentation and cleanliness
+- Organised and modular
+- Extensive documentation and help
+- Logs collected on a daily, weekly and monthly basis
 
 ## Features
 
