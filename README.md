@@ -8,7 +8,8 @@ For running Snowflake and/or other bridges, please visit https://torproject.org 
 ## Use
 
 For running Snowflake and script related things, other Tor Volunteers are highly encouraged and can use the scripts freely along with documentation and other help available.<br>
-The dataset can be used for research and analysis with proper attribution. Modified datasets or derivative works must clearly indicate changes and remain under the same license terms.
+The dataset can be used for research and analysis with proper attribution.<br>
+Modified datasets or derivative works must clearly indicate changes and remain under the same license terms.
 
 ## Repository Structure
 
@@ -79,7 +80,7 @@ snowflake
 - Data retention focus
 - Simple structure
 
-### Phase II - Sanit
+### Phase II - Saint
 
 - May to Present
 - Organised and structured
