@@ -80,7 +80,7 @@ snowflake
 - Focuses on easy data collection
 - Logs collected weekly
 
-### Phase II - Saint (May - Present)
+### Phase II - Monk (May - Present)
 
 - Organised and modular
 - Extensive documentation and help
