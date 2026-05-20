@@ -22,7 +22,7 @@ TMP=$(mktemp)
 echo "[$NOW] Generating weekly summary..."
 
 journalctl -u snowflake.service \
-    --since "$START 00:00" \
+    --since "$START 00:00:00" \
     --no-pager > "$TMP"
 
 # === Parsing (supports decimals) ===

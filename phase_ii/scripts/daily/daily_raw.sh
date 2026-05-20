@@ -9,7 +9,7 @@ set -euo pipefail
 BASE="/home/ajay/lab/snowflake/phase_ii"
 OUT="$BASE/logs/daily_logs/raw"
 
-DATE=$(date +%F)
+DATE=$(date -d yesterday +%F)
 NOW=$(date +"%F %T")
 
 mkdir -p "$OUT"
@@ -17,7 +17,8 @@ mkdir -p "$OUT"
 echo "[$NOW] Capturing daily Snowflake logs..."
 
 if journalctl -u snowflake.service \
-    --since "${DATE} 00:00" \
+    --since "${DATE} 00:00:00" \
+    --until "${DATE} 23:59:00" \
     --no-pager \
     > "$OUT/snowflake_daily_raw_$DATE.log" 2>/dev/null
 then

@@ -19,7 +19,7 @@ mkdir -p "$OUT"
 echo "[$NOW] Capturing monthly logs since $MONTH_START..."
 
 if journalctl -u snowflake.service \
-    --since "$MONTH_START 00:00" \
+    --since "$MONTH_START 00:00:00" \
     --no-pager \
     > "$OUT/snowflake_monthly_raw_$MONTH.log" 2>/dev/null
 then

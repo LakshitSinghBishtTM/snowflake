@@ -19,7 +19,7 @@ mkdir -p "$OUT"
 echo "[$NOW] Capturing weekly logs from $START to $END..."
 
 if journalctl -u snowflake.service \
-    --since "$START 00:00" \
+    --since "$START 00:00:00" \
     --no-pager \
     > "$OUT/snowflake_weekly_raw_${START}_to_${END}.log" 2>/dev/null
 then

@@ -9,7 +9,7 @@ set -euo pipefail
 BASE="/home/ajay/lab/snowflake/phase_ii"
 OUT="$BASE/logs/daily_logs/summarised"
 
-DATE=$(date +%F)
+DATE=$(date -d yesterday +%F)
 NOW=$(date +"%F %T")
 
 mkdir -p "$OUT"
@@ -20,7 +20,8 @@ TMP=$(mktemp)
 echo "[$NOW] Generating daily summary..."
 
 journalctl -u snowflake.service \
-    --since "${DATE} 00:00" \
+    --since "${DATE} 00:00:00" \
+    --until "${DATE} 23:59:00" \
     --no-pager > "$TMP"
 
 # === Parsing (supports decimals) ===
