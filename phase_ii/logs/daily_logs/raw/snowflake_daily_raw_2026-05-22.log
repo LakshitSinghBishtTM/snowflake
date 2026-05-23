@@ -1,0 +1,58 @@
+May 22 09:52:47 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+May 22 09:52:57 mac systemd[1]: Started Tor Snowflake Proxy.
+May 22 09:52:57 mac snowflake-proxy[1855]: 2026/05/22 09:52:57 Using geoip file  /usr/share/tor/geoip  with checksum a31b9561511bb83be0ab77095dc33dc59734a37d
+May 22 09:52:57 mac snowflake-proxy[1855]: 2026/05/22 09:52:57 Loaded  379140  entries into table
+May 22 09:52:57 mac snowflake-proxy[1855]: 2026/05/22 09:52:57 Using geoip file  /usr/share/tor/geoip6  with checksum 67ffe2bf663b0e8377c954b54ef37d97c73e4410
+May 22 09:52:57 mac snowflake-proxy[1855]: 2026/05/22 09:52:57 Loaded  298216  entries into table
+May 22 09:52:57 mac snowflake-proxy[1855]: 2026/05/22 04:22:57 Proxy starting
+May 22 09:52:57 mac snowflake-proxy[1855]: 2026/05/22 04:22:57 NAT type: unknown
+May 22 09:56:45 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+May 22 10:52:58 mac snowflake-proxy[1855]: 2026/05/22 05:22:58 In the last 1h0m0s, there were 24 completed successful connections. Traffic Relayed ↓ 105823 KB (29.40 KB/s), ↑ 10978 KB (3.05 KB/s).
+May 22 11:08:48 mac systemd[1]: Stopping Tor Snowflake Proxy...
+May 22 11:08:48 mac systemd[1]: snowflake.service: Deactivated successfully.
+May 22 11:08:48 mac systemd[1]: Stopped Tor Snowflake Proxy.
+May 22 11:08:48 mac systemd[1]: snowflake.service: Consumed 1min 34.672s CPU time over 1h 15min 51.059s wall clock time, 318.7M memory peak.
+-- Boot 49d48edf7d4041279940541e611d027d --
+May 22 13:16:53 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+May 22 13:17:04 mac systemd[1]: Started Tor Snowflake Proxy.
+May 22 13:17:04 mac snowflake-proxy[1311]: 2026/05/22 13:17:04 Using geoip file  /usr/share/tor/geoip  with checksum a31b9561511bb83be0ab77095dc33dc59734a37d
+May 22 13:17:04 mac snowflake-proxy[1311]: 2026/05/22 13:17:04 Loaded  379140  entries into table
+May 22 13:17:04 mac snowflake-proxy[1311]: 2026/05/22 13:17:04 Using geoip file  /usr/share/tor/geoip6  with checksum 67ffe2bf663b0e8377c954b54ef37d97c73e4410
+May 22 13:17:04 mac snowflake-proxy[1311]: 2026/05/22 13:17:04 Loaded  298216  entries into table
+May 22 13:17:04 mac snowflake-proxy[1311]: 2026/05/22 07:47:04 Proxy starting
+May 22 13:17:04 mac snowflake-proxy[1311]: 2026/05/22 07:47:04 NAT type: unknown
+May 22 14:17:04 mac snowflake-proxy[1311]: 2026/05/22 08:47:04 In the last 1h0m0s, there were 41 completed successful connections. Traffic Relayed ↓ 74185 KB (20.61 KB/s), ↑ 5509 KB (1.53 KB/s).
+May 22 15:17:04 mac snowflake-proxy[1311]: 2026/05/22 09:47:04 In the last 1h0m0s, there were 15 completed successful connections. Traffic Relayed ↓ 64844 KB (18.01 KB/s), ↑ 4240 KB (1.18 KB/s).
+May 22 16:02:08 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+May 22 16:17:04 mac snowflake-proxy[1311]: 2026/05/22 10:47:04 In the last 1h0m0s, there were 32 completed successful connections. Traffic Relayed ↓ 187884 KB (52.19 KB/s), ↑ 10985 KB (3.05 KB/s).
+May 22 17:12:03 mac systemd[1]: Stopping Tor Snowflake Proxy...
+May 22 17:12:03 mac systemd[1]: snowflake.service: Deactivated successfully.
+May 22 17:12:03 mac systemd[1]: Stopped Tor Snowflake Proxy.
+May 22 17:12:03 mac systemd[1]: snowflake.service: Consumed 4min 59.212s CPU time over 3h 54min 59.918s wall clock time, 328.7M memory peak.
+-- Boot 41d6cc03210140e28cb9d5e1ccf5918c --
+May 22 19:07:50 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+May 22 19:07:59 mac systemd[1]: Started Tor Snowflake Proxy.
+May 22 19:07:59 mac snowflake-proxy[1333]: 2026/05/22 19:07:59 Using geoip file  /usr/share/tor/geoip  with checksum a31b9561511bb83be0ab77095dc33dc59734a37d
+May 22 19:07:59 mac snowflake-proxy[1333]: 2026/05/22 19:07:59 Loaded  379140  entries into table
+May 22 19:08:00 mac snowflake-proxy[1333]: 2026/05/22 19:08:00 Using geoip file  /usr/share/tor/geoip6  with checksum 67ffe2bf663b0e8377c954b54ef37d97c73e4410
+May 22 19:08:00 mac snowflake-proxy[1333]: 2026/05/22 19:08:00 Loaded  298216  entries into table
+May 22 19:08:00 mac snowflake-proxy[1333]: 2026/05/22 13:38:00 Proxy starting
+May 22 19:08:43 mac snowflake-proxy[1333]: 2026/05/22 13:38:43 NAT type: restricted
+May 22 19:15:12 mac systemd[1]: Stopping Tor Snowflake Proxy...
+May 22 19:15:12 mac systemd[1]: snowflake.service: Deactivated successfully.
+May 22 19:15:12 mac systemd[1]: Stopped Tor Snowflake Proxy.
+May 22 19:15:12 mac systemd[1]: snowflake.service: Consumed 6.843s CPU time over 7min 12.628s wall clock time, 228M memory peak.
+-- Boot 245e925ed7b84b368ea56ebf38102606 --
+May 22 19:15:35 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+May 22 19:15:44 mac systemd[1]: Started Tor Snowflake Proxy.
+May 22 19:15:44 mac snowflake-proxy[1299]: 2026/05/22 19:15:44 Using geoip file  /usr/share/tor/geoip  with checksum a31b9561511bb83be0ab77095dc33dc59734a37d
+May 22 19:15:44 mac snowflake-proxy[1299]: 2026/05/22 19:15:44 Loaded  379140  entries into table
+May 22 19:15:44 mac snowflake-proxy[1299]: 2026/05/22 19:15:44 Using geoip file  /usr/share/tor/geoip6  with checksum 67ffe2bf663b0e8377c954b54ef37d97c73e4410
+May 22 19:15:44 mac snowflake-proxy[1299]: 2026/05/22 19:15:44 Loaded  298216  entries into table
+May 22 19:15:44 mac snowflake-proxy[1299]: 2026/05/22 13:45:44 Proxy starting
+May 22 19:16:06 mac snowflake-proxy[1299]: 2026/05/22 13:46:06 NAT type: restricted
+May 22 20:15:44 mac snowflake-proxy[1299]: 2026/05/22 14:45:44 In the last 1h0m0s, there were 30 completed successful connections. Traffic Relayed ↓ 3741 KB (1.04 KB/s), ↑ 3650 KB (1.01 KB/s).
+May 22 20:29:33 mac systemd[1]: Stopping Tor Snowflake Proxy...
+May 22 20:29:33 mac systemd[1]: snowflake.service: Deactivated successfully.
+May 22 20:29:33 mac systemd[1]: Stopped Tor Snowflake Proxy.
+May 22 20:29:33 mac systemd[1]: snowflake.service: Consumed 39.556s CPU time over 1h 13min 48.663s wall clock time, 191.7M memory peak.
