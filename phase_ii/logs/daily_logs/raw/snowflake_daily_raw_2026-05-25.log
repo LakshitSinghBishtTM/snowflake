@@ -1,0 +1,37 @@
+May 25 06:22:11 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+May 25 06:22:19 mac systemd[1]: Started Tor Snowflake Proxy.
+May 25 06:22:19 mac snowflake-proxy[1536]: 2026/05/25 06:22:19 Using geoip file  /usr/share/tor/geoip  with checksum a31b9561511bb83be0ab77095dc33dc59734a37d
+May 25 06:22:19 mac snowflake-proxy[1536]: 2026/05/25 06:22:19 Loaded  379140  entries into table
+May 25 06:22:19 mac snowflake-proxy[1536]: 2026/05/25 06:22:19 Using geoip file  /usr/share/tor/geoip6  with checksum 67ffe2bf663b0e8377c954b54ef37d97c73e4410
+May 25 06:22:19 mac snowflake-proxy[1536]: 2026/05/25 06:22:19 Loaded  298216  entries into table
+May 25 06:22:19 mac snowflake-proxy[1536]: 2026/05/25 00:52:19 Proxy starting
+May 25 06:22:46 mac snowflake-proxy[1536]: 2026/05/25 00:52:46 NAT type: restricted
+May 25 07:22:19 mac snowflake-proxy[1536]: 2026/05/25 01:52:19 In the last 1h0m0s, there were 14 completed successful connections. Traffic Relayed ↓ 176155 KB (48.93 KB/s), ↑ 7759 KB (2.16 KB/s).
+May 25 08:22:19 mac snowflake-proxy[1536]: 2026/05/25 02:52:19 In the last 1h0m0s, there were 26 completed successful connections. Traffic Relayed ↓ 42018 KB (11.67 KB/s), ↑ 2391 KB (0.66 KB/s).
+May 25 09:22:19 mac snowflake-proxy[1536]: 2026/05/25 03:52:19 In the last 1h0m0s, there were 20 completed successful connections. Traffic Relayed ↓ 11405 KB (3.17 KB/s), ↑ 1432 KB (0.40 KB/s).
+May 25 10:22:19 mac snowflake-proxy[1536]: 2026/05/25 04:52:19 In the last 1h0m0s, there were 21 completed successful connections. Traffic Relayed ↓ 50159 KB (13.93 KB/s), ↑ 7666 KB (2.13 KB/s).
+May 25 11:22:19 mac snowflake-proxy[1536]: 2026/05/25 05:52:19 In the last 1h0m0s, there were 42 completed successful connections. Traffic Relayed ↓ 16184 KB (4.50 KB/s), ↑ 2800 KB (0.78 KB/s).
+May 25 12:22:19 mac snowflake-proxy[1536]: 2026/05/25 06:52:19 In the last 1h0m0s, there were 34 completed successful connections. Traffic Relayed ↓ 19381 KB (5.38 KB/s), ↑ 3726 KB (1.03 KB/s).
+May 25 13:22:19 mac snowflake-proxy[1536]: 2026/05/25 07:52:19 In the last 1h0m0s, there were 16 completed successful connections. Traffic Relayed ↓ 40322 KB (11.20 KB/s), ↑ 6153 KB (1.71 KB/s).
+May 25 14:22:19 mac snowflake-proxy[1536]: 2026/05/25 08:52:19 In the last 1h0m0s, there were 13 completed successful connections. Traffic Relayed ↓ 35104 KB (9.75 KB/s), ↑ 4265 KB (1.18 KB/s).
+May 25 15:22:19 mac snowflake-proxy[1536]: 2026/05/25 09:52:19 In the last 1h0m0s, there were 33 completed successful connections. Traffic Relayed ↓ 57974 KB (16.10 KB/s), ↑ 52127 KB (14.48 KB/s).
+May 25 16:22:19 mac snowflake-proxy[1536]: 2026/05/25 10:52:19 In the last 1h0m0s, there were 21 completed successful connections. Traffic Relayed ↓ 45734 KB (12.70 KB/s), ↑ 5012 KB (1.39 KB/s).
+May 25 17:22:19 mac snowflake-proxy[1536]: 2026/05/25 11:52:19 In the last 1h0m0s, there were 35 completed successful connections. Traffic Relayed ↓ 153126 KB (42.53 KB/s), ↑ 12276 KB (3.41 KB/s).
+May 25 18:22:19 mac snowflake-proxy[1536]: 2026/05/25 12:52:19 In the last 1h0m0s, there were 11 completed successful connections. Traffic Relayed ↓ 17655 KB (4.90 KB/s), ↑ 4747 KB (1.32 KB/s).
+May 25 19:11:02 mac systemd[1]: Stopping Tor Snowflake Proxy...
+May 25 19:11:02 mac systemd[1]: snowflake.service: Deactivated successfully.
+May 25 19:11:02 mac systemd[1]: Stopped Tor Snowflake Proxy.
+May 25 19:11:02 mac systemd[1]: snowflake.service: Consumed 12min 25.477s CPU time over 12h 48min 42.757s wall clock time, 311.5M memory peak.
+-- Boot 01230cea422942b08c0faf224fd62d71 --
+May 25 19:49:59 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+May 25 19:50:08 mac systemd[1]: Started Tor Snowflake Proxy.
+May 25 19:50:08 mac snowflake-proxy[1388]: 2026/05/25 19:50:08 Using geoip file  /usr/share/tor/geoip  with checksum a31b9561511bb83be0ab77095dc33dc59734a37d
+May 25 19:50:08 mac snowflake-proxy[1388]: 2026/05/25 19:50:08 Loaded  379140  entries into table
+May 25 19:50:08 mac snowflake-proxy[1388]: 2026/05/25 19:50:08 Using geoip file  /usr/share/tor/geoip6  with checksum 67ffe2bf663b0e8377c954b54ef37d97c73e4410
+May 25 19:50:08 mac snowflake-proxy[1388]: 2026/05/25 19:50:08 Loaded  298216  entries into table
+May 25 19:50:08 mac snowflake-proxy[1388]: 2026/05/25 14:20:08 Proxy starting
+May 25 19:50:39 mac snowflake-proxy[1388]: 2026/05/25 14:20:39 NAT type: restricted
+May 25 20:50:10 mac snowflake-proxy[1388]: 2026/05/25 15:20:10 In the last 1h0m0s, there were 44 completed successful connections. Traffic Relayed ↓ 48828 KB (13.56 KB/s), ↑ 5926 KB (1.65 KB/s).
+May 25 21:50:10 mac snowflake-proxy[1388]: 2026/05/25 16:20:10 In the last 1h0m0s, there were 38 completed successful connections. Traffic Relayed ↓ 20086 KB (5.58 KB/s), ↑ 2603 KB (0.72 KB/s).
+May 25 22:50:10 mac snowflake-proxy[1388]: 2026/05/25 17:20:10 In the last 1h0m0s, there were 40 completed successful connections. Traffic Relayed ↓ 1428 KB (0.40 KB/s), ↑ 1651 KB (0.46 KB/s).
+May 25 23:50:10 mac snowflake-proxy[1388]: 2026/05/25 18:20:10 In the last 1h0m0s, there were 46 completed successful connections. Traffic Relayed ↓ 45081 KB (12.52 KB/s), ↑ 6614 KB (1.84 KB/s).
