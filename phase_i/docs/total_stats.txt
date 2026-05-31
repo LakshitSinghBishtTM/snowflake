@@ -1,0 +1,9 @@
+# Total Contibution
+# phase_i
+
+Connections: 33457
+Upload: 184.918 GB
+Download: 20.013 GB
+Total Traffic: 204.931 GB
+Active hours: 2467
+Avg connections/hour: 13.56
