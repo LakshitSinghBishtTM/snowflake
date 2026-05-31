@@ -1,0 +1,44 @@
+[Running] /usr/bin/env python3 "snowflake/phase_i/raw_logs_to_analysis.py"
+
+==== TOTAL ====
+Connections: 6970
+Upload: 45.46971 GB
+Download: 3.22593 GB
+Total Traffic: 48.69565 GB
+Active hours: 398
+Avg connections/hour: 17.51256281407035331199
+
+==== WEEK 2026-02-09 ====
+Connections: 252
+Upload: 1.15707 GB
+Download: 0.10987 GB
+Total Traffic: 1.26694 GB
+Active hours: 14
+Avg connections/hour: 18.00000000000000000000
+
+==== WEEK 2026-02-16 ====
+Connections: 2319
+Upload: 8.34362 GB
+Download: 0.60237 GB
+Total Traffic: 8.94598 GB
+Active hours: 122
+Avg connections/hour: 19.00819672131147441974
+
+==== WEEK 2026-02-23 ====
+Connections: 2833
+Upload: 13.99458 GB
+Download: 1.07765 GB
+Total Traffic: 15.07223 GB
+Active hours: 140
+Avg connections/hour: 20.23571428571428398868
+
+==== WEEK 2026-03-02 ====
+Connections: 1566
+Upload: 21.97445 GB
+Download: 1.43605 GB
+Total Traffic: 23.41049 GB
+Active hours: 122
+Avg connections/hour: 12.83606557377049206536
+
+
+[Done] exited with code=0 in 0.026 seconds
