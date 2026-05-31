@@ -1,0 +1,22 @@
+# Date: 31/05/2026 & Time: 07:00
+
+## Entry 1
+
+Period: 09/03/2026 - 14/03/2026
+Type: Raw logs
+Reason: Journal/log retention limit reached before extraction. Older records were automatically removed by log rotation.
+Compensation: Aggregate weekly statistics were generated prior to log loss and are retained.
+
+## Entry 2
+
+Period: 15/05/2026 - 17/05/2026
+Type: All logs
+Reason: Travel from Andhra Pradesh to Uttarakhand.
+Compensation: None.
+
+## Misc
+
+Period: 18/05/2026 - Present (hourly)
+Type: Partial hourly data
+Reason: Daily electricity outages affecting system uptime (up to 8 hours per day).
+Compensation: Data remains available; only some hourly records are missing when the laptop is powered off.
