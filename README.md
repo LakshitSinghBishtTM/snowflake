@@ -15,61 +15,61 @@ Modified datasets or derivative works must clearly indicate changes and remain u
 
 ```
 snowflake
+├── DATA_LICENSE
 ├── LICENSE
+├── README.md
 ├── phase_i
-│   ├── host_warning.txt
-│   ├── LICENSE_DATA
-│   ├── os-and-kernel-logs
-│   │   └── dist-upgrade
-│   │       ├── 20260326-1710
-│   │       ├── 20260424-1021
-│   ├── rawlogs
-│   ├── raw_logs.sh
-│   ├── readme.md
-│   ├── snowflake-monthly.log
-│   ├── snowflake-stats.csv
-│   ├── snowflake-stats.sh
-│   ├── snowflake-weekly.log
-│   └── TIMING.txt
+│   ├── docs
+│   │   ├── host_warning.txt
+│   │   ├── README.md
+│   │   └── TIMING.txt
+│   ├── logs
+│   │   ├── raw
+│   │   └── summarised
+│   ├── scripts
+│   │   ├── raw_logs.sh
+│   │   ├── raw_logs_to_analysis.py
+│   │   └── snowflake-stats.sh
+│   └── system
+│       └── os-and-kernel-logs
+│           └── dist-upgrade
 ├── phase_ii
-│   ├── docs
-│   │   ├── cron.txt
-│   │   ├── duration.txt
-│   │   ├── install.txt
-│   │   ├── output.txt
-│   │   ├── reading_order.txt
-│   │   ├── scripts.txt
-│   │   ├── systemctl.txt
-│   │   └── systemd.txt
-│   ├── logs
-│   │   ├── daily_logs
-│   │   │   ├── raw
-│   │   │   └── summarised
-│   │   ├── LICENSE_DATA
-│   │   ├── monthly_logs
-│   │   │   ├── raw
-│   │   │   └── summarised
-│   │   └── weekly_logs
-│   │       ├── raw
-│   │       └── summarised
-│   ├── metadata
-│   │   ├── hardware.txt
-│   │   ├── host.txt
-│   │   ├── network.txt
-│   │   ├── reading_order.txt
-│   │   ├── software.txt
-│   │   └── specs.txt
-│   └── scripts
-│       ├── daily
-│       │   ├── daily_raw.sh
-│       │   └── daily_summary.sh
-│       ├── monthly
-│       │   ├── monthly_raw.sh
-│       │   └── monthly_summary.sh
-│       └── weekly
-│           ├── weekly_raw.sh
-│           └── weekly_summary.sh
-└── README.md
+│   ├── docs
+│   │   ├── cron.txt
+│   │   ├── downtime.txt
+│   │   ├── duration.txt
+│   │   ├── install.txt
+│   │   ├── lost_data.txt
+│   │   ├── output.txt
+│   │   ├── reading_order.txt
+│   │   ├── scripts.txt
+│   │   ├── systemctl.txt
+│   │   ├── systemd_logging.txt
+│   │   └── systemd.txt
+│   ├── logs
+│   │   ├── daily_logs
+│   │   │   ├── raw
+│   │   │   └── summarised
+│   │   ├── monthly_logs
+│   │   │   ├── raw
+│   │   │   └── summarised
+│   │   └── weekly_logs
+│   │       ├── raw
+│   │       └── summarised
+│   ├── metadata
+│   │   ├── hardware.txt
+│   │   ├── host.txt
+│   │   ├── network.txt
+│   │   ├── reading_order.txt
+│   │   ├── software.txt
+│   │   └── specs.txt
+│   ├── scripts
+│   │   ├── daily
+│   │   ├── monthly
+│   │   └── weekly
+│   └── systemd
+│       ├── services
+│       └── timers
 ```
 
 ## Phases
