@@ -1,0 +1,9 @@
+```python3 analyse_08052026_to_14052026.py snowflake_raw_week_2026-05-08_to_2026-05-14.log```
+
+==== SUMMARY ====
+Connections: 4513
+Upload: 0.230676 GB
+Download: 2.012130 GB
+Total Traffic: 2.242805 GB
+Active hours: 151
+Avg connections/hour: 29.8874172185
