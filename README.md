@@ -3,7 +3,7 @@
 A dataset, collection framework, and documentation resource for the Tor Snowflake Proxy.<br>
 This repository contains telemetry logs, collection scripts, automation infrastructure, and supporting documentation gathered from a long-term self-hosted Snowflake deployment.
 
-For running Snowflake and/or other bridges, please visit https://torproject.org and use phase_ii/docs/ as additional help.
+For running Snowflake and/or other bridges, please visit https://torproject.org and use [docs](phase_ii/docs/) as additional help.
 
 ## Features
 
