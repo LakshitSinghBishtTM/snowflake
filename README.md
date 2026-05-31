@@ -34,16 +34,15 @@ For running Snowflake and/or other bridges, please visit https://torproject.org 
 
 ## Example Output
 
-The following output is from [phase_i/logs/summarised/snowflake-weekly.log](phase_i/logs/summarised/snowflake-weekly.log):
+The following output is from [phase_i/logs/summarised/total_stats.log](phase_i/logs/summarised/total_stats.log):
 
 ```
-==== WEEK 2026-04-12 ====
-Connections: 1914
-Upload: 14.2735 GB
-Download: 0.488194 GB
-Total Traffic: 14.761694 GB
-Active hours: 167
-Avg connections/hour: 11.46107784431137724550
+Connections: 33457
+Upload: 184.918 GB
+Download: 20.013 GB
+Total Traffic: 204.931 GB
+Active hours: 2467
+Avg connections/hour: 13.56
 ```
 
 ## Use
