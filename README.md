@@ -34,7 +34,7 @@ For running Snowflake and/or other bridges, please visit https://torproject.org 
 
 ## Example Output
 
-The following output is from [phase_i/logs/summarised/total_stats.log](phase_i/logs/summarised/total_stats.log):
+The following cummulative statistics are from [phase_i/logs/summarised/total_stats.log](phase_i/logs/summarised/total_stats.log):
 
 ```
 Connections: 33457
