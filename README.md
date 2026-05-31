@@ -33,7 +33,7 @@ For running Snowflake and/or other bridges, please visit https://torproject.org 
 
 ## Example Output
 
-The following output is from phase_i/logs/summarised/snowflake-weekly.log:
+The following output is from [phase_i/logs/summarised/snowflake-weekly.log](phase_i/logs/summarised/snowflake-weekly.log):
 
 ```
 ==== WEEK 2026-04-12 ====
@@ -116,7 +116,7 @@ snowflake
 This repo is licensed under GNU General Public License v3.0.<br>
 Datasets and telemetry logs are licensed separately under CC BY-NC-SA 4.0
 
-For more information, please see LICENSE and DATA_LICENSE
+For more information, please see [LICENSE](LICENSE) and [DATA_LICENSE](DATA_LICENSE)
 
 
 ## Reporting
