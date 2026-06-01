@@ -9,17 +9,19 @@ set -euo pipefail
 BASE="/home/ajay/lab/snowflake/phase_ii"
 OUT="$BASE/logs/monthly_logs/raw"
 
-MONTH_START=$(date +%Y-%m-01)
-MONTH=$(date +%Y-%m)
+MONTH_START=$(date -d "$(date +%Y-%m-01) -1 month" +%Y-%m-01)
+MONTH_END=$(date +%Y-%m-01)
+MONTH=$(date -d "$MONTH_START" +%Y-%m)
 
 NOW=$(date +"%F %T")
 
 mkdir -p "$OUT"
 
-echo "[$NOW] Capturing monthly logs since $MONTH_START..."
+echo "[$NOW] Capturing monthly logs from $MONTH_START 00:00:00 to $MONTH_END 00:00:00 ..."
 
 if journalctl -u snowflake.service \
     --since "$MONTH_START 00:00:00" \
+    --until "$MONTH_END 00:00:00" \
     --no-pager \
     > "$OUT/snowflake_monthly_raw_$MONTH.log" 2>/dev/null
 then

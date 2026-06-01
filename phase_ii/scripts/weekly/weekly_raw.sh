@@ -16,10 +16,11 @@ NOW=$(date +"%F %T")
 
 mkdir -p "$OUT"
 
-echo "[$NOW] Capturing weekly logs from $START to $END..."
+echo "[$NOW] Capturing weekly logs from $START 00:00:00 to $END 00:00:00..."
 
 if journalctl -u snowflake.service \
     --since "$START 00:00:00" \
+    --until "$END 00:00:00" \
     --no-pager \
     > "$OUT/snowflake_weekly_raw_${START}_to_${END}.log" 2>/dev/null
 then

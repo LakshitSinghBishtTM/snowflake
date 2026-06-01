@@ -1,16 +1,13 @@
 #!/bin/bash
 
-# =============================================================================
-# Monthly Snowflake summary log
-# =============================================================================
-
 set -euo pipefail
 
 BASE="/home/ajay/lab/snowflake/phase_ii"
 OUT="$BASE/logs/monthly_logs/summarised"
 
-MONTH_START=$(date +%Y-%m-01)
-MONTH=$(date +%Y-%m)
+MONTH_START=$(date -d "$(date +%Y-%m-01) -1 month" +%Y-%m-01)
+MONTH_END=$(date +%Y-%m-01)
+MONTH=$(date -d "$MONTH_START" +%Y-%m)
 
 NOW=$(date +"%F %T")
 
@@ -19,13 +16,13 @@ mkdir -p "$OUT"
 LOGFILE="$OUT/snowflake_monthly_summary_$MONTH.log"
 TMP=$(mktemp)
 
-echo "[$NOW] Generating monthly summary..."
+echo "[$NOW] Generating monthly summary for $MONTH ($MONTH_START to $MONTH_END)..."
 
 journalctl -u snowflake.service \
     --since "$MONTH_START 00:00:00" \
+    --until "$MONTH_END 00:00:00" \
     --no-pager > "$TMP"
 
-# === Parsing (supports decimals) ===
 CONNECTIONS=$(grep -o 'there were [0-9]* completed successful connections' "$TMP" \
 | grep -o '[0-9]*' | awk '{sum += $1} END {print sum+0}')
 
@@ -44,7 +41,6 @@ TOTAL_GB=$(awk "BEGIN {printf \"%.6f\", ${UPLOAD_GB} + ${DOWNLOAD_GB}}")
 
 AVG_CONN=$(awk "BEGIN {if (${ACTIVE_HOURS:-0} > 0) printf \"%.2f\", ${CONNECTIONS:-0}/${ACTIVE_HOURS:-0}; else print 0}")
 
-# Write summary
 {
 echo "==== MONTH $MONTH ===="
 echo "Connections: $CONNECTIONS"
