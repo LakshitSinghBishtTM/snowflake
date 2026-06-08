@@ -44,12 +44,12 @@ jobs:
           done
 
           echo "Pushing to GitLab..."
-          git push --mirror https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/$LOWER_USER/$REPO.git || echo "[warn] GitLab push failed"
+          git push --mirror https://oauth2:${{ secrets.GITLAB_SNOWFLAKE }}@gitlab.com/$LOWER_USER/$REPO.git || echo "[warn] GitLab push failed"
 
           echo "Pushing to Codeberg..."
-          git push --mirror https://oauth2:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/$LOWER_USER/$REPO.git || echo "[warn] Codeberg push failed"
+          git push --mirror https://oauth2:${{ secrets.CODEBERG_SNOWFLAKE }}@codeberg.org/$LOWER_USER/$REPO.git || echo "[warn] Codeberg push failed"
 
           echo "Pushing to Gitea..."
-          git push --mirror https://${{ secrets.GITEA_TOKEN }}@gitea.com/$GH_USER/$REPO.git || echo "[warn] Gitea push failed"
+          git push --mirror https://${{ secrets.GITEA_SNOWFLAKE }}@gitea.com/$GH_USER/$REPO.git || echo "[warn] Gitea push failed"
 
           echo "[done] All mirror attempts completed."
