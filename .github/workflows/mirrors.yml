@@ -18,6 +18,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      - name: Check secrets exist
+        run: |
+          [ -n "${{ secrets.GITLAB_TOKEN }}" ] && echo "GitLab token present"
+          [ -n "${{ secrets.CODEBERG_TOKEN }}" ] && echo "Codeberg token present"
+          [ -n "${{ secrets.GITEA_TOKEN }}" ] && echo "Gitea token present"
+      
       - name: Mirror repository to all platforms
         shell: bash
         run: |
