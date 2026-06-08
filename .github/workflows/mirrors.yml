@@ -46,6 +46,6 @@ jobs:
           git push --mirror https://${{ secrets.GITEA_SNOWFLAKE }}@gitea.com/$GH_USER/$REPO.git || echo "[warn] Gitea push failed"
 
           echo "Pushing to Bitbucket..."
-          git push --mirror https://x-token-auth:${{ secrets.BITBUCKET_SNOWFLAKE }}@bitbucket.org/$LOWER_USER/$REPO.git || echo "[warn] Bitbucket push failed"
+          git push --mirror https://x-token-auth:${{ secrets.BITBUCKET_TOKEN }}@bitbucket.org/$LOWER_USER/xlade.git || echo "[warn] Bitbucket push failed"
 
           echo "[done] All mirror attempts completed."
