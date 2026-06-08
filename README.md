@@ -54,6 +54,9 @@ The dataset may be used for research and analysis with proper attribution.<br> M
 
 ```
 snowflake
+├── .github
+│   ├── workflows
+│       ├── mirrors.yml
 ├── DATA_LICENSE
 ├── LICENSE
 ├── README.md
@@ -75,6 +78,7 @@ snowflake
 ├── phase_ii
 │   ├── docs
 │   │   ├── cron.txt
+│   │   ├── distribution_manual.txt 
 │   │   ├── downtime.txt
 │   │   ├── duration.txt
 │   │   ├── install.txt
