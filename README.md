@@ -110,7 +110,21 @@ snowflake
 │       ├── services
 │       └── timers
 ```
- 
+
+## Distribution
+
+Snowflake is distributed across multiple Git hosting platforms. No single platform is considered authoritative for long-term availability.
+
+The project is automatically mirrored from GitHub to the following repositories:
+
+- GitHub (canonical): https://github.com/LakshitSinghBishtTM/snowflake
+- GitLab: https://gitlab.com/lakshitsinghbishttm/snowflake
+- Codeberg: https://codeberg.org/lakshitsinghbishttm/snowflake
+- Gitea: https://gitea.com/LakshitSinghBishtTM/snowflake
+- Bitbucket: https://bitbucket.org/lakshitsinghbishttm/snowflake
+
+Mirrors are synchronized automatically via GitHub Actions.
+
 ## License
 
 This repo is licensed under GNU General Public License v3.0.<br>
