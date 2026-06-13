@@ -126,6 +126,7 @@ The project is automatically mirrored from GitHub to the following repositories:
 - Codeberg: https://codeberg.org/lakshitsinghbishttm/snowflake
 - Gitea: https://gitea.com/LakshitSinghBishtTM/snowflake
 - Bitbucket: https://bitbucket.org/lakshitsinghbishttm/snowflake
+- SourceForge: https://sourceforge.net/projects/snowflaketm/
 
 Mirrors are synchronized automatically via GitHub Actions.
 
