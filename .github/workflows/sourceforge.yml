@@ -40,6 +40,8 @@ jobs:
           git config --global user.email "actions@github.com"
 
       - name: Push to SourceForge
+        env:
+          GIT_SSH_COMMAND: ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes
         run: |
           git remote add sourceforge ssh://lakshitsbishttm@git.code.sf.net/p/snowflaketm/code
 
