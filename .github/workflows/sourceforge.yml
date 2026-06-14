@@ -39,6 +39,20 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
+      - name: Debug SSH
+        run: |
+          echo "=== SSH files ==="
+          ls -la ~/.ssh
+      
+          echo "=== Key fingerprint ==="
+          ssh-keygen -l -f ~/.ssh/id_ed25519
+      
+          echo "=== SSH test ==="
+          ssh -vvv \
+            -i ~/.ssh/id_ed25519 \
+            -o IdentitiesOnly=yes \
+            -T lakshitsbishttm@git.code.sf.net || true
+
       - name: Push to SourceForge
         env:
           GIT_SSH_COMMAND: ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes
