@@ -135,7 +135,7 @@ Mirrors are synchronized automatically via GitHub Actions.
 This repo is licensed under GNU General Public License v3.0.<br>
 Datasets and telemetry logs are licensed separately under CC BY-NC-SA 4.0
 
-For more information, please see [LICENSE](LICENSE) and [DATA_LICENSE](DATA_LICENSE)
+For more information, please see [LICENSE](LICENSE) and [LICENSE-DATA](LICENSE-DATA)
 
 
 ## Reporting
