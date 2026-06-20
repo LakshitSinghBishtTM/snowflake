@@ -1,0 +1,27 @@
+Jun 19 06:48:29 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jun 19 06:48:40 mac systemd[1]: Started Tor Snowflake Proxy.
+Jun 19 06:48:40 mac snowflake-proxy[1215]: 2026/06/19 06:48:40 Using geoip file  /usr/share/tor/geoip  with checksum e03b41645f6d60856019b0d4ba4e36575be4368d
+Jun 19 06:48:40 mac snowflake-proxy[1215]: 2026/06/19 06:48:40 Loaded  382976  entries into table
+Jun 19 06:48:40 mac snowflake-proxy[1215]: 2026/06/19 06:48:40 Using geoip file  /usr/share/tor/geoip6  with checksum 7a4c72a041c9b9385f016760a4b8a3f8af0bf5a8
+Jun 19 06:48:40 mac snowflake-proxy[1215]: 2026/06/19 06:48:40 Loaded  299363  entries into table
+Jun 19 06:48:40 mac snowflake-proxy[1215]: 2026/06/19 01:18:40 Proxy starting
+Jun 19 06:48:40 mac snowflake-proxy[1215]: 2026/06/19 01:18:40 NAT type: unknown
+Jun 19 07:48:39 mac snowflake-proxy[1215]: 2026/06/19 02:18:39 In the last 1h0m0s, there were 12 completed successful connections. Traffic Relayed ↓ 14445 KB (4.01 KB/s), ↑ 1574 KB (0.44 KB/s).
+Jun 19 08:48:39 mac snowflake-proxy[1215]: 2026/06/19 03:18:39 In the last 1h0m0s, there were 29 completed successful connections. Traffic Relayed ↓ 17476 KB (4.85 KB/s), ↑ 3969 KB (1.10 KB/s).
+Jun 19 09:48:39 mac snowflake-proxy[1215]: 2026/06/19 04:18:39 In the last 1h0m0s, there were 22 completed successful connections. Traffic Relayed ↓ 12561 KB (3.49 KB/s), ↑ 4574 KB (1.27 KB/s).
+Jun 19 10:48:39 mac snowflake-proxy[1215]: 2026/06/19 05:18:39 In the last 1h0m0s, there were 36 completed successful connections. Traffic Relayed ↓ 47265 KB (13.13 KB/s), ↑ 4557 KB (1.27 KB/s).
+Jun 19 11:48:39 mac snowflake-proxy[1215]: 2026/06/19 06:18:39 In the last 1h0m0s, there were 42 completed successful connections. Traffic Relayed ↓ 15617 KB (4.34 KB/s), ↑ 6800 KB (1.89 KB/s).
+Jun 19 12:48:39 mac snowflake-proxy[1215]: 2026/06/19 07:18:39 In the last 1h0m0s, there were 36 completed successful connections. Traffic Relayed ↓ 34499 KB (9.58 KB/s), ↑ 8608 KB (2.39 KB/s).
+Jun 19 13:48:39 mac snowflake-proxy[1215]: 2026/06/19 08:18:39 In the last 1h0m0s, there were 44 completed successful connections. Traffic Relayed ↓ 53566 KB (14.88 KB/s), ↑ 10835 KB (3.01 KB/s).
+Jun 19 14:48:39 mac snowflake-proxy[1215]: 2026/06/19 09:18:39 In the last 1h0m0s, there were 39 completed successful connections. Traffic Relayed ↓ 26254 KB (7.29 KB/s), ↑ 7701 KB (2.14 KB/s).
+Jun 19 15:20:01 mac snowflake-proxy[1215]: ortc ERROR: 2026/06/19 15:20:01 Failed to accept data channel: failed to send ChannelOpen ACK: sending payload data in non-established state: state=Closed
+Jun 19 15:48:39 mac snowflake-proxy[1215]: 2026/06/19 10:18:39 In the last 1h0m0s, there were 44 completed successful connections. Traffic Relayed ↓ 44797 KB (12.44 KB/s), ↑ 9978 KB (2.77 KB/s).
+Jun 19 16:48:39 mac snowflake-proxy[1215]: 2026/06/19 11:18:39 In the last 1h0m0s, there were 25 completed successful connections. Traffic Relayed ↓ 54713 KB (15.20 KB/s), ↑ 6706 KB (1.86 KB/s).
+Jun 19 17:48:39 mac snowflake-proxy[1215]: 2026/06/19 12:18:39 In the last 1h0m0s, there were 29 completed successful connections. Traffic Relayed ↓ 73387 KB (20.39 KB/s), ↑ 10808 KB (3.00 KB/s).
+Jun 19 18:48:39 mac snowflake-proxy[1215]: 2026/06/19 13:18:39 In the last 1h0m0s, there were 42 completed successful connections. Traffic Relayed ↓ 98094 KB (27.25 KB/s), ↑ 10908 KB (3.03 KB/s).
+Jun 19 19:48:39 mac snowflake-proxy[1215]: 2026/06/19 14:18:39 In the last 1h0m0s, there were 16 completed successful connections. Traffic Relayed ↓ 54721 KB (15.20 KB/s), ↑ 8229 KB (2.29 KB/s).
+Jun 19 20:48:39 mac snowflake-proxy[1215]: 2026/06/19 15:18:39 In the last 1h0m0s, there were 39 completed successful connections. Traffic Relayed ↓ 37496 KB (10.42 KB/s), ↑ 8188 KB (2.27 KB/s).
+Jun 19 20:59:41 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Jun 19 20:59:41 mac systemd[1]: snowflake.service: Deactivated successfully.
+Jun 19 20:59:41 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Jun 19 20:59:41 mac systemd[1]: snowflake.service: Consumed 9min 49.993s CPU time over 14h 11min 1.658s wall clock time, 285.4M memory peak.
