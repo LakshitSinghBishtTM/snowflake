@@ -1,0 +1,28 @@
+Jul 03 06:26:40 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 03 06:26:43 mac systemd[1]: Started Tor Snowflake Proxy.
+Jul 03 06:26:43 mac snowflake-proxy[862]: 2026/07/03 06:26:43 Using geoip file  /usr/share/tor/geoip  with checksum e03b41645f6d60856019b0d4ba4e36575be4368d
+Jul 03 06:26:43 mac snowflake-proxy[862]: 2026/07/03 06:26:43 Loaded  382976  entries into table
+Jul 03 06:26:43 mac snowflake-proxy[862]: 2026/07/03 06:26:43 Using geoip file  /usr/share/tor/geoip6  with checksum 7a4c72a041c9b9385f016760a4b8a3f8af0bf5a8
+Jul 03 06:26:43 mac snowflake-proxy[862]: 2026/07/03 06:26:43 Loaded  299363  entries into table
+Jul 03 06:26:43 mac snowflake-proxy[862]: 2026/07/03 00:56:43 Proxy starting
+Jul 03 06:26:43 mac snowflake-proxy[862]: 2026/07/03 00:56:43 NAT type: unknown
+Jul 03 07:26:43 mac snowflake-proxy[862]: 2026/07/03 01:56:43 In the last 1h0m0s, there were 15 completed successful connections. Traffic Relayed ↓ 38982 KB (10.83 KB/s), ↑ 6914 KB (1.92 KB/s).
+Jul 03 08:26:43 mac snowflake-proxy[862]: 2026/07/03 02:56:43 In the last 1h0m0s, there were 16 completed successful connections. Traffic Relayed ↓ 154274 KB (42.85 KB/s), ↑ 47862 KB (13.29 KB/s).
+Jul 03 09:26:43 mac snowflake-proxy[862]: 2026/07/03 03:56:43 In the last 1h0m0s, there were 23 completed successful connections. Traffic Relayed ↓ 19942 KB (5.54 KB/s), ↑ 63942 KB (17.76 KB/s).
+Jul 03 10:26:43 mac snowflake-proxy[862]: 2026/07/03 04:56:43 In the last 1h0m0s, there were 30 completed successful connections. Traffic Relayed ↓ 27133 KB (7.54 KB/s), ↑ 5002 KB (1.39 KB/s).
+Jul 03 11:26:43 mac snowflake-proxy[862]: 2026/07/03 05:56:43 In the last 1h0m0s, there were 44 completed successful connections. Traffic Relayed ↓ 93582 KB (26.00 KB/s), ↑ 9003 KB (2.50 KB/s).
+Jul 03 12:26:43 mac snowflake-proxy[862]: 2026/07/03 06:56:43 In the last 1h0m0s, there were 29 completed successful connections. Traffic Relayed ↓ 28818 KB (8.01 KB/s), ↑ 5592 KB (1.55 KB/s).
+Jul 03 12:42:34 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 03 12:44:19 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 03 13:26:43 mac snowflake-proxy[862]: 2026/07/03 07:56:43 In the last 1h0m0s, there were 26 completed successful connections. Traffic Relayed ↓ 20708 KB (5.75 KB/s), ↑ 4702 KB (1.31 KB/s).
+Jul 03 14:26:43 mac snowflake-proxy[862]: 2026/07/03 08:56:43 In the last 1h0m0s, there were 27 completed successful connections. Traffic Relayed ↓ 65950 KB (18.32 KB/s), ↑ 14217 KB (3.95 KB/s).
+Jul 03 15:26:43 mac snowflake-proxy[862]: 2026/07/03 09:56:43 In the last 1h0m0s, there were 26 completed successful connections. Traffic Relayed ↓ 20009 KB (5.56 KB/s), ↑ 1824 KB (0.51 KB/s).
+Jul 03 16:26:43 mac snowflake-proxy[862]: 2026/07/03 10:56:43 In the last 1h0m0s, there were 29 completed successful connections. Traffic Relayed ↓ 15782 KB (4.38 KB/s), ↑ 3507 KB (0.97 KB/s).
+Jul 03 17:26:43 mac snowflake-proxy[862]: 2026/07/03 11:56:43 In the last 1h0m0s, there were 29 completed successful connections. Traffic Relayed ↓ 40961 KB (11.38 KB/s), ↑ 7333 KB (2.04 KB/s).
+Jul 03 18:26:43 mac snowflake-proxy[862]: 2026/07/03 12:56:43 In the last 1h0m0s, there were 19 completed successful connections. Traffic Relayed ↓ 36369 KB (10.10 KB/s), ↑ 7791 KB (2.16 KB/s).
+Jul 03 19:26:43 mac snowflake-proxy[862]: 2026/07/03 13:56:43 In the last 1h0m0s, there were 36 completed successful connections. Traffic Relayed ↓ 12999 KB (3.61 KB/s), ↑ 4047 KB (1.12 KB/s).
+Jul 03 20:26:43 mac snowflake-proxy[862]: 2026/07/03 14:56:43 In the last 1h0m0s, there were 17 completed successful connections. Traffic Relayed ↓ 1510 KB (0.42 KB/s), ↑ 546 KB (0.15 KB/s).
+Jul 03 21:04:39 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Jul 03 21:04:39 mac systemd[1]: snowflake.service: Deactivated successfully.
+Jul 03 21:04:39 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Jul 03 21:04:39 mac systemd[1]: snowflake.service: Consumed 7min 57.467s CPU time over 14h 37min 56.723s wall clock time, 322.3M memory peak.
