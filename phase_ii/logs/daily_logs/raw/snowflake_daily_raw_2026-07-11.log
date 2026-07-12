@@ -1,0 +1,26 @@
+Jul 11 06:54:39 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 11 06:54:41 mac systemd[1]: Started Tor Snowflake Proxy.
+Jul 11 06:54:42 mac snowflake-proxy[872]: 2026/07/11 06:54:42 Using geoip file  /usr/share/tor/geoip  with checksum b08bfe286dc8f11f29aaceafb6f7ef0f5c771042
+Jul 11 06:54:42 mac snowflake-proxy[872]: 2026/07/11 06:54:42 Loaded  385602  entries into table
+Jul 11 06:54:42 mac snowflake-proxy[872]: 2026/07/11 06:54:42 Using geoip file  /usr/share/tor/geoip6  with checksum 9d85004fba941079cfe018f0599e6a337c4e45a1
+Jul 11 06:54:42 mac snowflake-proxy[872]: 2026/07/11 06:54:42 Loaded  276626  entries into table
+Jul 11 06:54:42 mac snowflake-proxy[872]: 2026/07/11 01:24:42 Proxy starting
+Jul 11 06:54:42 mac snowflake-proxy[872]: 2026/07/11 01:24:42 NAT type: unknown
+Jul 11 07:54:42 mac snowflake-proxy[872]: 2026/07/11 02:24:42 In the last 1h0m0s, there were 12 completed successful connections. Traffic Relayed ↓ 22545 KB (6.26 KB/s), ↑ 7845 KB (2.18 KB/s).
+Jul 11 08:54:42 mac snowflake-proxy[872]: 2026/07/11 03:24:42 In the last 1h0m0s, there were 9 completed successful connections. Traffic Relayed ↓ 2440 KB (0.68 KB/s), ↑ 491 KB (0.14 KB/s).
+Jul 11 09:54:42 mac snowflake-proxy[872]: 2026/07/11 04:24:42 In the last 1h0m0s, there were 24 completed successful connections. Traffic Relayed ↓ 11295 KB (3.14 KB/s), ↑ 2599 KB (0.72 KB/s).
+Jul 11 10:54:42 mac snowflake-proxy[872]: 2026/07/11 05:24:42 In the last 1h0m0s, there were 27 completed successful connections. Traffic Relayed ↓ 25793 KB (7.16 KB/s), ↑ 4731 KB (1.31 KB/s).
+Jul 11 11:54:42 mac snowflake-proxy[872]: 2026/07/11 06:24:42 In the last 1h0m0s, there were 36 completed successful connections. Traffic Relayed ↓ 35390 KB (9.83 KB/s), ↑ 6429 KB (1.79 KB/s).
+Jul 11 12:54:42 mac snowflake-proxy[872]: 2026/07/11 07:24:42 In the last 1h0m0s, there were 32 completed successful connections. Traffic Relayed ↓ 36028 KB (10.01 KB/s), ↑ 5931 KB (1.65 KB/s).
+Jul 11 13:54:42 mac snowflake-proxy[872]: 2026/07/11 08:24:42 In the last 1h0m0s, there were 28 completed successful connections. Traffic Relayed ↓ 59951 KB (16.65 KB/s), ↑ 6359 KB (1.77 KB/s).
+Jul 11 14:54:42 mac snowflake-proxy[872]: 2026/07/11 09:24:42 In the last 1h0m0s, there were 38 completed successful connections. Traffic Relayed ↓ 5959 KB (1.66 KB/s), ↑ 2237 KB (0.62 KB/s).
+Jul 11 15:54:42 mac snowflake-proxy[872]: 2026/07/11 10:24:42 In the last 1h0m0s, there were 34 completed successful connections. Traffic Relayed ↓ 12245 KB (3.40 KB/s), ↑ 4503 KB (1.25 KB/s).
+Jul 11 16:54:42 mac snowflake-proxy[872]: 2026/07/11 11:24:42 In the last 1h0m0s, there were 29 completed successful connections. Traffic Relayed ↓ 27141 KB (7.54 KB/s), ↑ 5037 KB (1.40 KB/s).
+Jul 11 17:54:42 mac snowflake-proxy[872]: 2026/07/11 12:24:42 In the last 1h0m0s, there were 17 completed successful connections. Traffic Relayed ↓ 58979 KB (16.38 KB/s), ↑ 12978 KB (3.60 KB/s).
+Jul 11 18:54:42 mac snowflake-proxy[872]: 2026/07/11 13:24:42 In the last 1h0m0s, there were 42 completed successful connections. Traffic Relayed ↓ 30899 KB (8.58 KB/s), ↑ 4225 KB (1.17 KB/s).
+Jul 11 19:54:42 mac snowflake-proxy[872]: 2026/07/11 14:24:42 In the last 1h0m0s, there were 21 completed successful connections. Traffic Relayed ↓ 40127 KB (11.15 KB/s), ↑ 6654 KB (1.85 KB/s).
+Jul 11 20:54:42 mac snowflake-proxy[872]: 2026/07/11 15:24:42 In the last 1h0m0s, there were 32 completed successful connections. Traffic Relayed ↓ 19355 KB (5.38 KB/s), ↑ 5060 KB (1.41 KB/s).
+Jul 11 21:49:49 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Jul 11 21:49:49 mac systemd[1]: snowflake.service: Deactivated successfully.
+Jul 11 21:49:49 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Jul 11 21:49:49 mac systemd[1]: snowflake.service: Consumed 15min 5.991s CPU time over 14h 55min 7.117s wall clock time, 296.1M memory peak.
