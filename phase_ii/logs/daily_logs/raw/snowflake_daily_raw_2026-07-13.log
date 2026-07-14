@@ -1,0 +1,48 @@
+Jul 13 05:46:17 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 13 05:46:20 mac systemd[1]: Started Tor Snowflake Proxy.
+Jul 13 05:46:20 mac snowflake-proxy[864]: 2026/07/13 05:46:20 Using geoip file  /usr/share/tor/geoip  with checksum b08bfe286dc8f11f29aaceafb6f7ef0f5c771042
+Jul 13 05:46:20 mac snowflake-proxy[864]: 2026/07/13 05:46:20 Loaded  385602  entries into table
+Jul 13 05:46:21 mac snowflake-proxy[864]: 2026/07/13 05:46:21 Using geoip file  /usr/share/tor/geoip6  with checksum 9d85004fba941079cfe018f0599e6a337c4e45a1
+Jul 13 05:46:21 mac snowflake-proxy[864]: 2026/07/13 05:46:21 Loaded  276626  entries into table
+Jul 13 05:46:21 mac snowflake-proxy[864]: 2026/07/13 00:16:21 Proxy starting
+Jul 13 05:46:21 mac snowflake-proxy[864]: 2026/07/13 00:16:21 NAT type: unknown
+Jul 13 05:50:28 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Jul 13 05:50:28 mac systemd[1]: snowflake.service: Deactivated successfully.
+Jul 13 05:50:28 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Jul 13 05:50:28 mac systemd[1]: snowflake.service: Consumed 465ms CPU time over 4min 8.143s wall clock time, 189.6M memory peak.
+-- Boot 3a147c2b29c24274b6d36e15d28a32d6 --
+Jul 13 12:59:38 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 13 12:59:40 mac systemd[1]: Started Tor Snowflake Proxy.
+Jul 13 12:59:41 mac snowflake-proxy[868]: 2026/07/13 12:59:41 Using geoip file  /usr/share/tor/geoip  with checksum b08bfe286dc8f11f29aaceafb6f7ef0f5c771042
+Jul 13 12:59:41 mac snowflake-proxy[868]: 2026/07/13 12:59:41 Loaded  385602  entries into table
+Jul 13 12:59:41 mac snowflake-proxy[868]: 2026/07/13 12:59:41 Using geoip file  /usr/share/tor/geoip6  with checksum 9d85004fba941079cfe018f0599e6a337c4e45a1
+Jul 13 12:59:41 mac snowflake-proxy[868]: 2026/07/13 12:59:41 Loaded  276626  entries into table
+Jul 13 12:59:41 mac snowflake-proxy[868]: 2026/07/13 07:29:41 Proxy starting
+Jul 13 12:59:41 mac snowflake-proxy[868]: 2026/07/13 07:29:41 NAT type: unknown
+Jul 13 13:59:41 mac snowflake-proxy[868]: 2026/07/13 08:29:41 In the last 1h0m0s, there were 28 completed successful connections. Traffic Relayed ↓ 14378 KB (3.99 KB/s), ↑ 3312 KB (0.92 KB/s).
+Jul 13 14:59:41 mac snowflake-proxy[868]: 2026/07/13 09:29:41 In the last 1h0m0s, there were 23 completed successful connections. Traffic Relayed ↓ 21812 KB (6.06 KB/s), ↑ 5179 KB (1.44 KB/s).
+Jul 13 15:59:41 mac snowflake-proxy[868]: 2026/07/13 10:29:41 In the last 1h0m0s, there were 19 completed successful connections. Traffic Relayed ↓ 19595 KB (5.44 KB/s), ↑ 4754 KB (1.32 KB/s).
+Jul 13 16:40:42 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 13 16:59:41 mac snowflake-proxy[868]: 2026/07/13 11:29:41 In the last 1h0m0s, there were 18 completed successful connections. Traffic Relayed ↓ 150939 KB (41.93 KB/s), ↑ 14152 KB (3.93 KB/s).
+Jul 13 17:06:35 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 13 17:23:07 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Jul 13 17:23:07 mac systemd[1]: snowflake.service: Deactivated successfully.
+Jul 13 17:23:07 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Jul 13 17:23:07 mac systemd[1]: snowflake.service: Consumed 4min 19.771s CPU time over 4h 23min 26.185s wall clock time, 302.6M memory peak.
+-- Boot fca8cd18b3ff46c08a658852da4f8410 --
+Jul 13 17:23:30 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 13 17:23:33 mac systemd[1]: Started Tor Snowflake Proxy.
+Jul 13 17:23:33 mac snowflake-proxy[860]: 2026/07/13 17:23:33 Using geoip file  /usr/share/tor/geoip  with checksum b08bfe286dc8f11f29aaceafb6f7ef0f5c771042
+Jul 13 17:23:33 mac snowflake-proxy[860]: 2026/07/13 17:23:33 Loaded  385602  entries into table
+Jul 13 17:23:33 mac snowflake-proxy[860]: 2026/07/13 17:23:33 Using geoip file  /usr/share/tor/geoip6  with checksum 9d85004fba941079cfe018f0599e6a337c4e45a1
+Jul 13 17:23:33 mac snowflake-proxy[860]: 2026/07/13 17:23:33 Loaded  276626  entries into table
+Jul 13 17:23:33 mac snowflake-proxy[860]: 2026/07/13 11:53:33 Proxy starting
+Jul 13 17:23:33 mac snowflake-proxy[860]: 2026/07/13 11:53:33 NAT type: unknown
+Jul 13 17:28:13 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 13 18:23:33 mac snowflake-proxy[860]: 2026/07/13 12:53:33 In the last 1h0m0s, there were 22 completed successful connections. Traffic Relayed ↓ 25934 KB (7.20 KB/s), ↑ 17275 KB (4.80 KB/s).
+Jul 13 19:23:33 mac snowflake-proxy[860]: 2026/07/13 13:53:33 In the last 1h0m0s, there were 22 completed successful connections. Traffic Relayed ↓ 19428 KB (5.40 KB/s), ↑ 2941 KB (0.82 KB/s).
+Jul 13 20:23:33 mac snowflake-proxy[860]: 2026/07/13 14:53:33 In the last 1h0m0s, there were 33 completed successful connections. Traffic Relayed ↓ 103257 KB (28.68 KB/s), ↑ 10067 KB (2.80 KB/s).
+Jul 13 20:40:24 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Jul 13 20:40:24 mac systemd[1]: snowflake.service: Deactivated successfully.
+Jul 13 20:40:24 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Jul 13 20:40:24 mac systemd[1]: snowflake.service: Consumed 3min 55.143s CPU time over 3h 16min 51.226s wall clock time, 309.3M memory peak.
