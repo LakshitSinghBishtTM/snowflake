@@ -1,0 +1,27 @@
+Jul 18 07:24:31 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 18 07:24:34 mac systemd[1]: Started Tor Snowflake Proxy.
+Jul 18 07:24:34 mac snowflake-proxy[838]: 2026/07/18 07:24:34 Using geoip file  /usr/share/tor/geoip  with checksum b08bfe286dc8f11f29aaceafb6f7ef0f5c771042
+Jul 18 07:24:34 mac snowflake-proxy[838]: 2026/07/18 07:24:34 Loaded  385602  entries into table
+Jul 18 07:24:34 mac snowflake-proxy[838]: 2026/07/18 07:24:34 Using geoip file  /usr/share/tor/geoip6  with checksum 9d85004fba941079cfe018f0599e6a337c4e45a1
+Jul 18 07:24:34 mac snowflake-proxy[838]: 2026/07/18 07:24:34 Loaded  276626  entries into table
+Jul 18 07:24:34 mac snowflake-proxy[838]: 2026/07/18 01:54:34 Proxy starting
+Jul 18 07:24:34 mac snowflake-proxy[838]: 2026/07/18 01:54:34 NAT type: unknown
+Jul 18 08:24:34 mac snowflake-proxy[838]: 2026/07/18 02:54:34 In the last 1h0m0s, there were 0 completed successful connections. Traffic Relayed ↓ 0 KB (0.00 KB/s), ↑ 0 KB (0.00 KB/s).
+Jul 18 08:41:51 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Jul 18 08:41:51 mac systemd[1]: snowflake.service: Deactivated successfully.
+Jul 18 08:41:51 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Jul 18 08:41:51 mac systemd[1]: snowflake.service: Consumed 3.740s CPU time over 1h 17min 17.313s wall clock time, 185.5M memory peak, 101M memory swap peak.
+-- Boot 24656030138e4572801bae30eee40397 --
+Jul 18 19:13:15 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Jul 18 19:13:17 mac systemd[1]: Started Tor Snowflake Proxy.
+Jul 18 19:13:18 mac snowflake-proxy[861]: 2026/07/18 19:13:18 Using geoip file  /usr/share/tor/geoip  with checksum b08bfe286dc8f11f29aaceafb6f7ef0f5c771042
+Jul 18 19:13:18 mac snowflake-proxy[861]: 2026/07/18 19:13:18 Loaded  385602  entries into table
+Jul 18 19:13:18 mac snowflake-proxy[861]: 2026/07/18 19:13:18 Using geoip file  /usr/share/tor/geoip6  with checksum 9d85004fba941079cfe018f0599e6a337c4e45a1
+Jul 18 19:13:18 mac snowflake-proxy[861]: 2026/07/18 19:13:18 Loaded  276626  entries into table
+Jul 18 19:13:18 mac snowflake-proxy[861]: 2026/07/18 13:43:18 Proxy starting
+Jul 18 19:13:18 mac snowflake-proxy[861]: 2026/07/18 13:43:18 NAT type: unknown
+Jul 18 20:13:18 mac snowflake-proxy[861]: 2026/07/18 14:43:18 In the last 1h0m0s, there were 20 completed successful connections. Traffic Relayed ↓ 43276 KB (12.02 KB/s), ↑ 6349 KB (1.76 KB/s).
+Jul 18 21:13:18 mac snowflake-proxy[861]: 2026/07/18 15:43:18 In the last 1h0m0s, there were 32 completed successful connections. Traffic Relayed ↓ 19993 KB (5.55 KB/s), ↑ 5521 KB (1.53 KB/s).
+Jul 18 22:13:18 mac snowflake-proxy[861]: 2026/07/18 16:43:18 In the last 1h0m0s, there were 16 completed successful connections. Traffic Relayed ↓ 9072 KB (2.52 KB/s), ↑ 4356 KB (1.21 KB/s).
+Jul 18 22:44:36 mac snowflake-proxy[861]: ortc ERROR: 2026/07/18 22:44:36 Failed to accept data channel: [0x465c9386dc8] abort chunk, with following errors: (User Initiated Abort: )
+Jul 18 23:13:18 mac snowflake-proxy[861]: 2026/07/18 17:43:18 In the last 1h0m0s, there were 21 completed successful connections. Traffic Relayed ↓ 8611 KB (2.39 KB/s), ↑ 3827 KB (1.06 KB/s).
