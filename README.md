@@ -12,7 +12,7 @@ For running Snowflake and/or other bridges, please visit https://torproject.org 
 - Modularisation of infra for better separation
 - Proper documentation for running Snowflake
 - Continuously updated dataset
-- Four months of collected data (ongoing)
+- Six months of collected data (ongoing)
 - Data collected across multiple operating systems, networks and locations
 - Raw logs preserved in their original form and not modified, edited, or sanitized after collection
 - Data collected from a real-world self-hosted deployment
