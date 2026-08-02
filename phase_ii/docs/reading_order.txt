@@ -8,10 +8,8 @@
 4. scripts.txt
 5. cron.txt
 6. systemd_logging.txt
-
-## Note
-
-Following can be read as supplementary without any strict order
-
-1. output.txt
-2. duration.txt
+7. output.txt
+8. duration.txt
+9. downtime.txt
+10. lostdata.txt
+11. distribution_manual.txt
