@@ -1,0 +1,25 @@
+Aug 02 07:30:55 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Aug 02 07:30:58 mac systemd[1]: Started Tor Snowflake Proxy.
+Aug 02 07:30:58 mac snowflake-proxy[871]: 2026/08/02 07:30:58 Using geoip file  /usr/share/tor/geoip  with checksum b08bfe286dc8f11f29aaceafb6f7ef0f5c771042
+Aug 02 07:30:58 mac snowflake-proxy[871]: 2026/08/02 07:30:58 Loaded  385602  entries into table
+Aug 02 07:30:58 mac snowflake-proxy[871]: 2026/08/02 07:30:58 Using geoip file  /usr/share/tor/geoip6  with checksum 9d85004fba941079cfe018f0599e6a337c4e45a1
+Aug 02 07:30:58 mac snowflake-proxy[871]: 2026/08/02 07:30:58 Loaded  276626  entries into table
+Aug 02 07:30:58 mac snowflake-proxy[871]: 2026/08/02 02:00:58 Proxy starting
+Aug 02 07:30:58 mac snowflake-proxy[871]: 2026/08/02 02:00:58 NAT type: unknown
+Aug 02 08:20:38 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Aug 02 08:30:58 mac snowflake-proxy[871]: 2026/08/02 03:00:58 In the last 1h0m0s, there were 23 completed successful connections. Traffic Relayed ↓ 209553 KB (58.21 KB/s), ↑ 16733 KB (4.65 KB/s).
+Aug 02 09:30:58 mac snowflake-proxy[871]: 2026/08/02 04:00:58 In the last 1h0m0s, there were 22 completed successful connections. Traffic Relayed ↓ 242747 KB (67.43 KB/s), ↑ 23029 KB (6.40 KB/s).
+Aug 02 10:30:58 mac snowflake-proxy[871]: 2026/08/02 05:00:58 In the last 1h0m0s, there were 12 completed successful connections. Traffic Relayed ↓ 22673 KB (6.30 KB/s), ↑ 4299 KB (1.19 KB/s).
+Aug 02 11:30:58 mac snowflake-proxy[871]: 2026/08/02 06:00:58 In the last 1h0m0s, there were 17 completed successful connections. Traffic Relayed ↓ 214747 KB (59.65 KB/s), ↑ 13956 KB (3.88 KB/s).
+Aug 02 12:30:58 mac snowflake-proxy[871]: 2026/08/02 07:00:58 In the last 1h0m0s, there were 21 completed successful connections. Traffic Relayed ↓ 323247 KB (89.79 KB/s), ↑ 19722 KB (5.48 KB/s).
+Aug 02 13:30:58 mac snowflake-proxy[871]: 2026/08/02 08:00:58 In the last 1h0m0s, there were 18 completed successful connections. Traffic Relayed ↓ 75855 KB (21.07 KB/s), ↑ 9800 KB (2.72 KB/s).
+Aug 02 14:30:58 mac snowflake-proxy[871]: 2026/08/02 09:00:58 In the last 1h0m0s, there were 17 completed successful connections. Traffic Relayed ↓ 48841 KB (13.57 KB/s), ↑ 13301 KB (3.69 KB/s).
+Aug 02 15:30:58 mac snowflake-proxy[871]: 2026/08/02 10:00:58 In the last 1h0m0s, there were 10 completed successful connections. Traffic Relayed ↓ 43147 KB (11.99 KB/s), ↑ 8657 KB (2.40 KB/s).
+Aug 02 16:30:58 mac snowflake-proxy[871]: 2026/08/02 11:00:58 In the last 1h0m0s, there were 18 completed successful connections. Traffic Relayed ↓ 99602 KB (27.67 KB/s), ↑ 10219 KB (2.84 KB/s).
+Aug 02 17:30:58 mac snowflake-proxy[871]: 2026/08/02 12:00:58 In the last 1h0m0s, there were 18 completed successful connections. Traffic Relayed ↓ 5143 KB (1.43 KB/s), ↑ 1348 KB (0.37 KB/s).
+Aug 02 18:30:58 mac snowflake-proxy[871]: 2026/08/02 13:00:58 In the last 1h0m0s, there were 5 completed successful connections. Traffic Relayed ↓ 2329 KB (0.65 KB/s), ↑ 2034 KB (0.56 KB/s).
+Aug 02 19:30:58 mac snowflake-proxy[871]: 2026/08/02 14:00:58 In the last 1h0m0s, there were 11 completed successful connections. Traffic Relayed ↓ 81897 KB (22.75 KB/s), ↑ 8516 KB (2.37 KB/s).
+Aug 02 20:30:58 mac snowflake-proxy[871]: 2026/08/02 15:00:58 In the last 1h0m0s, there were 18 completed successful connections. Traffic Relayed ↓ 130965 KB (36.38 KB/s), ↑ 6596 KB (1.83 KB/s).
+Aug 02 21:30:58 mac snowflake-proxy[871]: 2026/08/02 16:00:58 In the last 1h0m0s, there were 20 completed successful connections. Traffic Relayed ↓ 110009 KB (30.56 KB/s), ↑ 6532 KB (1.81 KB/s).
+Aug 02 22:30:58 mac snowflake-proxy[871]: 2026/08/02 17:00:58 In the last 1h0m0s, there were 9 completed successful connections. Traffic Relayed ↓ 359643 KB (99.90 KB/s), ↑ 14777 KB (4.10 KB/s).
+Aug 02 23:30:58 mac snowflake-proxy[871]: 2026/08/02 18:00:58 In the last 1h0m0s, there were 19 completed successful connections. Traffic Relayed ↓ 224146 KB (62.26 KB/s), ↑ 11999 KB (3.33 KB/s).
