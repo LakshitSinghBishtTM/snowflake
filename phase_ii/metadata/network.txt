@@ -6,7 +6,20 @@
 Network - 4G
 Connection - Prepaid (Sim)
 Use Type - Mobile hotspot
-Speed - Max. 2MB/s
+Speed - Max. 16mbps (2MB/s)
 Nat Type - Restricted
 Limit - 2.5 GB per day
 IPv6 - No```
+
+# Date: 02/08/2026 & Time: 08:00
+
+```ISP         - BSNL (National Internet Backbone, AS9829)
+Connection  - Campus Wi-Fi
+Use Type    - Wi-Fi
+Band        - 5 GHz (5180 MHz, Channel 36, 80 MHz)
+Link Speed  - RX: 864.8 Mbps, TX: 432.3 Mbps
+Internet    - ~500 Mbps (measured)
+Signal      - -57 dBm
+NAT Type    - Restricted
+Limit       - None observed
+IPv6        - No```
