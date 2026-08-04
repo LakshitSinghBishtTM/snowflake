@@ -1,4 +1,5 @@
-*.log.gz
-*.tar.gz
-*.log.xz
-*.tar.xz
+# gitignore
+
+# ---
+# None
+# ---
