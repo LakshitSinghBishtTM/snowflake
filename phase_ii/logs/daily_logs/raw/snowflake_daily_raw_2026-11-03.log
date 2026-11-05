@@ -1,0 +1,38 @@
+Nov 03 00:32:51 mac snowflake-proxy[890]: 2026/11/02 19:02:51 In the last 1h0m0s, there were 11 completed successful connections. Traffic Relayed ↓ 203880 KB (56.63 KB/s), ↑ 13487 KB (3.75 KB/s).
+Nov 03 01:32:51 mac snowflake-proxy[890]: 2026/11/02 20:02:51 In the last 1h0m0s, there were 17 completed successful connections. Traffic Relayed ↓ 179805 KB (49.95 KB/s), ↑ 15424 KB (4.28 KB/s).
+Nov 03 02:32:51 mac snowflake-proxy[890]: 2026/11/02 21:02:51 In the last 1h0m0s, there were 19 completed successful connections. Traffic Relayed ↓ 457295 KB (127.03 KB/s), ↑ 26994 KB (7.50 KB/s).
+Nov 03 03:32:51 mac snowflake-proxy[890]: 2026/11/02 22:02:51 In the last 1h0m0s, there were 13 completed successful connections. Traffic Relayed ↓ 524441 KB (145.68 KB/s), ↑ 26763 KB (7.43 KB/s).
+Nov 03 04:32:51 mac snowflake-proxy[890]: 2026/11/02 23:02:51 In the last 1h0m0s, there were 6 completed successful connections. Traffic Relayed ↓ 865899 KB (240.53 KB/s), ↑ 40025 KB (11.12 KB/s).
+Nov 03 04:58:35 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Nov 03 04:58:35 mac systemd[1]: snowflake.service: Deactivated successfully.
+Nov 03 04:58:35 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Nov 03 04:58:35 mac systemd[1]: snowflake.service: Consumed 23min 46.274s CPU time over 8h 25min 43.698s wall clock time, 296.5M memory peak.
+-- Boot 457046c727df4e1ca72a758991843a14 --
+Nov 03 16:49:37 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Nov 03 16:49:39 mac systemd[1]: Started Tor Snowflake Proxy.
+Nov 03 16:49:39 mac snowflake-proxy[845]: 2026/11/03 16:49:39 Using geoip file  /usr/share/tor/geoip  with checksum c7a2798c525229d31ff5f66a2367666e338ff190
+Nov 03 16:49:39 mac snowflake-proxy[845]: 2026/11/03 16:49:39 Loaded  397660  entries into table
+Nov 03 16:49:39 mac snowflake-proxy[845]: 2026/11/03 16:49:39 Using geoip file  /usr/share/tor/geoip6  with checksum b9f88dad44467864f457fc74597f1c8d629eee51
+Nov 03 16:49:39 mac snowflake-proxy[845]: 2026/11/03 16:49:39 Loaded  286831  entries into table
+Nov 03 16:49:39 mac snowflake-proxy[845]: 2026/11/03 11:19:39 Proxy starting
+Nov 03 16:49:39 mac snowflake-proxy[845]: 2026/11/03 11:19:39 NAT type: unknown
+Nov 03 16:54:39 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Nov 03 16:58:06 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Nov 03 16:58:15 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Nov 03 16:58:15 mac systemd[1]: snowflake.service: Deactivated successfully.
+Nov 03 16:58:15 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Nov 03 16:58:15 mac systemd[1]: snowflake.service: Consumed 2.411s CPU time over 8min 36.431s wall clock time, 205.3M memory peak.
+-- Boot bdc7c7b8c82b48f2966b9c3088698fde --
+Nov 03 16:58:44 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Nov 03 16:58:46 mac systemd[1]: Started Tor Snowflake Proxy.
+Nov 03 16:58:46 mac snowflake-proxy[883]: 2026/11/03 16:58:46 Using geoip file  /usr/share/tor/geoip  with checksum c7a2798c525229d31ff5f66a2367666e338ff190
+Nov 03 16:58:46 mac snowflake-proxy[883]: 2026/11/03 16:58:46 Loaded  397660  entries into table
+Nov 03 16:58:46 mac snowflake-proxy[883]: 2026/11/03 16:58:46 Using geoip file  /usr/share/tor/geoip6  with checksum b9f88dad44467864f457fc74597f1c8d629eee51
+Nov 03 16:58:46 mac snowflake-proxy[883]: 2026/11/03 16:58:46 Loaded  286831  entries into table
+Nov 03 16:58:46 mac snowflake-proxy[883]: 2026/11/03 11:28:46 Proxy starting
+Nov 03 16:58:46 mac snowflake-proxy[883]: 2026/11/03 11:28:46 NAT type: unknown
+Nov 03 17:58:46 mac snowflake-proxy[883]: 2026/11/03 12:28:46 In the last 1h0m0s, there were 19 completed successful connections. Traffic Relayed ↓ 16435 KB (4.57 KB/s), ↑ 4107 KB (1.14 KB/s).
+Nov 03 18:15:38 mac systemd[1]: Stopping Tor Snowflake Proxy...
+Nov 03 18:15:38 mac systemd[1]: snowflake.service: Deactivated successfully.
+Nov 03 18:15:38 mac systemd[1]: Stopped Tor Snowflake Proxy.
+Nov 03 18:15:38 mac systemd[1]: snowflake.service: Consumed 1min 18.852s CPU time over 1h 16min 51.877s wall clock time, 276.1M memory peak.
