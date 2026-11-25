@@ -1,0 +1,28 @@
+Nov 18 00:48:37 mac snowflake-proxy[894]: 2026/11/17 19:18:37 In the last 1h0m0s, there were 27 completed successful connections. Traffic Relayed ↓ 64708 KB (17.97 KB/s), ↑ 11599 KB (3.22 KB/s).
+Nov 18 01:48:37 mac snowflake-proxy[894]: 2026/11/17 20:18:37 In the last 1h0m0s, there were 13 completed successful connections. Traffic Relayed ↓ 221553 KB (61.54 KB/s), ↑ 16012 KB (4.45 KB/s).
+Nov 18 02:48:37 mac snowflake-proxy[894]: 2026/11/17 21:18:37 In the last 1h0m0s, there were 20 completed successful connections. Traffic Relayed ↓ 155044 KB (43.07 KB/s), ↑ 10914 KB (3.03 KB/s).
+Nov 18 03:48:37 mac snowflake-proxy[894]: 2026/11/17 22:18:37 In the last 1h0m0s, there were 3 completed successful connections. Traffic Relayed ↓ 73189 KB (20.33 KB/s), ↑ 9638 KB (2.68 KB/s).
+Nov 18 04:48:37 mac snowflake-proxy[894]: 2026/11/17 23:18:37 In the last 1h0m0s, there were 7 completed successful connections. Traffic Relayed ↓ 33286 KB (9.25 KB/s), ↑ 7669 KB (2.13 KB/s).
+Nov 18 05:48:37 mac snowflake-proxy[894]: 2026/11/18 00:18:37 In the last 1h0m0s, there were 11 completed successful connections. Traffic Relayed ↓ 143124 KB (39.76 KB/s), ↑ 13006 KB (3.61 KB/s).
+Nov 18 06:48:37 mac snowflake-proxy[894]: 2026/11/18 01:18:37 In the last 1h0m0s, there were 13 completed successful connections. Traffic Relayed ↓ 50904 KB (14.14 KB/s), ↑ 8962 KB (2.49 KB/s).
+Nov 18 07:48:37 mac snowflake-proxy[894]: 2026/11/18 02:18:37 In the last 1h0m0s, there were 12 completed successful connections. Traffic Relayed ↓ 171849 KB (47.74 KB/s), ↑ 20892 KB (5.80 KB/s).
+Nov 18 08:48:37 mac snowflake-proxy[894]: 2026/11/18 03:18:37 In the last 1h0m0s, there were 20 completed successful connections. Traffic Relayed ↓ 165702 KB (46.03 KB/s), ↑ 8466 KB (2.35 KB/s).
+Nov 18 09:48:37 mac snowflake-proxy[894]: 2026/11/18 04:18:37 In the last 1h0m0s, there were 24 completed successful connections. Traffic Relayed ↓ 85583 KB (23.77 KB/s), ↑ 6798 KB (1.89 KB/s).
+Nov 18 10:48:37 mac snowflake-proxy[894]: 2026/11/18 05:18:37 In the last 1h0m0s, there were 11 completed successful connections. Traffic Relayed ↓ 164963 KB (45.82 KB/s), ↑ 13950 KB (3.88 KB/s).
+Nov 18 11:37:25 mac snowflake-proxy[894]: mux ERROR: 2026/11/18 11:37:25 mux: failed to read from packetio.Buffer short buffer
+Nov 18 11:37:25 mac snowflake-proxy[894]: mux ERROR: 2026/11/18 11:37:25 mux: failed to read from packetio.Buffer short buffer
+Nov 18 11:37:26 mac snowflake-proxy[894]: mux ERROR: 2026/11/18 11:37:26 mux: failed to read from packetio.Buffer short buffer
+Nov 18 11:48:37 mac snowflake-proxy[894]: 2026/11/18 06:18:37 In the last 1h0m0s, there were 21 completed successful connections. Traffic Relayed ↓ 997802 KB (277.17 KB/s), ↑ 51612 KB (14.34 KB/s).
+Nov 18 12:48:37 mac snowflake-proxy[894]: 2026/11/18 07:18:37 In the last 1h0m0s, there were 6 completed successful connections. Traffic Relayed ↓ 758621 KB (210.73 KB/s), ↑ 34258 KB (9.52 KB/s).
+Nov 18 13:48:37 mac snowflake-proxy[894]: 2026/11/18 08:18:37 In the last 1h0m0s, there were 6 completed successful connections. Traffic Relayed ↓ 495489 KB (137.64 KB/s), ↑ 19395 KB (5.39 KB/s).
+Nov 18 14:48:37 mac snowflake-proxy[894]: 2026/11/18 09:18:37 In the last 1h0m0s, there were 17 completed successful connections. Traffic Relayed ↓ 104170 KB (28.94 KB/s), ↑ 5095 KB (1.42 KB/s).
+Nov 18 15:48:37 mac snowflake-proxy[894]: 2026/11/18 10:18:37 In the last 1h0m0s, there were 18 completed successful connections. Traffic Relayed ↓ 175849 KB (48.85 KB/s), ↑ 18563 KB (5.16 KB/s).
+Nov 18 16:48:37 mac snowflake-proxy[894]: 2026/11/18 11:18:37 In the last 1h0m0s, there were 12 completed successful connections. Traffic Relayed ↓ 86289 KB (23.97 KB/s), ↑ 12045 KB (3.35 KB/s).
+Nov 18 17:48:37 mac snowflake-proxy[894]: 2026/11/18 12:18:37 In the last 1h0m0s, there were 20 completed successful connections. Traffic Relayed ↓ 87638 KB (24.34 KB/s), ↑ 22618 KB (6.28 KB/s).
+Nov 18 18:30:11 mac systemd[1]: /etc/systemd/system/snowflake.service:10: Special user nobody configured, this is not safe!
+Nov 18 18:48:37 mac snowflake-proxy[894]: 2026/11/18 13:18:37 In the last 1h0m0s, there were 14 completed successful connections. Traffic Relayed ↓ 140016 KB (38.89 KB/s), ↑ 8763 KB (2.43 KB/s).
+Nov 18 19:48:37 mac snowflake-proxy[894]: 2026/11/18 14:18:37 In the last 1h0m0s, there were 7 completed successful connections. Traffic Relayed ↓ 265378 KB (73.72 KB/s), ↑ 25127 KB (6.98 KB/s).
+Nov 18 20:48:37 mac snowflake-proxy[894]: 2026/11/18 15:18:37 In the last 1h0m0s, there were 18 completed successful connections. Traffic Relayed ↓ 113985 KB (31.66 KB/s), ↑ 10505 KB (2.92 KB/s).
+Nov 18 21:48:37 mac snowflake-proxy[894]: 2026/11/18 16:18:37 In the last 1h0m0s, there were 18 completed successful connections. Traffic Relayed ↓ 6456 KB (1.79 KB/s), ↑ 2324 KB (0.65 KB/s).
+Nov 18 22:48:37 mac snowflake-proxy[894]: 2026/11/18 17:18:37 In the last 1h0m0s, there were 19 completed successful connections. Traffic Relayed ↓ 15415 KB (4.28 KB/s), ↑ 4257 KB (1.18 KB/s).
+Nov 18 23:48:37 mac snowflake-proxy[894]: 2026/11/18 18:18:37 In the last 1h0m0s, there were 5 completed successful connections. Traffic Relayed ↓ 83050 KB (23.07 KB/s), ↑ 8066 KB (2.24 KB/s).
